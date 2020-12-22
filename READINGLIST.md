@@ -1,8 +1,8 @@
 ## Revision History
 
-| Date | Note |
-|---|---|
-|22.12.2020| Created. |
+| Date | Author | Description |
+|---|---|---|
+| 22.12.2020 | numbworks | Created. |
 
 ## Reading List
 

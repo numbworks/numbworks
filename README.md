@@ -1,9 +1,9 @@
 ## Revision History
 
-| Date | Note |
-|---|---|
-|21.12.2020| Created. |
-|22.12.2020| Moved "Reading List" to a separate file. |
+| Date | Author | Description |
+|---|---|---|
+| 21.12.2020 | numbworks | Created. |
+| 22.12.2020 | numbworks | Moved "Reading List" to a separate file. |
 
 ## Who's numbworks?
 
