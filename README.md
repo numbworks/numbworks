@@ -2,8 +2,8 @@
 
 | Date | Author | Description |
 |---|---|---|
-| 21.12.2020 | numbworks | Created. |
-| 22.12.2020 | numbworks | Moved "Reading List" to a separate file. |
+| 2020-12-21 | numbworks | Created. |
+| 2020-12-22 | numbworks | Moved "Reading List" to a separate file. |
 
 ## Who's numbworks?
 

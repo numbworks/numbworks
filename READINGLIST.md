@@ -2,7 +2,7 @@
 
 | Date | Author | Description |
 |---|---|---|
-| 22.12.2020 | numbworks | Created. |
+| 2020-12-22 | numbworks | Created. |
 
 ## Reading List
 
