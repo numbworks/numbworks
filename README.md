@@ -5,6 +5,15 @@
 | 2020-12-21 | numbworks | Created. |
 | 2020-12-22 | numbworks | Moved "Reading List" to a separate file. |
 | 2020-12-24 | numbworks | Added "Studying Activity, Books". |
+| 2020-12-28 | numbworks | Added "Repositories". Moved two tables to a separate files. |
+
+## Repositories
+
+| Name | Type | Code Coverage |
+|---|---|---|
+| [NW.MarkdownTables](https://github.com/numbworks/NW.MarkdownTables) | Software Library | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/NW.MarkdownTables/master/codecoverage.svg) |
+| [NW.UnivariateForecasting](https://github.com/numbworks/NW.UnivariateForecasting) | Software Library | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/NW.UnivariateForecasting/main/codecoverage.svg) |
+| [i3_eink_config](https://github.com/numbworks/i3_eink_config) | Configuration File | n/a |
 
 ## Who's numbworks?
 
@@ -49,7 +58,7 @@ The scope of this `Github account` is to share some of these `side projects`.
 |<sub>12</sub>|<sub>11 (3019)</sub>|<sub>0 (0)</sub>|<sub>15 (5236)</sub>|<sub>0 (0)</sub>|<sub>1 (435)</sub>||
 |<sub>Total</sub>|<sub>43 (12322)</sub>|<sub>63 (18726)</sub>|<sub>48 (12646)</sub>|<sub>42 (9952)</sub>|<sub>23 (6602)</sub>||
 
-Schema: Books (Pages)
+Schema: Books (*Pages*)
 
 ## Reading List By Topic
 
@@ -79,66 +88,12 @@ Schema: Books (Pages)
 
 ## Reading List By Rating
 
-|<sub>Rating</sub>|<sub>Books</sub>|
-|---|---|
-|<sub>★★★★★</sub>|<sub>9</sub>|
-|<sub>★★★★☆</sub>|<sub>27</sub>|
-|<sub>★★★☆☆</sub>|<sub>84</sub>|
-|<sub>★★☆☆☆</sub>|<sub>108</sub>|
-|<sub>★☆☆☆☆</sub>|<sub>81</sub>|
+Available here: [READINGLISTBYRATING.md](READINGLISTBYRATING.md).
 
 ## Reading List By Publisher
 
-|<sub>Publisher</sub>|<sub>Books</sub>|<sub>AvgRating</sub>|<sub>Worthy?</sub>|
-|---|---|---|---|
-|<sub>O'Reilly</sub>|<sub>33</sub>|<sub>2,15</sub>||
-|<sub>Syncfusion</sub>|<sub>29</sub>|<sub>2,69</sub>|<sub>←</sub>|
-|<sub>Packt</sub>|<sub>26</sub>|<sub>1,96</sub>||
-|<sub>Apress</sub>|<sub>25</sub>|<sub>2,24</sub>||
-|<sub>Addison-Wesley</sub>|<sub>16</sub>|<sub>2,19</sub>||
-|<sub>Manning</sub>|<sub>9</sub>|<sub>3,11</sub>|<sub>←</sub>|
-|<sub>Wiley</sub>|<sub>9</sub>|<sub>2,78</sub>|<sub>←</sub>|
-|<sub>Microsoft Press</sub>|<sub>9</sub>|<sub>2,22</sub>||
-|<sub>Self-Published</sub>|<sub>7</sub>|<sub>3</sub>||
-|<sub>Prentice Hall</sub>|<sub>4</sub>|<sub>2,25</sub>||
-|<sub>Leanpub</sub>|<sub>4</sub>|<sub>1,5</sub>||
-|<sub>Pearson Education</sub>|<sub>3</sub>|<sub>3</sub>||
-|<sub>Wrox</sub>|<sub>3</sub>|<sub>2,33</sub>||
-|<sub>Cambridge University Press</sub>|<sub>3</sub>|<sub>2,33</sub>||
-|<sub>Morgan Kaufmann</sub>|<sub>2</sub>|<sub>3</sub>||
-|<sub>Red gate books</sub>|<sub>2</sub>|<sub>2,5</sub>||
-|<sub>Lulu.com</sub>|<sub>2</sub>|<sub>2,5</sub>||
-|<sub>Goalkicker.com</sub>|<sub>2</sub>|<sub>2</sub>||
-|<sub>Sams Publishing</sub>|<sub>2</sub>|<sub>1,5</sub>||
-|<sub>Maker Media, Inc</sub>|<sub>1</sub>|<sub>4</sub>||
-|<sub>PulpFree Press</sub>|<sub>1</sub>|<sub>3</sub>||
-|<sub>Dot Net Curry</sub>|<sub>1</sub>|<sub>3</sub>||
-|<sub>Sourcemaking.com</sub>|<sub>1</sub>|<sub>3</sub>||
-|<sub>Sybex</sub>|<sub>1</sub>|<sub>3</sub>||
-|<sub>Butterworth-Heinemann</sub>|<sub>1</sub>|<sub>2</sub>||
-|<sub>Springer</sub>|<sub>1</sub>|<sub>2</sub>||
-|<sub>Bleeding Edge Press</sub>|<sub>1</sub>|<sub>2</sub>||
-|<sub>Effective Bookshelf</sub>|<sub>1</sub>|<sub>2</sub>||
-|<sub>Radacad Systems Ltd</sub>|<sub>1</sub>|<sub>2</sub>||
-|<sub>Penguin Random House</sub>|<sub>1</sub>|<sub>2</sub>||
-|<sub>Black Dog Media</sub>|<sub>1</sub>|<sub>2</sub>||
-|<sub>MIT Press</sub>|<sub>1</sub>|<sub>2</sub>||
-|<sub>McGraw Hill</sub>|<sub>1</sub>|<sub>2</sub>||
-|<sub>Penguin Books</sub>|<sub>1</sub>|<sub>2</sub>||
-|<sub>Hachette</sub>|<sub>1</sub>|<sub>2</sub>||
-|<sub>Kogan Page</sub>|<sub>1</sub>|<sub>2</sub>||
-|<sub>Pragmatic Bookshelf</sub>|<sub>1</sub>|<sub>2</sub>||
-|<sub>SQLPerformance.com</sub>|<sub>1</sub>|<sub>2</sub>||
-|<sub>Evermore</sub>|<sub>1</sub>|<sub>1</sub>||
-|<sub>Oxford University Press</sub>|<sub>1</sub>|<sub>1</sub>||
-|<sub>CareerCup</sub>|<sub>1</sub>|<sub>1</sub>||
-|<sub>No Starch Press</sub>|<sub>1</sub>|<sub>1</sub>||
-|<sub>CreateSpace</sub>|<sub>1</sub>|<sub>1</sub>||
-|<sub>Momentum Press</sub>|<sub>1</sub>|<sub>1</sub>||
-|<sub>DEG Press</sub>|<sub>1</sub>|<sub>1</sub>||
-|<sub>TakeSmartNotes.com</sub>|<sub>1</sub>|<sub>1</sub>||
-|<sub>InfoWorld.com</sub>|<sub>1</sub>|<sub>1</sub>||
+Available here: [READINGLISTBYPUBLISHER.md](READINGLISTBYPUBLISHER.md).
 
 ## Reading List
 
-The complete reading list is available here: [READINGLIST.md](READINGLIST.md).
+Available here: [READINGLIST.md](READINGLIST.md).
