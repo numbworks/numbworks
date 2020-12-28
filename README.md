@@ -9,11 +9,11 @@
 
 ## Repositories
 
-| Name | Type | Code Coverage |
-|---|---|---|
-| [NW.MarkdownTables](https://github.com/numbworks/NW.MarkdownTables) | Software Library | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/NW.MarkdownTables/master/codecoverage.svg) |
-| [NW.UnivariateForecasting](https://github.com/numbworks/NW.UnivariateForecasting) | Software Library | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/NW.UnivariateForecasting/main/codecoverage.svg) |
-| [i3_eink_config](https://github.com/numbworks/i3_eink_config) | Configuration File | n/a |
+| Name | Type | Getting Started | License | Code Coverage |
+|---|---|---|---|---|
+| [NW.MarkdownTables](https://github.com/numbworks/NW.MarkdownTables) | Software Library | [Documentation](https://github.com/numbworks/NW.MarkdownTables/blob/master/docs/Documentation-NW.MarkdownTables.md) | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/NW.MarkdownTables/master/codecoverage.svg) |
+| [NW.UnivariateForecasting](https://github.com/numbworks/NW.UnivariateForecasting) | Software Library | [Documentation](https://github.com/numbworks/NW.UnivariateForecasting/blob/main/docs/Documentation-NW.UnivariateForecasting.md) | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/NW.UnivariateForecasting/main/codecoverage.svg) |
+| [i3_eink_config](https://github.com/numbworks/i3_eink_config) | Configuration File | [README](https://github.com/numbworks/i3_eink_config/blob/master/README.md) | MIT | n/a |
 
 ## Who's numbworks?
 
