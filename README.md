@@ -2,8 +2,8 @@
 
 | Name | Type | Getting Started | License | Code Coverage | Binaries | Last Update |
 |---|---|---|---|---|---|---|
-| [NW.MarkdownTables](https://github.com/numbworks/NW.MarkdownTables) | Software Library | [Documentation](https://github.com/numbworks/NW.MarkdownTables/blob/master/docs/Documentation-NW.MarkdownTables.md) | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/NW.MarkdownTables/master/codecoverage.svg) | [v1.0.0](https://www.nuget.org/packages/NW.MarkdownTables/1.0.0) | 2020-12-29 |
-| [NW.UnivariateForecasting](https://github.com/numbworks/NW.UnivariateForecasting) | Software Library | [Documentation](https://github.com/numbworks/NW.UnivariateForecasting/blob/main/docs/Documentation-NW.UnivariateForecasting.md) | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/NW.UnivariateForecasting/main/codecoverage.svg) | [v1.0.1](https://www.nuget.org/packages/NW.UnivariateForecasting/1.0.1) | 2020-12-27 |
+| [NW.MarkdownTables](https://github.com/numbworks/NW.MarkdownTables) | Software Library | [Documentation](https://github.com/numbworks/NW.MarkdownTables/blob/master/docs/Documentation-NW.MarkdownTables.md) | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/NW.MarkdownTables/master/codecoverage.svg) | [1.0.0](https://www.nuget.org/packages/NW.MarkdownTables/1.0.0) | 2020-12-29 |
+| [NW.UnivariateForecasting](https://github.com/numbworks/NW.UnivariateForecasting) | Software Library | [Documentation](https://github.com/numbworks/NW.UnivariateForecasting/blob/main/docs/Documentation-NW.UnivariateForecasting.md) | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/NW.UnivariateForecasting/main/codecoverage.svg) | [1.0.1](https://www.nuget.org/packages/NW.UnivariateForecasting/1.0.1) | 2020-12-27 |
 | [i3_eink_config](https://github.com/numbworks/i3_eink_config) | Configuration File | [README](https://github.com/numbworks/i3_eink_config/blob/master/README.md) | MIT | n/a | n/a | 2020-12-22 |
 
 ## Who's numbworks?
