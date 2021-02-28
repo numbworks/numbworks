@@ -3,14 +3,15 @@
 | Date | Author | Description |
 |---|---|---|
 | 2020-12-28 | numbworks | Created. |
+| 2021-02-28 | numbworks | February 2021 update. |
 
 ## Reading List By Publisher
 
 |<sub>Publisher</sub>|<sub>Books</sub>|<sub>AvgRating</sub>|<sub>Worthy?</sub>|
 |---|---|---|---|
 |<sub>O'Reilly</sub>|<sub>33</sub>|<sub>2,15</sub>||
-|<sub>Syncfusion</sub>|<sub>29</sub>|<sub>2,69</sub>|<sub>←</sub>|
-|<sub>Packt</sub>|<sub>26</sub>|<sub>1,96</sub>||
+|<sub>Syncfusion</sub>|<sub>38</sub>|<sub>2,55</sub>|<sub>←</sub>|
+|<sub>Packt</sub>|<sub>28</sub>|<sub>1,96</sub>||
 |<sub>Apress</sub>|<sub>25</sub>|<sub>2,24</sub>||
 |<sub>Addison-Wesley</sub>|<sub>16</sub>|<sub>2,19</sub>||
 |<sub>Manning</sub>|<sub>9</sub>|<sub>3,11</sub>|<sub>←</sub>|
