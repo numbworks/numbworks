@@ -3,6 +3,7 @@
 | Date | Author | Description |
 |---|---|---|
 | 2020-12-22 | numbworks | Created. |
+| 2021-02-28 | numbworks | February 2021 update. |
 
 ## Reading List
 
@@ -227,3 +228,14 @@
 |<sub>217</sub>|<sub>Don't Make Me Think (Revisited)</sub>|<sub>2014</sub>|<sub>184</sub>|<sub>2020-11-26</sub>|<sub>Pearson Education</sub>|<sub>★★★☆☆</sub>|<sub>Continuous Education</sub>|
 |<sub>218</sub>|<sub>.NET Design Patterns</sub>|<sub>2017</sub>|<sub>284</sub>|<sub>2020-11-29</sub>|<sub>Packt</sub>|<sub>★☆☆☆☆</sub>|<sub>C#</sub>|
 |<sub>219</sub>|<sub>Functional Programming in C#</sub>|<sub>2018</sub>|<sub>435</sub>|<sub>2020-12-18</sub>|<sub>Manning</sub>|<sub>★★★★★</sub>|<sub>C#</sub>|
+|<sub>220</sub>|<sub>Jenkins, Docker and DevOps: The Innovation Catalysts</sub>|<sub>-</sub>|<sub>18</sub>|<sub>2021-02-08</sub>|<sub>Syncfusion</sub>|<sub>★☆☆☆☆</sub>|<sub>Docker</sub>|
+|<sub>221</sub>|<sub>NuGet In-House Succintly</sub>|<sub>2019</sub>|<sub>38</sub>|<sub>2021-02-08</sub>|<sub>Syncfusion</sub>|<sub>★★★☆☆</sub>|<sub>C#</sub>|
+|<sub>222</sub>|<sub>Azure Functions Succintly</sub>|<sub>2018</sub>|<sub>45</sub>|<sub>2021-02-16</sub>|<sub>Syncfusion</sub>|<sub>★★☆☆☆</sub>|<sub>Azure</sub>|
+|<sub>223</sub>|<sub>App Modernization on Azure Succintly</sub>|<sub>2020</sub>|<sub>68</sub>|<sub>2021-02-16</sub>|<sub>Syncfusion</sub>|<sub>★★☆☆☆</sub>|<sub>Azure</sub>|
+|<sub>224</sub>|<sub>Visual Studio 2019 Succintly</sub>|<sub>2019</sub>|<sub>44</sub>|<sub>2021-02-17</sub>|<sub>Syncfusion</sub>|<sub>★★☆☆☆</sub>|<sub>C#</sub>|
+|<sub>225</sub>|<sub>SQL Server Metadata Succintly</sub>|<sub>2019</sub>|<sub>60</sub>|<sub>2021-02-17</sub>|<sub>Syncfusion</sub>|<sub>★☆☆☆☆</sub>|<sub>SQL Server</sub>|
+|<sub>226</sub>|<sub>Hands-on DevOps with Vagrant</sub>|<sub>2018</sub>|<sub>411</sub>|<sub>2021-02-19</sub>|<sub>Packt</sub>|<sub>★★☆☆☆</sub>|<sub>DevOps</sub>|
+|<sub>227</sub>|<sub>Vagrant Virtual Development Environment Cookbook</sub>|<sub>2015</sub>|<sub>426</sub>|<sub>2021-02-19</sub>|<sub>Packt</sub>|<sub>★★☆☆☆</sub>|<sub>DevOps</sub>|
+|<sub>228</sub>|<sub>Using .NET Core, Docker and Kubernetes Succintly</sub>|<sub>2019</sub>|<sub>57</sub>|<sub>2021-02-21</sub>|<sub>Syncfusion</sub>|<sub>★★☆☆☆</sub>|<sub>Docker</sub>|
+|<sub>229</sub>|<sub>Getting The Most from LINQPad Succintly</sub>|<sub>2019</sub>|<sub>47</sub>|<sub>2021-02-21</sub>|<sub>Syncfusion</sub>|<sub>★★★★☆</sub>|<sub>C#</sub>|
+|<sub>230</sub>|<sub>Azure DevOps Succintly</sub>|<sub>2020</sub>|<sub>75</sub>|<sub>2021-02-22</sub>|<sub>Syncfusion</sub>|<sub>★★☆☆☆</sub>|<sub>DevOps</sub>|
