@@ -38,16 +38,16 @@ The scope of this `Github account` is to share some of these `side projects`.
 |---|---|---|---|---|---|---|
 |<sub>1</sub>|<sub>0 (0)</sub>|<sub>13 (5157)</sub>|<sub>0 (0)</sub>|<sub>4 (1061)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>|
 |<sub>2</sub>|<sub>0 (0)</sub>|<sub>1 (106)</sub>|<sub>0 (0)</sub>|<sub>13 (2991)</sub>|<sub>0 (0)</sub>|<sub>11 (1289)</sub>|
-|<sub>3</sub>|<sub>0 (0)</sub>|<sub>16 (3816)</sub>|<sub>6 (600)</sub>|<sub>20 (3349)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>|
-|<sub>4</sub>|<sub>0 (0)</sub>|<sub>8 (2539)</sub>|<sub>7 (1986)</sub>|<sub>0 (0)</sub>|<sub>9 (2226)</sub>|<sub>0 (0)</sub>|
-|<sub>5</sub>|<sub>1 (288)</sub>|<sub>13 (3527)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>|
-|<sub>6</sub>|<sub>8 (1734)</sub>|<sub>4 (788)</sub>|<sub>1 (24)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>|
-|<sub>7</sub>|<sub>4 (1758)</sub>|<sub>3 (1140)</sub>|<sub>3 (427)</sub>|<sub>2 (444)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>|
-|<sub>8</sub>|<sub>2 (334)</sub>|<sub>1 (453)</sub>|<sub>0 (0)</sub>|<sub>2 (848)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>|
-|<sub>9</sub>|<sub>4 (881)</sub>|<sub>4 (1200)</sub>|<sub>0 (0)</sub>|<sub>1 (1259)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>|
-|<sub>10</sub>|<sub>2 (275)</sub>|<sub>0 (0)</sub>|<sub>6 (1201)</sub>|<sub>0 (0)</sub>|<sub>6 (1941)</sub>|<sub>0 (0)</sub>|
-|<sub>11</sub>|<sub>11 (4033)</sub>|<sub>0 (0)</sub>|<sub>10 (3172)</sub>|<sub>0 (0)</sub>|<sub>7 (2000)</sub>|<sub>0 (0)</sub>|
-|<sub>12</sub>|<sub>11 (3019)</sub>|<sub>0 (0)</sub>|<sub>15 (5236)</sub>|<sub>0 (0)</sub>|<sub>1 (435)</sub>|<sub>0 (0)</sub>|
+|<sub>3</sub>|<sub>0 (0)</sub>|<sub>16 (3816)</sub>|<sub>6 (600)</sub>|<sub>20 (3349)</sub>|<sub>0 (0)</sub>||
+|<sub>4</sub>|<sub>0 (0)</sub>|<sub>8 (2539)</sub>|<sub>7 (1986)</sub>|<sub>0 (0)</sub>|<sub>9 (2226)</sub>||
+|<sub>5</sub>|<sub>1 (288)</sub>|<sub>13 (3527)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>||
+|<sub>6</sub>|<sub>8 (1734)</sub>|<sub>4 (788)</sub>|<sub>1 (24)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>||
+|<sub>7</sub>|<sub>4 (1758)</sub>|<sub>3 (1140)</sub>|<sub>3 (427)</sub>|<sub>2 (444)</sub>|<sub>0 (0)</sub>||
+|<sub>8</sub>|<sub>2 (334)</sub>|<sub>1 (453)</sub>|<sub>0 (0)</sub>|<sub>2 (848)</sub>|<sub>0 (0)</sub>||
+|<sub>9</sub>|<sub>4 (881)</sub>|<sub>4 (1200)</sub>|<sub>0 (0)</sub>|<sub>1 (1259)</sub>|<sub>0 (0)</sub>||
+|<sub>10</sub>|<sub>2 (275)</sub>|<sub>0 (0)</sub>|<sub>6 (1201)</sub>|<sub>0 (0)</sub>|<sub>6 (1941)</sub>||
+|<sub>11</sub>|<sub>11 (4033)</sub>|<sub>0 (0)</sub>|<sub>10 (3172)</sub>|<sub>0 (0)</sub>|<sub>7 (2000)</sub>||
+|<sub>12</sub>|<sub>11 (3019)</sub>|<sub>0 (0)</sub>|<sub>15 (5236)</sub>|<sub>0 (0)</sub>|<sub>1 (435)</sub>||
 |<sub>Total</sub>|<sub>43 (12322)</sub>|<sub>63 (18726)</sub>|<sub>48 (12646)</sub>|<sub>42 (9952)</sub>|<sub>23 (6602)</sub>|<sub>11 (1289)</sub>|
 
 Schema: Books (*Pages*)
