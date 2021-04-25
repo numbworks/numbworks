@@ -4,238 +4,241 @@
 |---|---|---|
 | 2020-12-22 | numbworks | Created. |
 | 2021-02-28 | numbworks | February 2021 update. |
+| 2021-04-25 | numbworks | March 2021 update. |
 
 ## Reading List
 
-|<sub>Id</sub>|<sub>Book Title</sub>|<sub>Year</sub>|<sub>Pages</sub>|<sub>Read Date</sub>|<sub>Publisher</sub>|<sub>Rating</sub>|<sub>Topic</sub>|
+|Id|Book Title|Year|Pages|Read Date|Publisher|Rating|Topic|
 |---|---|---|---|---|---|---|---|
-|<sub>1</sub>|<sub>Writing Solid Code</sub>|<sub>1993</sub>|<sub>288</sub>|<sub>2016-05-28</sub>|<sub>Microsoft Press</sub>|<sub>★★☆☆☆</sub>|<sub>Software Engineering</sub>|
-|<sub>2</sub>|<sub>Git Essentials</sub>|<sub>2015</sub>|<sub>168</sub>|<sub>2016-06-05</sub>|<sub>Packt</sub>|<sub>★★☆☆☆</sub>|<sub>Git</sub>|
-|<sub>3</sub>|<sub>Clean Code - A Handbook of Agile Software Craftsmanship</sub>|<sub>2008</sub>|<sub>462</sub>|<sub>2016-06-12</sub>|<sub>Prentice Hall</sub>|<sub>★★☆☆☆</sub>|<sub>Software Engineering</sub>|
-|<sub>4</sub>|<sub>GitHub: Amplify Your Software Development with Social Coding</sub>|<sub>2010</sub>|<sub>149</sub>|<sub>2016-06-22</sub>|<sub>O'Reilly</sub>|<sub>★☆☆☆☆</sub>|<sub>Git</sub>|
-|<sub>5</sub>|<sub>Introducing Github</sub>|<sub>2015</sub>|<sub>142</sub>|<sub>2016-06-22</sub>|<sub>O'Reilly</sub>|<sub>★★★☆☆</sub>|<sub>Git</sub>|
-|<sub>6</sub>|<sub>GitHub Essentials</sub>|<sub>2015</sub>|<sub>190</sub>|<sub>2016-06-22</sub>|<sub>Packt</sub>|<sub>★★☆☆☆</sub>|<sub>Git</sub>|
-|<sub>7</sub>|<sub>Git for Teams</sub>|<sub>2010</sub>|<sub>310</sub>|<sub>2016-06-26</sub>|<sub>O'Reilly</sub>|<sub>★★★★☆</sub>|<sub>Git</sub>|
-|<sub>8</sub>|<sub>Git Pocket Guide</sub>|<sub>2013</sub>|<sub>233</sub>|<sub>2016-06-28</sub>|<sub>O'Reilly</sub>|<sub>★★★☆☆</sub>|<sub>Git</sub>|
-|<sub>9</sub>|<sub>24 Patterns of Clean Code</sub>|<sub>2016</sub>|<sub>80</sub>|<sub>2016-06-28</sub>|<sub>Evermore</sub>|<sub>★☆☆☆☆</sub>|<sub>Software Engineering</sub>|
-|<sub>10</sub>|<sub>Effective Unit Testing</sub>|<sub>2013</sub>|<sub>249</sub>|<sub>2016-07-01</sub>|<sub>Manning</sub>|<sub>★★☆☆☆</sub>|<sub>Unit Testing</sub>|
-|<sub>11</sub>|<sub>Smalltalk Best Practice Patterns</sub>|<sub>1997</sub>|<sub>237</sub>|<sub>2016-07-06</sub>|<sub>Prentice Hall</sub>|<sub>★★★☆☆</sub>|<sub>Software Engineering</sub>|
-|<sub>12</sub>|<sub>Microsoft Visual C# 2013 Step by Step</sub>|<sub>2013</sub>|<sub>824</sub>|<sub>2016-07-25</sub>|<sub>Microsoft Press</sub>|<sub>★★★★☆</sub>|<sub>C#</sub>|
-|<sub>13</sub>|<sub>Framework Design Guidelines</sub>|<sub>2009</sub>|<sub>448</sub>|<sub>2016-07-28</sub>|<sub>Addison-Wesley</sub>|<sub>★★☆☆☆</sub>|<sub>C#</sub>|
-|<sub>14</sub>|<sub>Design Patterns Explained Simply </sub>|<sub>-</sub>|<sub>117</sub>|<sub>2016-08-03</sub>|<sub>Sourcemaking.com</sub>|<sub>★★★☆☆</sub>|<sub>Software Engineering</sub>|
-|<sub>15</sub>|<sub>Test Driven Development By Example</sub>|<sub>2002</sub>|<sub>217</sub>|<sub>2016-08-04</sub>|<sub>Addison-Wesley</sub>|<sub>★★★★☆</sub>|<sub>Unit Testing</sub>|
-|<sub>16</sub>|<sub>Web Scraping With Python</sub>|<sub>2015</sub>|<sub>174</sub>|<sub>2016-09-02</sub>|<sub>O'Reilly</sub>|<sub>★★★★☆</sub>|<sub>Data Science</sub>|
-|<sub>17</sub>|<sub>Firebug 1.5 Editing, Debugging, and Monitoring Web Pages</sub>|<sub>2010</sub>|<sub>224</sub>|<sub>2016-09-03</sub>|<sub>Packt</sub>|<sub>★☆☆☆☆</sub>|<sub>Data Science</sub>|
-|<sub>18</sub>|<sub>The Art of Unit Testing, 2nd Edition</sub>|<sub>2014</sub>|<sub>294</sub>|<sub>2016-09-22</sub>|<sub>Manning</sub>|<sub>★★★★☆</sub>|<sub>Unit Testing</sub>|
-|<sub>19</sub>|<sub>Applying UML, Advanced Applications</sub>|<sub>-</sub>|<sub>189</sub>|<sub>2016-09-26</sub>|<sub>Butterworth-Heinemann</sub>|<sub>★★☆☆☆</sub>|<sub>Software Engineering</sub>|
-|<sub>20</sub>|<sub>XPath And Xpointer</sub>|<sub>2002</sub>|<sub>197</sub>|<sub>2016-10-17</sub>|<sub>O'Reilly</sub>|<sub>★★☆☆☆</sub>|<sub>Data Science</sub>|
-|<sub>21</sub>|<sub>How to be a Programmer (Community Version)</sub>|<sub>-</sub>|<sub>78</sub>|<sub>2016-10-18</sub>|<sub>Self-Published</sub>|<sub>★☆☆☆☆</sub>|<sub>Software Engineering</sub>|
-|<sub>22</sub>|<sub>C# Database Basics</sub>|<sub>2012</sub>|<sub>108</sub>|<sub>2016-11-03</sub>|<sub>O'Reilly</sub>|<sub>★☆☆☆☆</sub>|<sub>C#</sub>|
-|<sub>23</sub>|<sub>Beginning C# 2008 Databases From Novice to Professional </sub>|<sub>2008</sub>|<sub>512</sub>|<sub>2016-11-04</sub>|<sub>Apress</sub>|<sub>★★★☆☆</sub>|<sub>C#</sub>|
-|<sub>24</sub>|<sub>Pro .NET Best Practices</sub>|<sub>2011</sub>|<sub>365</sub>|<sub>2016-11-08</sub>|<sub>Apress</sub>|<sub>★★★☆☆</sub>|<sub>C#</sub>|
-|<sub>25</sub>|<sub>Data Structures and Algorithms Using Csharp</sub>|<sub>2007</sub>|<sub>336</sub>|<sub>2016-11-15</sub>|<sub>Cambridge University Press</sub>|<sub>★★★☆☆</sub>|<sub>C#</sub>|
-|<sub>26</sub>|<sub>Machine Learning Using CSharp Succinctly</sub>|<sub>2014</sub>|<sub>148</sub>|<sub>2016-11-19</sub>|<sub>Syncfusion</sub>|<sub>★★★★★</sub>|<sub>Machine Learning</sub>|
-|<sub>27</sub>|<sub>Beginning XSLT And XPath Transforming XML Documents And Data</sub>|<sub>2009</sub>|<sub>435</sub>|<sub>2016-11-21</sub>|<sub>Wrox</sub>|<sub>★☆☆☆☆</sub>|<sub>Data Science</sub>|
-|<sub>28</sub>|<sub>XPath Essentials</sub>|<sub>2002</sub>|<sub>547</sub>|<sub>2016-11-21</sub>|<sub>Wiley</sub>|<sub>★☆☆☆☆</sub>|<sub>Data Science</sub>|
-|<sub>29</sub>|<sub>Working Effectively with Legacy Code</sub>|<sub>2004</sub>|<sub>458</sub>|<sub>2016-11-23</sub>|<sub>O'Reilly</sub>|<sub>★★★★☆</sub>|<sub>Software Engineering</sub>|
-|<sub>30</sub>|<sub>Design Patterns: Elements of Reusable Object-Oriented Software</sub>|<sub>1997</sub>|<sub>431</sub>|<sub>2016-11-27</sub>|<sub>Addison-Wesley</sub>|<sub>★☆☆☆☆</sub>|<sub>Software Engineering</sub>|
-|<sub>31</sub>|<sub>MCSD Certification Toolkit (Exam 70-483) Programming in C#</sub>|<sub>2013</sub>|<sub>650</sub>|<sub>2016-11-30</sub>|<sub>Wrox</sub>|<sub>★★★☆☆</sub>|<sub>C#</sub>|
-|<sub>32</sub>|<sub>Why programmers work at night</sub>|<sub>-</sub>|<sub>43</sub>|<sub>2016-11-30</sub>|<sub>Leanpub</sub>|<sub>★☆☆☆☆</sub>|<sub>Software Engineering</sub>|
-|<sub>33</sub>|<sub>What I've Learned From Failure</sub>|<sub>2011</sub>|<sub>51</sub>|<sub>2016-12-01</sub>|<sub>Leanpub</sub>|<sub>★☆☆☆☆</sub>|<sub>Software Engineering</sub>|
-|<sub>34</sub>|<sub>97 Things Every Programmer Should Know</sub>|<sub>2010</sub>|<sub>257</sub>|<sub>2016-12-02</sub>|<sub>O'Reilly</sub>|<sub>★★☆☆☆</sub>|<sub>Software Engineering</sub>|
-|<sub>35</sub>|<sub>.NET Technology Guide for Business Applications</sub>|<sub>2013</sub>|<sub>74</sub>|<sub>2016-12-02</sub>|<sub>Microsoft Press</sub>|<sub>★☆☆☆☆</sub>|<sub>C#</sub>|
-|<sub>36</sub>|<sub>Head First C#, 3rd Edition</sub>|<sub>2013</sub>|<sub>948</sub>|<sub>2016-12-05</sub>|<sub>O'Reilly</sub>|<sub>★☆☆☆☆</sub>|<sub>C#</sub>|
-|<sub>37</sub>|<sub>The Pragmatic Programmer, From Journeyman To Master</sub>|<sub>1999</sub>|<sub>361</sub>|<sub>2016-12-09</sub>|<sub>Addison-Wesley</sub>|<sub>★★☆☆☆</sub>|<sub>Software Engineering</sub>|
-|<sub>38</sub>|<sub>Producing Open Source Software</sub>|<sub>2016</sub>|<sub>229</sub>|<sub>2016-12-20</sub>|<sub>O'Reilly</sub>|<sub>★☆☆☆☆</sub>|<sub>Software Engineering</sub>|
-|<sub>39</sub>|<sub>Hacknot Essays on Software Development</sub>|<sub>2006</sub>|<sub>294</sub>|<sub>2016-12-20</sub>|<sub>Lulu.com</sub>|<sub>★☆☆☆☆</sub>|<sub>Software Engineering</sub>|
-|<sub>40</sub>|<sub>Patterns Of Software</sub>|<sub>1996</sub>|<sub>239</sub>|<sub>2016-12-20</sub>|<sub>Oxford University Press</sub>|<sub>★☆☆☆☆</sub>|<sub>Software Engineering</sub>|
-|<sub>41</sub>|<sub>Object-Oriented Reengineering Patterns</sub>|<sub>2008</sub>|<sub>360</sub>|<sub>2016-12-21</sub>|<sub>Morgan Kaufmann</sub>|<sub>★★★☆☆</sub>|<sub>Software Engineering</sub>|
-|<sub>42</sub>|<sub>Extreme Programming Explained</sub>|<sub>-</sub>|<sub>137</sub>|<sub>2016-12-21</sub>|<sub>Addison-Wesley</sub>|<sub>★★☆☆☆</sub>|<sub>Software Engineering</sub>|
-|<sub>43</sub>|<sub>Don't Just Roll The Dice</sub>|<sub>2012</sub>|<sub>69</sub>|<sub>2016-12-21</sub>|<sub>Red gate books</sub>|<sub>★★★★☆</sub>|<sub>Software Engineering</sub>|
-|<sub>44</sub>|<sub>Ambient Computing</sub>|<sub>2016</sub>|<sub>20</sub>|<sub>2017-01-16</sub>|<sub>O'Reilly</sub>|<sub>★☆☆☆☆</sub>|<sub>IoT</sub>|
-|<sub>45</sub>|<sub>Analyzing Data in the Internet of Things</sub>|<sub>2016</sub>|<sub>66</sub>|<sub>2017-01-16</sub>|<sub>O'Reilly</sub>|<sub>★☆☆☆☆</sub>|<sub>IoT</sub>|
-|<sub>46</sub>|<sub>Creating Functional Teams For IoT</sub>|<sub>2015</sub>|<sub>19</sub>|<sub>2017-01-16</sub>|<sub>O'Reilly</sub>|<sub>★☆☆☆☆</sub>|<sub>IoT</sub>|
-|<sub>47</sub>|<sub>Object-Oriented vs. Functional Programming</sub>|<sub>2016</sub>|<sub>46</sub>|<sub>2017-01-16</sub>|<sub>O'Reilly</sub>|<sub>★☆☆☆☆</sub>|<sub>Software Engineering</sub>|
-|<sub>48</sub>|<sub>Dependency Injection in .NET</sub>|<sub>2011</sub>|<sub>342</sub>|<sub>2017-01-25</sub>|<sub>Manning</sub>|<sub>★★☆☆☆</sub>|<sub>C#</sub>|
-|<sub>49</sub>|<sub>Apprenticeship Patterns - Guidance for the Aspiring Software Craftsman</sub>|<sub>2010</sub>|<sub>165</sub>|<sub>2017-01-25</sub>|<sub>O'Reilly</sub>|<sub>★☆☆☆☆</sub>|<sub>Software Engineering</sub>|
-|<sub>50</sub>|<sub>Confessions of an IT Manager</sub>|<sub>2009</sub>|<sub>307</sub>|<sub>2017-01-25</sub>|<sub>Red gate books</sub>|<sub>★☆☆☆☆</sub>|<sub>Software Engineering</sub>|
-|<sub>51</sub>|<sub>Beginning TSQL With Microsoft SQL Server 2005 And 2008</sub>|<sub>2008</sub>|<sub>675</sub>|<sub>2017-01-26</sub>|<sub>Wrox</sub>|<sub>★★★☆☆</sub>|<sub>SQL Server</sub>|
-|<sub>52</sub>|<sub>Visual Studio 2015 Cookbook</sub>|<sub>2015</sub>|<sub>559</sub>|<sub>2017-01-26</sub>|<sub>Packt</sub>|<sub>★★☆☆☆</sub>|<sub>C#</sub>|
-|<sub>53</sub>|<sub>Domain-Driven Design - Tackling Complexity in the Heart of Software</sub>|<sub>2003</sub>|<sub>324</sub>|<sub>2017-01-27</sub>|<sub>Addison-Wesley</sub>|<sub>★☆☆☆☆</sub>|<sub>Software Engineering</sub>|
-|<sub>54</sub>|<sub>CSharp 5.0 In A Nutshell (5th Edition)</sub>|<sub>2012</sub>|<sub>1062</sub>|<sub>2017-01-27</sub>|<sub>O'Reilly</sub>|<sub>★☆☆☆☆</sub>|<sub>C#</sub>|
-|<sub>55</sub>|<sub>Fluent CSharp</sub>|<sub>2011</sub>|<sub>869</sub>|<sub>2017-01-27</sub>|<sub>Sams Publishing</sub>|<sub>★☆☆☆☆</sub>|<sub>C#</sub>|
-|<sub>56</sub>|<sub>C# 6.0 Cookbook</sub>|<sub>2015</sub>|<sub>703</sub>|<sub>2017-01-27</sub>|<sub>O'Reilly</sub>|<sub>★★☆☆☆</sub>|<sub>C#</sub>|
-|<sub>57</sub>|<sub>Domain Driven Design Quickly</sub>|<sub>2006</sub>|<sub>106</sub>|<sub>2017-02-05</sub>|<sub>Lulu.com</sub>|<sub>★★★★☆</sub>|<sub>Software Engineering</sub>|
-|<sub>58</sub>|<sub>What You Need to Know about Machine Learning</sub>|<sub>2016</sub>|<sub>50</sub>|<sub>2017-03-13</sub>|<sub>Packt</sub>|<sub>★★☆☆☆</sub>|<sub>Machine Learning</sub>|
-|<sub>59</sub>|<sub>Head First Design Patterns</sub>|<sub>2004</sub>|<sub>619</sub>|<sub>2017-03-17</sub>|<sub>O'Reilly</sub>|<sub>★★★★★</sub>|<sub>Software Engineering</sub>|
-|<sub>60</sub>|<sub>Learning Object-Oriented Programming</sub>|<sub>2015</sub>|<sub>280</sub>|<sub>2017-03-18</sub>|<sub>Packt</sub>|<sub>★★☆☆☆</sub>|<sub>Software Engineering</sub>|
-|<sub>61</sub>|<sub>Rapid Development</sub>|<sub>1996</sub>|<sub>671</sub>|<sub>2017-03-18</sub>|<sub>Microsoft Press</sub>|<sub>★★☆☆☆</sub>|<sub>Software Engineering</sub>|
-|<sub>62</sub>|<sub>Patterns of Enterprise Application Architecture</sub>|<sub>2002</sub>|<sub>127</sub>|<sub>2017-03-20</sub>|<sub>Addison-Wesley</sub>|<sub>★☆☆☆☆</sub>|<sub>Software Engineering</sub>|
-|<sub>63</sub>|<sub>Web Scraping with Python (Community Experience Distilled)</sub>|<sub>2015</sub>|<sub>174</sub>|<sub>2017-03-20</sub>|<sub>Packt</sub>|<sub>★☆☆☆☆</sub>|<sub>Data Science</sub>|
-|<sub>64</sub>|<sub>C# In Depth</sub>|<sub>2014</sub>|<sub>164</sub>|<sub>2017-03-21</sub>|<sub>Manning</sub>|<sub>★☆☆☆☆</sub>|<sub>C#</sub>|
-|<sub>65</sub>|<sub>The Art Of Unit Testing With Examples In C Sharp (2nd Edition)</sub>|<sub>2013</sub>|<sub>294</sub>|<sub>2017-03-25</sub>|<sub>Manning</sub>|<sub>★★★★★</sub>|<sub>Unit Testing</sub>|
-|<sub>66</sub>|<sub>Code Simplicity</sub>|<sub>2012</sub>|<sub>90</sub>|<sub>2017-03-25</sub>|<sub>O'Reilly</sub>|<sub>★★★☆☆</sub>|<sub>Software Engineering</sub>|
-|<sub>67</sub>|<sub>Becoming A Better Programmer</sub>|<sub>2015</sub>|<sub>362</sub>|<sub>2017-03-25</sub>|<sub>O'Reilly</sub>|<sub>★★★☆☆</sub>|<sub>Software Engineering</sub>|
-|<sub>68</sub>|<sub>CSharp Book 8.2</sub>|<sub>2016</sub>|<sub>216</sub>|<sub>2017-03-26</sub>|<sub>Self-Published</sub>|<sub>★★★☆☆</sub>|<sub>C#</sub>|
-|<sub>69</sub>|<sub>Inside Microsoft SQL Server 2008 T-SQL Querying</sub>|<sub>2009</sub>|<sub>127</sub>|<sub>2017-03-26</sub>|<sub>Microsoft Press</sub>|<sub>★★★☆☆</sub>|<sub>SQL Server</sub>|
-|<sub>70</sub>|<sub>Daily Design Pattern</sub>|<sub>-</sub>|<sub>108</sub>|<sub>2017-03-27</sub>|<sub>Self-Published</sub>|<sub>★★★★☆</sub>|<sub>Software Engineering</sub>|
-|<sub>71</sub>|<sub>Continuous Delivery and DevOps, a quickstart guide</sub>|<sub>2012</sub>|<sub>154</sub>|<sub>2017-03-28</sub>|<sub>Packt</sub>|<sub>★★★☆☆</sub>|<sub>Continuous Delivery</sub>|
-|<sub>72</sub>|<sub>Learning Docker</sub>|<sub>2015</sub>|<sub>240</sub>|<sub>2017-03-28</sub>|<sub>Packt</sub>|<sub>★★★☆☆</sub>|<sub>Docker</sub>|
-|<sub>73</sub>|<sub>Windows PowerShell 4.0 For .NET Developers</sub>|<sub>2014</sub>|<sub>140</sub>|<sub>2017-03-30</sub>|<sub>Packt</sub>|<sub>★★★☆☆</sub>|<sub>Powershell</sub>|
-|<sub>74</sub>|<sub>Xunit Test Patterns_ Refactoring Test Code</sub>|<sub>2007</sub>|<sub>500</sub>|<sub>2017-04-05</sub>|<sub>Addison-Wesley</sub>|<sub>★☆☆☆☆</sub>|<sub>Unit Testing</sub>|
-|<sub>75</sub>|<sub>The Mythical Man-Month (Anniversary Edition)</sub>|<sub>1995</sub>|<sub>322</sub>|<sub>2017-04-09</sub>|<sub>Addison-Wesley</sub>|<sub>★☆☆☆☆</sub>|<sub>Software Engineering</sub>|
-|<sub>76</sub>|<sub>Growing Object-Oriented Software Guided by Tests</sub>|<sub>2009</sub>|<sub>385</sub>|<sub>2017-04-13</sub>|<sub>Addison-Wesley</sub>|<sub>★★★★★</sub>|<sub>Unit Testing</sub>|
-|<sub>77</sub>|<sub>Refactoring to Patterns 1.13</sub>|<sub>2011</sub>|<sub>87</sub>|<sub>2017-04-13</sub>|<sub>Addison-Wesley</sub>|<sub>★★☆☆☆</sub>|<sub>Software Engineering</sub>|
-|<sub>78</sub>|<sub>Adaptive Code via C#</sub>|<sub>2013</sub>|<sub>433</sub>|<sub>2017-04-14</sub>|<sub>Microsoft Press</sub>|<sub>★★★☆☆</sub>|<sub>C#</sub>|
-|<sub>79</sub>|<sub>UML Weekend Crash Course</sub>|<sub>2002</sub>|<sub>385</sub>|<sub>2017-04-17</sub>|<sub>Wiley</sub>|<sub>★★★★★</sub>|<sub>Software Engineering</sub>|
-|<sub>80</sub>|<sub>Concurrency In C Sharp Cookbook</sub>|<sub>2014</sub>|<sub>159</sub>|<sub>2017-04-27</sub>|<sub>O'Reilly</sub>|<sub>★★★☆☆</sub>|<sub>C#</sub>|
-|<sub>81</sub>|<sub>Multithreading In C Sharp 5.0 Cookbook</sub>|<sub>2013</sub>|<sub>268</sub>|<sub>2017-04-27</sub>|<sub>Packt</sub>|<sub>★★★☆☆</sub>|<sub>C#</sub>|
-|<sub>82</sub>|<sub>Beginning Software Engineering</sub>|<sub>2015</sub>|<sub>482</sub>|<sub>2017-05-02</sub>|<sub>Sybex</sub>|<sub>★★★☆☆</sub>|<sub>Software Engineering</sub>|
-|<sub>83</sub>|<sub>Cracking The Coding Interview (6th edition)</sub>|<sub>2015</sub>|<sub>100</sub>|<sub>2017-05-02</sub>|<sub>CareerCup</sub>|<sub>★☆☆☆☆</sub>|<sub>Software Engineering</sub>|
-|<sub>84</sub>|<sub>Refactoring Improving the Design of Existing Code</sub>|<sub>-</sub>|<sub>337</sub>|<sub>2017-05-09</sub>|<sub>Addison-Wesley</sub>|<sub>★☆☆☆☆</sub>|<sub>Software Engineering</sub>|
-|<sub>85</sub>|<sub>Pragmatic Unit Testing In CSharp With Nunit</sub>|<sub>2004</sub>|<sub>163</sub>|<sub>2017-05-14</sub>|<sub>Pragmatic Bookshelf</sub>|<sub>★★☆☆☆</sub>|<sub>Unit Testing</sub>|
-|<sub>86</sub>|<sub>Object-Oriented Software Construction (2nd edition)</sub>|<sub>-</sub>|<sub>250</sub>|<sub>2017-05-14</sub>|<sub>Prentice Hall</sub>|<sub>★☆☆☆☆</sub>|<sub>Software Engineering</sub>|
-|<sub>87</sub>|<sub>Sams Teach Yourself Regular Expressions</sub>|<sub>2004</sub>|<sub>200</sub>|<sub>2017-05-16</sub>|<sub>Sams Publishing</sub>|<sub>★★☆☆☆</sub>|<sub>Regular Expressions</sub>|
-|<sub>88</sub>|<sub>Regular Expression Cookbook</sub>|<sub>2009</sub>|<sub>200</sub>|<sub>2017-05-16</sub>|<sub>O'Reilly</sub>|<sub>★★☆☆☆</sub>|<sub>Regular Expressions</sub>|
-|<sub>89</sub>|<sub>Webbots, Spiders, And Screen Scrapers (2nd Edition)</sub>|<sub>2012</sub>|<sub>120</sub>|<sub>2017-05-18</sub>|<sub>No Starch Press</sub>|<sub>★☆☆☆☆</sub>|<sub>Data Science</sub>|
-|<sub>90</sub>|<sub>Practical Microsoft Visual Studio 2015</sub>|<sub>2015</sub>|<sub>209</sub>|<sub>2017-05-21</sub>|<sub>Apress</sub>|<sub>★★★☆☆</sub>|<sub>C#</sub>|
-|<sub>91</sub>|<sub>C# 7 and .NET Core Cookbook</sub>|<sub>2017</sub>|<sub>598</sub>|<sub>2017-05-23</sub>|<sub>Packt</sub>|<sub>★☆☆☆☆</sub>|<sub>C#</sub>|
-|<sub>92</sub>|<sub>NET Design Patterns (1st Edition)</sub>|<sub>2017</sub>|<sub>325</sub>|<sub>2017-05-23</sub>|<sub>Packt</sub>|<sub>★★☆☆☆</sub>|<sub>C#</sub>|
-|<sub>93</sub>|<sub>Build APIs You Won't Hate</sub>|<sub>2014</sub>|<sub>143</sub>|<sub>2017-05-28</sub>|<sub>Leanpub</sub>|<sub>★★☆☆☆</sub>|<sub>Software Engineering</sub>|
-|<sub>94</sub>|<sub>Mastering C# and .NET Framework</sub>|<sub>2016</sub>|<sub>400</sub>|<sub>2017-05-29</sub>|<sub>Packt</sub>|<sub>★☆☆☆☆</sub>|<sub>C#</sub>|
-|<sub>95</sub>|<sub>Algorithms For Dummies</sub>|<sub>2017</sub>|<sub>417</sub>|<sub>2017-06-18</sub>|<sub>Wiley</sub>|<sub>★★★☆☆</sub>|<sub>Software Engineering</sub>|
-|<sub>96</sub>|<sub>AngularJS Essentials</sub>|<sub>2017</sub>|<sub>180</sub>|<sub>2017-06-24</sub>|<sub>Packt</sub>|<sub>★★★☆☆</sub>|<sub>Javascript</sub>|
-|<sub>97</sub>|<sub>Dependency Injection with AngularJS</sub>|<sub>2013</sub>|<sub>78</sub>|<sub>2017-06-24</sub>|<sub>Packt</sub>|<sub>★★★☆☆</sub>|<sub>Javascript</sub>|
-|<sub>98</sub>|<sub>The Algorithm Design Manual </sub>|<sub>2008</sub>|<sub>113</sub>|<sub>2017-06-25</sub>|<sub>Springer</sub>|<sub>★★☆☆☆</sub>|<sub>Software Engineering</sub>|
-|<sub>99</sub>|<sub>Algorithms An illustrated guide for programmers and other curious people </sub>|<sub>2016</sub>|<sub>258</sub>|<sub>2017-07-14</sub>|<sub>Manning</sub>|<sub>★★★★★</sub>|<sub>Software Engineering</sub>|
-|<sub>100</sub>|<sub>Make_ Electronics (2nd Edition) </sub>|<sub>2015</sub>|<sub>349</sub>|<sub>2017-07-16</sub>|<sub>Maker Media, Inc</sub>|<sub>★★★★☆</sub>|<sub>Electronic Engineering</sub>|
-|<sub>101</sub>|<sub>Pro Power BI Desktop</sub>|<sub>2016</sub>|<sub>533</sub>|<sub>2017-07-20</sub>|<sub>Apress</sub>|<sub>★★☆☆☆</sub>|<sub>Power Bi</sub>|
-|<sub>102</sub>|<sub>Machine Learning For Dummies</sub>|<sub>2016</sub>|<sub>453</sub>|<sub>2017-08-28</sub>|<sub>Wiley</sub>|<sub>★★★★☆</sub>|<sub>Machine Learning</sub>|
-|<sub>103</sub>|<sub>Machine Learning Projects for .NET Developers</sub>|<sub>2015</sub>|<sub>290</sub>|<sub>2017-09-06</sub>|<sub>Apress</sub>|<sub>★★★★☆</sub>|<sub>Machine Learning</sub>|
-|<sub>104</sub>|<sub>Learn More, Study Less</sub>|<sub>2008</sub>|<sub>228</sub>|<sub>2017-09-15</sub>|<sub>Self-Published</sub>|<sub>★★★★★</sub>|<sub>Continuous Education</sub>|
-|<sub>105</sub>|<sub>Machine Learning for Hackers</sub>|<sub>2012</sub>|<sub>322</sub>|<sub>2017-09-25</sub>|<sub>O'Reilly</sub>|<sub>★★☆☆☆</sub>|<sub>Machine Learning</sub>|
-|<sub>106</sub>|<sub>Programming Collective Intelligence</sub>|<sub>2007</sub>|<sub>360</sub>|<sub>2017-09-28</sub>|<sub>O'Reilly</sub>|<sub>★☆☆☆☆</sub>|<sub>Machine Learning</sub>|
-|<sub>107</sub>|<sub>Build Your Own PaaS with Docker</sub>|<sub>2016</sub>|<sub>138</sub>|<sub>2018-03-09</sub>|<sub>Packt</sub>|<sub>★★★☆☆</sub>|<sub>Docker</sub>|
-|<sub>108</sub>|<sub>Docker For Developers</sub>|<sub>2015</sub>|<sub>62</sub>|<sub>2018-03-10</sub>|<sub>Leanpub</sub>|<sub>★★☆☆☆</sub>|<sub>Docker</sub>|
-|<sub>109</sub>|<sub>Dive Deep with Docker</sub>|<sub>2014</sub>|<sub>21</sub>|<sub>2018-03-11</sub>|<sub>InfoWorld.com</sub>|<sub>★☆☆☆☆</sub>|<sub>Docker</sub>|
-|<sub>110</sub>|<sub>Docker for Beginners</sub>|<sub>2016</sub>|<sub>34</sub>|<sub>2018-03-15</sub>|<sub>-</sub>|<sub>★★☆☆☆</sub>|<sub>Docker</sub>|
-|<sub>111</sub>|<sub>Docker in Production, Lessons from the Trenches</sub>|<sub>-</sub>|<sub>196</sub>|<sub>2018-03-22</sub>|<sub>Bleeding Edge Press</sub>|<sub>★★☆☆☆</sub>|<sub>Docker</sub>|
-|<sub>112</sub>|<sub>Getting Started with MariaDB - 2nd Edition</sub>|<sub>-</sub>|<sub>149</sub>|<sub>2018-03-29</sub>|<sub>Packt</sub>|<sub>★★☆☆☆</sub>|<sub>MariaDB</sub>|
-|<sub>113</sub>|<sub>MariaDB Crash Course</sub>|<sub>2012</sub>|<sub>303</sub>|<sub>2018-04-01</sub>|<sub>Addison-Wesley</sub>|<sub>★★★☆☆</sub>|<sub>MariaDB</sub>|
-|<sub>114</sub>|<sub>MariaDB Cookbook</sub>|<sub>2014</sub>|<sub>282</sub>|<sub>2018-04-02</sub>|<sub>Packt</sub>|<sub>★★★☆☆</sub>|<sub>MariaDB</sub>|
-|<sub>115</sub>|<sub>Learning MySQL and MariaDB</sub>|<sub>2015</sub>|<sub>443</sub>|<sub>2018-04-02</sub>|<sub>O'Reilly</sub>|<sub>★★★☆☆</sub>|<sub>MariaDB</sub>|
-|<sub>116</sub>|<sub>Orchestrating Docker</sub>|<sub>2015</sub>|<sub>154</sub>|<sub>2018-04-02</sub>|<sub>Packt</sub>|<sub>★☆☆☆☆</sub>|<sub>Docker</sub>|
-|<sub>117</sub>|<sub>Learning Docker</sub>|<sub>2015</sub>|<sub>220</sub>|<sub>2018-04-02</sub>|<sub>Packt</sub>|<sub>★★☆☆☆</sub>|<sub>Docker</sub>|
-|<sub>118</sub>|<sub>Hands on Docker</sub>|<sub>2015</sub>|<sub>225</sub>|<sub>2018-04-03</sub>|<sub>Self-Published</sub>|<sub>★★☆☆☆</sub>|<sub>Docker</sub>|
-|<sub>119</sub>|<sub>Docker Cookbook</sub>|<sub>2016</sub>|<sub>359</sub>|<sub>2018-04-03</sub>|<sub>O'Reilly</sub>|<sub>★★☆☆☆</sub>|<sub>Docker</sub>|
-|<sub>120</sub>|<sub>Bad Programming Practices 101</sub>|<sub>2018</sub>|<sub>24</sub>|<sub>2018-06-28</sub>|<sub>Apress</sub>|<sub>★☆☆☆☆</sub>|<sub>Software Engineering</sub>|
-|<sub>121</sub>|<sub>Building Intelligent Systems</sub>|<sub>2018</sub>|<sub>275</sub>|<sub>2018-07-17</sub>|<sub>Apress</sub>|<sub>★☆☆☆☆</sub>|<sub>Machine Learning</sub>|
-|<sub>122</sub>|<sub>The Little ASP .NET Core Book</sub>|<sub>2018</sub>|<sub>101</sub>|<sub>2018-07-23</sub>|<sub>Self-Published</sub>|<sub>★★★★☆</sub>|<sub>.NET Core</sub>|
-|<sub>123</sub>|<sub>ASP .NET Core Succintly</sub>|<sub>-</sub>|<sub>51</sub>|<sub>2018-07-29</sub>|<sub>Syncfusion</sub>|<sub>★★★☆☆</sub>|<sub>.NET Core</sub>|
-|<sub>124</sub>|<sub>Beginning DAX with PowerBi</sub>|<sub>-</sub>|<sub>165</sub>|<sub>2018-10-08</sub>|<sub>Apress</sub>|<sub>★★☆☆☆</sub>|<sub>Power Bi</sub>|
-|<sub>125</sub>|<sub>Introducing Microsoft PowerBi</sub>|<sub>-</sub>|<sub>189</sub>|<sub>2018-10-08</sub>|<sub>Microsoft Press</sub>|<sub>★★☆☆☆</sub>|<sub>Power Bi</sub>|
-|<sub>126</sub>|<sub>Practical Data Science</sub>|<sub>-</sub>|<sub>394</sub>|<sub>2018-10-21</sub>|<sub>Apress</sub>|<sub>★★☆☆☆</sub>|<sub>Data Science</sub>|
-|<sub>127</sub>|<sub>Learning to Love Data Science</sub>|<sub>2015</sub>|<sub>159</sub>|<sub>2018-10-22</sub>|<sub>O'Reilly</sub>|<sub>★☆☆☆☆</sub>|<sub>Data Science</sub>|
-|<sub>128</sub>|<sub>Designing Data Visualizations</sub>|<sub>2011</sub>|<sub>110</sub>|<sub>2018-10-23</sub>|<sub>O'Reilly</sub>|<sub>★★☆☆☆</sub>|<sub>Business Intelligence</sub>|
-|<sub>129</sub>|<sub>Two styles of database development</sub>|<sub>2015</sub>|<sub>184</sub>|<sub>2018-10-23</sub>|<sub>CreateSpace</sub>|<sub>★☆☆☆☆</sub>|<sub>Software Engineering</sub>|
-|<sub>130</sub>|<sub>Good Habits for Great Coding</sub>|<sub></sub>|<sub>233</sub>|<sub>2018-11-08</sub>|<sub>Apress</sub>|<sub>★☆☆☆☆</sub>|<sub>Software Engineering</sub>|
-|<sub>131</sub>|<sub>Making Big Data Work for Your Business</sub>|<sub>2014</sub>|<sub>170</sub>|<sub>2018-11-09</sub>|<sub>Packt</sub>|<sub>★☆☆☆☆</sub>|<sub>Data Science</sub>|
-|<sub>132</sub>|<sub>Usage-Driven Database Design</sub>|<sub>2015</sub>|<sub>379</sub>|<sub>2018-11-11</sub>|<sub>Apress</sub>|<sub>★★★★☆</sub>|<sub>Software Engineering</sub>|
-|<sub>133</sub>|<sub>High Performance Techniques for Microsoft SQL Server</sub>|<sub></sub>|<sub>307</sub>|<sub>2018-11-11</sub>|<sub>SQLPerformance.com</sub>|<sub>★★☆☆☆</sub>|<sub>SQL Server</sub>|
-|<sub>134</sub>|<sub>Building a Data Warehouse with Examples in SQL Server </sub>|<sub>2008</sub>|<sub>541</sub>|<sub>2018-11-21</sub>|<sub>Apress</sub>|<sub>★★☆☆☆</sub>|<sub>SQL Server</sub>|
-|<sub>135</sub>|<sub>Exam Ref 70-767 Implementing a SQL Data Warehouse</sub>|<sub>2018</sub>|<sub>289</sub>|<sub>2018-11-24</sub>|<sub>Microsoft Press</sub>|<sub>★★☆☆☆</sub>|<sub>Business Intelligence</sub>|
-|<sub>136</sub>|<sub>Testing Computer Software (2nd Edition)</sub>|<sub>1999</sub>|<sub>286</sub>|<sub>2018-11-24</sub>|<sub>Wiley</sub>|<sub>★★☆☆☆</sub>|<sub>Unit Testing</sub>|
-|<sub>137</sub>|<sub>The Effective Engineer</sub>|<sub>2015</sub>|<sub>483</sub>|<sub>2018-11-26</sub>|<sub>Effective Bookshelf</sub>|<sub>★★☆☆☆</sub>|<sub>Software Engineering</sub>|
-|<sub>138</sub>|<sub>Confident Data Skills_ Master the Fundamentals of Working with Data and Supercharge Your Career</sub>|<sub>2018</sub>|<sub>272</sub>|<sub>2018-11-27</sub>|<sub>Kogan Page</sub>|<sub>★★☆☆☆</sub>|<sub>Data Science</sub>|
-|<sub>139</sub>|<sub>Data Science at the Command Line</sub>|<sub>2015</sub>|<sub>212</sub>|<sub>2018-11-27</sub>|<sub>O'Reilly</sub>|<sub>★★☆☆☆</sub>|<sub>Data Science</sub>|
-|<sub>140</sub>|<sub>Data Warehousing For Dummies</sub>|<sub>2009</sub>|<sub>388</sub>|<sub>2018-12-03</sub>|<sub>Wiley</sub>|<sub>★★☆☆☆</sub>|<sub>Business Intelligence</sub>|
-|<sub>141</sub>|<sub>Beginning PowerBi</sub>|<sub>2017</sub>|<sub>353</sub>|<sub>2018-12-04</sub>|<sub>Apress</sub>|<sub>★☆☆☆☆</sub>|<sub>Power Bi</sub>|
-|<sub>142</sub>|<sub>Beginning Big Data with PowerBi and Excel 2013</sub>|<sub>2015</sub>|<sub>107</sub>|<sub>2018-12-04</sub>|<sub>Apress</sub>|<sub>★☆☆☆☆</sub>|<sub>Power Bi</sub>|
-|<sub>143</sub>|<sub>SQL Server 2012 Integration Services Design Patterns</sub>|<sub>2012</sub>|<sub>444</sub>|<sub>2018-12-05</sub>|<sub>Apress</sub>|<sub>★★☆☆☆</sub>|<sub>Business Intelligence</sub>|
-|<sub>144</sub>|<sub>Database Systems (2nd Edition)</sub>|<sub>2016</sub>|<sub>619</sub>|<sub>2018-12-09</sub>|<sub>Apress</sub>|<sub>★★☆☆☆</sub>|<sub>Software Engineering</sub>|
-|<sub>145</sub>|<sub>Data Science for Dummies (2nd Edition)</sub>|<sub>2017</sub>|<sub>329</sub>|<sub>2018-12-09</sub>|<sub>Wiley</sub>|<sub>★★★☆☆</sub>|<sub>Data Science</sub>|
-|<sub>146</sub>|<sub>Foundations for Architecting Data Solutions</sub>|<sub>2018</sub>|<sub>189</sub>|<sub>2018-12-10</sub>|<sub>O'Reilly</sub>|<sub>★★☆☆☆</sub>|<sub>Data Science</sub>|
-|<sub>147</sub>|<sub>Effective SQL: 61 Specific ways to write better SQL</sub>|<sub>2017</sub>|<sub>546</sub>|<sub>2018-12-22</sub>|<sub>Addison-Wesley</sub>|<sub>★★★☆☆</sub>|<sub>Software Engineering</sub>|
-|<sub>148</sub>|<sub>Agile Testing: A practical guide for testers and Agile teams</sub>|<sub>2009</sub>|<sub>507</sub>|<sub>2018-12-24</sub>|<sub>Addison-Wesley</sub>|<sub>★★★☆☆</sub>|<sub>Software Engineering</sub>|
-|<sub>149</sub>|<sub>Beautiful Testing</sub>|<sub>2010</sub>|<sub>351</sub>|<sub>2018-12-25</sub>|<sub>O'Reilly</sub>|<sub>★★☆☆☆</sub>|<sub>Unit Testing</sub>|
-|<sub>150</sub>|<sub>Algorithms - Notes for Professionals</sub>|<sub>-</sub>|<sub>63</sub>|<sub>2018-12-25</sub>|<sub>Goalkicker.com</sub>|<sub>★★☆☆☆</sub>|<sub>Software Engineering</sub>|
-|<sub>151</sub>|<sub>C# Notes for Professionals</sub>|<sub>-</sub>|<sub>808</sub>|<sub>2018-12-29</sub>|<sub>Goalkicker.com</sub>|<sub>★★☆☆☆</sub>|<sub>C#</sub>|
-|<sub>152</sub>|<sub>C# Smorgasbord</sub>|<sub>2012</sub>|<sub>250</sub>|<sub>2018-12-29</sub>|<sub>Self-Published</sub>|<sub>★★☆☆☆</sub>|<sub>C#</sub>|
-|<sub>153</sub>|<sub>Principles of Package Design</sub>|<sub>2018</sub>|<sub>182</sub>|<sub>2018-12-30</sub>|<sub>Apress</sub>|<sub>★★★☆☆</sub>|<sub>Software Engineering</sub>|
-|<sub>154</sub>|<sub>Collect Combine Transform Data using Power Query in Excel and Power Bi</sub>|<sub>2019</sub>|<sub>100</sub>|<sub>2018-12-31</sub>|<sub>Microsoft Press</sub>|<sub>★☆☆☆☆</sub>|<sub>Power Bi</sub>|
-|<sub>155</sub>|<sub>Think Like A Data Scientist</sub>|<sub>2017</sub>|<sub>499</sub>|<sub>2019-01-14</sub>|<sub>Manning</sub>|<sub>★★☆☆☆</sub>|<sub>Data Science</sub>|
-|<sub>156</sub>|<sub>Infrastructure As Code</sub>|<sub>2016</sub>|<sub>362</sub>|<sub>2019-01-27</sub>|<sub>O'Reilly</sub>|<sub>★★★★☆</sub>|<sub>Continuous Delivery</sub>|
-|<sub>157</sub>|<sub>Microsoft PowerBi Dashboards Step-by-Step</sub>|<sub>2019</sub>|<sub>100</sub>|<sub>2019-01-31</sub>|<sub>Pearson Education</sub>|<sub>★☆☆☆☆</sub>|<sub>Power Bi</sub>|
-|<sub>158</sub>|<sub>PowerBi Data Analysis And Visualization</sub>|<sub>2019</sub>|<sub>100</sub>|<sub>2019-01-31</sub>|<sub>DEG Press</sub>|<sub>★☆☆☆☆</sub>|<sub>Power Bi</sub>|
-|<sub>159</sub>|<sub>Pro PowerBI Architecture</sub>|<sub>2018</sub>|<sub>242</sub>|<sub>2019-02-05</sub>|<sub>Apress</sub>|<sub>★★★☆☆</sub>|<sub>Power Bi</sub>|
-|<sub>160</sub>|<sub>PowerBi From Rookie To Rockstar</sub>|<sub>2017</sub>|<sub>948</sub>|<sub>2019-02-06</sub>|<sub>Radacad Systems Ltd</sub>|<sub>★★☆☆☆</sub>|<sub>Power Bi</sub>|
-|<sub>161</sub>|<sub>Optimizing Data-To-Learning-To-Action</sub>|<sub>2018</sub>|<sub>201</sub>|<sub>2019-02-11</sub>|<sub>Apress</sub>|<sub>★★★☆☆</sub>|<sub>Business Intelligence</sub>|
-|<sub>162</sub>|<sub>Microsoft SQL Server 2012 Integration Services</sub>|<sub>2012</sub>|<sub>964</sub>|<sub>2019-02-19</sub>|<sub>Wiley</sub>|<sub>★★★☆☆</sub>|<sub>Business Intelligence</sub>|
-|<sub>163</sub>|<sub>Visual Studio 2017 Succintly</sub>|<sub>2017</sub>|<sub>69</sub>|<sub>2019-02-19</sub>|<sub>Syncfusion</sub>|<sub>★★☆☆☆</sub>|<sub>C#</sub>|
-|<sub>164</sub>|<sub>SQL Server For C# Developers</sub>|<sub>2016</sub>|<sub>71</sub>|<sub>2019-02-20</sub>|<sub>Syncfusion</sub>|<sub>★★☆☆☆</sub>|<sub>C#</sub>|
-|<sub>165</sub>|<sub>Visual Studio 2015 Succintly</sub>|<sub>2015</sub>|<sub>165</sub>|<sub>2019-02-25</sub>|<sub>Syncfusion</sub>|<sub>★★☆☆☆</sub>|<sub>C#</sub>|
-|<sub>166</sub>|<sub>SQL By Example</sub>|<sub>2019</sub>|<sub>64</sub>|<sub>2019-02-25</sub>|<sub>Momentum Press</sub>|<sub>★☆☆☆☆</sub>|<sub>SQL Server</sub>|
-|<sub>167</sub>|<sub>SSIS Succintly</sub>|<sub>2014</sub>|<sub>60</sub>|<sub>2019-02-26</sub>|<sub>Syncfusion</sub>|<sub>★★★☆☆</sub>|<sub>Business Intelligence</sub>|
-|<sub>168</sub>|<sub>PowerBi Succintly</sub>|<sub>2017</sub>|<sub>44</sub>|<sub>2019-02-26</sub>|<sub>Syncfusion</sub>|<sub>★☆☆☆☆</sub>|<sub>Power Bi</sub>|
-|<sub>169</sub>|<sub>The Modern C# Challenge</sub>|<sub>2018</sub>|<sub>70</sub>|<sub>2019-02-26</sub>|<sub>Syncfusion</sub>|<sub>★☆☆☆☆</sub>|<sub>C#</sub>|
-|<sub>170</sub>|<sub>Customer Success For C# Developers Succintly</sub>|<sub>2016</sub>|<sub>58</sub>|<sub>2019-02-26</sub>|<sub>Syncfusion</sub>|<sub>★★★☆☆</sub>|<sub>C#</sub>|
-|<sub>171</sub>|<sub>Data Professionals At Work</sub>|<sub>2018</sub>|<sub>35</sub>|<sub>2019-02-26</sub>|<sub>Apress</sub>|<sub>★☆☆☆☆</sub>|<sub>Data Science</sub>|
-|<sub>172</sub>|<sub>Exam Ref 70-768 Developing SQL Data Models</sub>|<sub>2017</sub>|<sub>390</sub>|<sub>2019-03-02</sub>|<sub>Pearson Education</sub>|<sub>★★★★★</sub>|<sub>Business Intelligence</sub>|
-|<sub>173</sub>|<sub>BI Solutions Using SSIS Tabular Model Succintly</sub>|<sub>2014</sub>|<sub>230</sub>|<sub>2019-03-02</sub>|<sub>Syncfusion</sub>|<sub>★★★★☆</sub>|<sub>Business Intelligence</sub>|
-|<sub>174</sub>|<sub>Data Capture And Extraction with C# Succintly</sub>|<sub>2016</sub>|<sub>55</sub>|<sub>2019-03-02</sub>|<sub>Syncfusion</sub>|<sub>★☆☆☆☆</sub>|<sub>C#</sub>|
-|<sub>175</sub>|<sub>Roslyn Succintly</sub>|<sub>2016</sub>|<sub>75</sub>|<sub>2019-03-03</sub>|<sub>Syncfusion</sub>|<sub>★★★★☆</sub>|<sub>C#</sub>|
-|<sub>176</sub>|<sub>Data Structures Succintly Part 1</sub>|<sub>2012</sub>|<sub>50</sub>|<sub>2019-03-05</sub>|<sub>Syncfusion</sub>|<sub>★★★☆☆</sub>|<sub>Software Engineering</sub>|
-|<sub>177</sub>|<sub>Data Structures Succintly Part 1</sub>|<sub>2013</sub>|<sub>58</sub>|<sub>2019-03-06</sub>|<sub>Syncfusion</sub>|<sub>★★★☆☆</sub>|<sub>Software Engineering</sub>|
-|<sub>178</sub>|<sub>Facts and Fallacies of Software Engineering</sub>|<sub>2002</sub>|<sub>150</sub>|<sub>2019-03-06</sub>|<sub>Addison-Wesley</sub>|<sub>★★★☆☆</sub>|<sub>Software Engineering</sub>|
-|<sub>179</sub>|<sub>OWIN Succintly</sub>|<sub>2015</sub>|<sub>170</sub>|<sub>2019-03-06</sub>|<sub>Syncfusion</sub>|<sub>★★☆☆☆</sub>|<sub>C#</sub>|
-|<sub>180</sub>|<sub>SQL On Azure</sub>|<sub>2015</sub>|<sub>181</sub>|<sub>2019-03-06</sub>|<sub>Syncfusion</sub>|<sub>★★★☆☆</sub>|<sub>SQL Server</sub>|
-|<sub>181</sub>|<sub>SQL Services Analysis Services</sub>|<sub>2014</sub>|<sub>232</sub>|<sub>2019-03-10</sub>|<sub>Syncfusion</sub>|<sub>★★☆☆☆</sub>|<sub>Business Intelligence</sub>|
-|<sub>182</sub>|<sub>Visual Studio Add-Ins</sub>|<sub>2013</sub>|<sub>71</sub>|<sub>2019-03-10</sub>|<sub>Syncfusion</sub>|<sub>★★☆☆☆</sub>|<sub>C#</sub>|
-|<sub>183</sub>|<sub>Visual Studio Code Succintly</sub>|<sub>2016</sub>|<sub>58</sub>|<sub>2019-03-10</sub>|<sub>Syncfusion</sub>|<sub>★★★☆☆</sub>|<sub>.NET Core</sub>|
-|<sub>184</sub>|<sub>Visual Studio Code Distilled</sub>|<sub>2019</sub>|<sub>102</sub>|<sub>2019-03-10</sub>|<sub>Apress</sub>|<sub>★★☆☆☆</sub>|<sub>.NET Core</sub>|
-|<sub>185</sub>|<sub>Machine Learning: The Art And Science of Algorithms That Make Sense of Data</sub>|<sub>2012</sub>|<sub>416</sub>|<sub>2019-03-11</sub>|<sub>Cambridge University Press</sub>|<sub>★☆☆☆☆</sub>|<sub>Machine Learning</sub>|
-|<sub>186</sub>|<sub>Machine Learning: Hands-on For Developers and Technical Professionals</sub>|<sub>2015</sub>|<sub>407</sub>|<sub>2019-03-11</sub>|<sub>Wiley</sub>|<sub>★★☆☆☆</sub>|<sub>Machine Learning</sub>|
-|<sub>187</sub>|<sub>Bad Choices</sub>|<sub>2017</sub>|<sub>161</sub>|<sub>2019-03-12</sub>|<sub>Penguin Random House</sub>|<sub>★★☆☆☆</sub>|<sub>Software Engineering</sub>|
-|<sub>188</sub>|<sub>Perspectives on Data Science for Software Engineering</sub>|<sub>2016</sub>|<sub>340</sub>|<sub>2019-03-12</sub>|<sub>Morgan Kaufmann</sub>|<sub>★★★☆☆</sub>|<sub>Data Science</sub>|
-|<sub>189</sub>|<sub>Ubuntu Server Succintly</sub>|<sub>2016</sub>|<sub>80</sub>|<sub>2019-03-18</sub>|<sub>Syncfusion</sub>|<sub>★★★☆☆</sub>|<sub>Linux</sub>|
-|<sub>190</sub>|<sub>Asynchronous Programming Succintly</sub>|<sub>2017</sub>|<sub>44</sub>|<sub>2019-03-25</sub>|<sub>Syncfusion</sub>|<sub>★★☆☆☆</sub>|<sub>C#</sub>|
-|<sub>191</sub>|<sub>Entity Framework Code First Succintly</sub>|<sub>2014</sub>|<sub>79</sub>|<sub>2019-03-27</sub>|<sub>Syncfusion</sub>|<sub>★★★☆☆</sub>|<sub>C#</sub>|
-|<sub>192</sub>|<sub>Microservices in .NET Core</sub>|<sub>2017</sub>|<sub>348</sub>|<sub>2019-07-24</sub>|<sub>Manning</sub>|<sub>★★☆☆☆</sub>|<sub>C#</sub>|
-|<sub>193</sub>|<sub>The Absolutely Awesome Book on C# and .NET (sample chapters)</sub>|<sub>2019</sub>|<sub>96</sub>|<sub>2019-07-29</sub>|<sub>Dot Net Curry</sub>|<sub>★★★☆☆</sub>|<sub>C#</sub>|
-|<sub>194</sub>|<sub>LINQ Succintly</sub>|<sub>2015</sub>|<sub>54</sub>|<sub>2019-08-19</sub>|<sub>Syncfusion</sub>|<sub>★★★☆☆</sub>|<sub>C#</sub>|
-|<sub>195</sub>|<sub>C# For Artists</sub>|<sub>2008</sub>|<sub>794</sub>|<sub>2019-08-31</sub>|<sub>PulpFree Press</sub>|<sub>★★★☆☆</sub>|<sub>C#</sub>|
-|<sub>196</sub>|<sub>Software Architect Handbook</sub>|<sub>2018</sub>|<sub>1259</sub>|<sub>2019-09-20</sub>|<sub>Packt</sub>|<sub>★★☆☆☆</sub>|<sub>Software Engineering</sub>|
-|<sub>197</sub>|<sub>Learn Powershell Core 6.0</sub>|<sub>2018</sub>|<sub>736</sub>|<sub>2020-04-03</sub>|<sub>Packt</sub>|<sub>★☆☆☆☆</sub>|<sub>Powershell</sub>|
-|<sub>198</sub>|<sub>Powershell and Python Together</sub>|<sub>2019</sub>|<sub>98</sub>|<sub>2020-04-04</sub>|<sub>Apress</sub>|<sub>★☆☆☆☆</sub>|<sub>Powershell</sub>|
-|<sub>199</sub>|<sub>Powershell Core 6.2</sub>|<sub>2019</sub>|<sub>709</sub>|<sub>2020-04-05</sub>|<sub>Packt</sub>|<sub>★☆☆☆☆</sub>|<sub>Powershell</sub>|
-|<sub>200</sub>|<sub>C# Code Contracts Succintly</sub>|<sub>2016</sub>|<sub>44</sub>|<sub>2020-04-10</sub>|<sub>Syncfusion</sub>|<sub>★★★☆☆</sub>|<sub>C#</sub>|
-|<sub>201</sub>|<sub>Beginning Git and Github</sub>|<sub>2020</sub>|<sub>294</sub>|<sub>2020-04-11</sub>|<sub>Apress</sub>|<sub>★★★☆☆</sub>|<sub>Git</sub>|
-|<sub>202</sub>|<sub>Git Succintly</sub>|<sub>2012</sub>|<sub>28</sub>|<sub>2020-04-11</sub>|<sub>Syncfusion</sub>|<sub>★★★☆☆</sub>|<sub>Git</sub>|
-|<sub>203</sub>|<sub>LINQPad Succintly</sub>|<sub>2017</sub>|<sub>49</sub>|<sub>2020-04-11</sub>|<sub>Syncfusion</sub>|<sub>★★★☆☆</sub>|<sub>C#</sub>|
-|<sub>204</sub>|<sub>Coding for Python vol.37</sub>|<sub>2019</sub>|<sub>164</sub>|<sub>2020-04-14</sub>|<sub>Black Dog Media</sub>|<sub>★★☆☆☆</sub>|<sub>Python</sub>|
-|<sub>205</sub>|<sub>Application Security in .NET Succintly</sub>|<sub>2017</sub>|<sub>104</sub>|<sub>2020-04-14</sub>|<sub>Syncfusion</sub>|<sub>★★★☆☆</sub>|<sub>C#</sub>|
-|<sub>206</sub>|<sub>Structure and Interpretation of Computer Programs</sub>|<sub>1996</sub>|<sub>883</sub>|<sub>2020-10-14</sub>|<sub>MIT Press</sub>|<sub>★★☆☆☆</sub>|<sub>Software Engineering</sub>|
-|<sub>207</sub>|<sub>Entity Framework Code First Succintly</sub>|<sub>2014</sub>|<sub>79</sub>|<sub>2020-10-17</sub>|<sub>Syncfusion</sub>|<sub>★★★☆☆</sub>|<sub>C#</sub>|
-|<sub>208</sub>|<sub>Entity Framework Core Succintly</sub>|<sub>2018</sub>|<sub>71</sub>|<sub>2020-10-17</sub>|<sub>Syncfusion</sub>|<sub>★★★☆☆</sub>|<sub>.NET Core</sub>|
-|<sub>209</sub>|<sub>How-To Take Smart Notes</sub>|<sub>2017</sub>|<sub>160</sub>|<sub>2020-10-20</sub>|<sub>TakeSmartNotes.com</sub>|<sub>★☆☆☆☆</sub>|<sub>Continuous Education</sub>|
-|<sub>210</sub>|<sub>An Introduction to Information Retrieval</sub>|<sub>2009</sub>|<sub>569</sub>|<sub>2020-10-27</sub>|<sub>Cambridge University Press</sub>|<sub>★★★☆☆</sub>|<sub>Data Science</sub>|
-|<sub>211</sub>|<sub>Data Driven</sub>|<sub>2019</sub>|<sub>179</sub>|<sub>2020-10-28</sub>|<sub>McGraw Hill</sub>|<sub>★★☆☆☆</sub>|<sub>Data Science</sub>|
-|<sub>212</sub>|<sub>Thinking in C#</sub>|<sub>2003</sub>|<sub>799</sub>|<sub>2020-11-09</sub>|<sub>Prentice Hall</sub>|<sub>★★★☆☆</sub>|<sub>C#</sub>|
-|<sub>213</sub>|<sub>The Dip</sub>|<sub>2007</sub>|<sub>86</sub>|<sub>2020-11-10</sub>|<sub>Penguin Books</sub>|<sub>★★☆☆☆</sub>|<sub>Continuous Education</sub>|
-|<sub>214</sub>|<sub>Building Great Software Engineering Teams</sub>|<sub>2015</sub>|<sub>154</sub>|<sub>2020-11-10</sub>|<sub>Apress</sub>|<sub>★★★☆☆</sub>|<sub>Software Engineering</sub>|
-|<sub>215</sub>|<sub>Practical Enterprise Software Development Techniques</sub>|<sub>2015</sub>|<sub>223</sub>|<sub>2020-11-12</sub>|<sub>Apress</sub>|<sub>★★★☆☆</sub>|<sub>Software Engineering</sub>|
-|<sub>216</sub>|<sub>So Good They Can't Ignore You</sub>|<sub>2012</sub>|<sub>270</sub>|<sub>2020-11-15</sub>|<sub>Hachette</sub>|<sub>★★☆☆☆</sub>|<sub>Continuous Education</sub>|
-|<sub>217</sub>|<sub>Don't Make Me Think (Revisited)</sub>|<sub>2014</sub>|<sub>184</sub>|<sub>2020-11-26</sub>|<sub>Pearson Education</sub>|<sub>★★★☆☆</sub>|<sub>Continuous Education</sub>|
-|<sub>218</sub>|<sub>.NET Design Patterns</sub>|<sub>2017</sub>|<sub>284</sub>|<sub>2020-11-29</sub>|<sub>Packt</sub>|<sub>★☆☆☆☆</sub>|<sub>C#</sub>|
-|<sub>219</sub>|<sub>Functional Programming in C#</sub>|<sub>2018</sub>|<sub>435</sub>|<sub>2020-12-18</sub>|<sub>Manning</sub>|<sub>★★★★★</sub>|<sub>C#</sub>|
-|<sub>220</sub>|<sub>Jenkins, Docker and DevOps: The Innovation Catalysts</sub>|<sub>-</sub>|<sub>18</sub>|<sub>2021-02-08</sub>|<sub>Syncfusion</sub>|<sub>★☆☆☆☆</sub>|<sub>Docker</sub>|
-|<sub>221</sub>|<sub>NuGet In-House Succintly</sub>|<sub>2019</sub>|<sub>38</sub>|<sub>2021-02-08</sub>|<sub>Syncfusion</sub>|<sub>★★★☆☆</sub>|<sub>C#</sub>|
-|<sub>222</sub>|<sub>Azure Functions Succintly</sub>|<sub>2018</sub>|<sub>45</sub>|<sub>2021-02-16</sub>|<sub>Syncfusion</sub>|<sub>★★☆☆☆</sub>|<sub>Azure</sub>|
-|<sub>223</sub>|<sub>App Modernization on Azure Succintly</sub>|<sub>2020</sub>|<sub>68</sub>|<sub>2021-02-16</sub>|<sub>Syncfusion</sub>|<sub>★★☆☆☆</sub>|<sub>Azure</sub>|
-|<sub>224</sub>|<sub>Visual Studio 2019 Succintly</sub>|<sub>2019</sub>|<sub>44</sub>|<sub>2021-02-17</sub>|<sub>Syncfusion</sub>|<sub>★★☆☆☆</sub>|<sub>C#</sub>|
-|<sub>225</sub>|<sub>SQL Server Metadata Succintly</sub>|<sub>2019</sub>|<sub>60</sub>|<sub>2021-02-17</sub>|<sub>Syncfusion</sub>|<sub>★☆☆☆☆</sub>|<sub>SQL Server</sub>|
-|<sub>226</sub>|<sub>Hands-on DevOps with Vagrant</sub>|<sub>2018</sub>|<sub>411</sub>|<sub>2021-02-19</sub>|<sub>Packt</sub>|<sub>★★☆☆☆</sub>|<sub>DevOps</sub>|
-|<sub>227</sub>|<sub>Vagrant Virtual Development Environment Cookbook</sub>|<sub>2015</sub>|<sub>426</sub>|<sub>2021-02-19</sub>|<sub>Packt</sub>|<sub>★★☆☆☆</sub>|<sub>DevOps</sub>|
-|<sub>228</sub>|<sub>Using .NET Core, Docker and Kubernetes Succintly</sub>|<sub>2019</sub>|<sub>57</sub>|<sub>2021-02-21</sub>|<sub>Syncfusion</sub>|<sub>★★☆☆☆</sub>|<sub>Docker</sub>|
-|<sub>229</sub>|<sub>Getting The Most from LINQPad Succintly</sub>|<sub>2019</sub>|<sub>47</sub>|<sub>2021-02-21</sub>|<sub>Syncfusion</sub>|<sub>★★★★☆</sub>|<sub>C#</sub>|
-|<sub>230</sub>|<sub>Azure DevOps Succintly</sub>|<sub>2020</sub>|<sub>75</sub>|<sub>2021-02-22</sub>|<sub>Syncfusion</sub>|<sub>★★☆☆☆</sub>|<sub>DevOps</sub>|
+|1|Writing Solid Code|1993|288|2016-05-28|Microsoft Press|★★☆☆☆|Software Engineering|
+|2|Git Essentials|2015|168|2016-06-05|Packt|★★☆☆☆|Git|
+|3|Clean Code - A Handbook of Agile Software Craftsmanship|2008|462|2016-06-12|Prentice Hall|★★☆☆☆|Software Engineering|
+|4|GitHub: Amplify Your Software Development with Social Coding|2010|149|2016-06-22|O'Reilly|★☆☆☆☆|Git|
+|5|Introducing Github|2015|142|2016-06-22|O'Reilly|★★★☆☆|Git|
+|6|GitHub Essentials|2015|190|2016-06-22|Packt|★★☆☆☆|Git|
+|7|Git for Teams|2010|310|2016-06-26|O'Reilly|★★★★☆|Git|
+|8|Git Pocket Guide|2013|233|2016-06-28|O'Reilly|★★★☆☆|Git|
+|9|24 Patterns of Clean Code|2016|80|2016-06-28|Evermore|★☆☆☆☆|Software Engineering|
+|10|Effective Unit Testing|2013|249|2016-07-01|Manning|★★☆☆☆|Unit Testing|
+|11|Smalltalk Best Practice Patterns|1997|237|2016-07-06|Prentice Hall|★★★☆☆|Software Engineering|
+|12|Microsoft Visual C# 2013 Step by Step|2013|824|2016-07-25|Microsoft Press|★★★★☆|C#|
+|13|Framework Design Guidelines|2009|448|2016-07-28|Addison-Wesley|★★☆☆☆|C#|
+|14|Design Patterns Explained Simply |-|117|2016-08-03|Sourcemaking.com|★★★☆☆|Software Engineering|
+|15|Test Driven Development By Example|2002|217|2016-08-04|Addison-Wesley|★★★★☆|Unit Testing|
+|16|Web Scraping With Python|2015|174|2016-09-02|O'Reilly|★★★★☆|Data Science|
+|17|Firebug 1.5 Editing, Debugging, and Monitoring Web Pages|2010|224|2016-09-03|Packt|★☆☆☆☆|Data Science|
+|18|The Art of Unit Testing, 2nd Edition|2014|294|2016-09-22|Manning|★★★★☆|Unit Testing|
+|19|Applying UML, Advanced Applications|-|189|2016-09-26|Butterworth-Heinemann|★★☆☆☆|Software Engineering|
+|20|XPath And Xpointer|2002|197|2016-10-17|O'Reilly|★★☆☆☆|Data Science|
+|21|How to be a Programmer (Community Version)|-|78|2016-10-18|Self-Published|★☆☆☆☆|Software Engineering|
+|22|C# Database Basics|2012|108|2016-11-03|O'Reilly|★☆☆☆☆|C#|
+|23|Beginning C# 2008 Databases From Novice to Professional |2008|512|2016-11-04|Apress|★★★☆☆|C#|
+|24|Pro .NET Best Practices|2011|365|2016-11-08|Apress|★★★☆☆|C#|
+|25|Data Structures and Algorithms Using Csharp|2007|336|2016-11-15|Cambridge University Press|★★★☆☆|C#|
+|26|Machine Learning Using CSharp Succinctly|2014|148|2016-11-19|Syncfusion|★★★★★|Machine Learning|
+|27|Beginning XSLT And XPath Transforming XML Documents And Data|2009|435|2016-11-21|Wrox|★☆☆☆☆|Data Science|
+|28|XPath Essentials|2002|547|2016-11-21|Wiley|★☆☆☆☆|Data Science|
+|29|Working Effectively with Legacy Code|2004|458|2016-11-23|O'Reilly|★★★★☆|Software Engineering|
+|30|Design Patterns: Elements of Reusable Object-Oriented Software|1997|431|2016-11-27|Addison-Wesley|★☆☆☆☆|Software Engineering|
+|31|MCSD Certification Toolkit (Exam 70-483) Programming in C#|2013|650|2016-11-30|Wrox|★★★☆☆|C#|
+|32|Why programmers work at night|-|43|2016-11-30|Leanpub|★☆☆☆☆|Software Engineering|
+|33|What I've Learned From Failure|2011|51|2016-12-01|Leanpub|★☆☆☆☆|Software Engineering|
+|34|97 Things Every Programmer Should Know|2010|257|2016-12-02|O'Reilly|★★☆☆☆|Software Engineering|
+|35|.NET Technology Guide for Business Applications|2013|74|2016-12-02|Microsoft Press|★☆☆☆☆|C#|
+|36|Head First C#, 3rd Edition|2013|948|2016-12-05|O'Reilly|★☆☆☆☆|C#|
+|37|The Pragmatic Programmer, From Journeyman To Master|1999|361|2016-12-09|Addison-Wesley|★★☆☆☆|Software Engineering|
+|38|Producing Open Source Software|2016|229|2016-12-20|O'Reilly|★☆☆☆☆|Software Engineering|
+|39|Hacknot Essays on Software Development|2006|294|2016-12-20|Lulu.com|★☆☆☆☆|Software Engineering|
+|40|Patterns Of Software|1996|239|2016-12-20|Oxford University Press|★☆☆☆☆|Software Engineering|
+|41|Object-Oriented Reengineering Patterns|2008|360|2016-12-21|Morgan Kaufmann|★★★☆☆|Software Engineering|
+|42|Extreme Programming Explained|-|137|2016-12-21|Addison-Wesley|★★☆☆☆|Software Engineering|
+|43|Don't Just Roll The Dice|2012|69|2016-12-21|Red gate books|★★★★☆|Software Engineering|
+|44|Ambient Computing|2016|20|2017-01-16|O'Reilly|★☆☆☆☆|IoT|
+|45|Analyzing Data in the Internet of Things|2016|66|2017-01-16|O'Reilly|★☆☆☆☆|IoT|
+|46|Creating Functional Teams For IoT|2015|19|2017-01-16|O'Reilly|★☆☆☆☆|IoT|
+|47|Object-Oriented vs. Functional Programming|2016|46|2017-01-16|O'Reilly|★☆☆☆☆|Software Engineering|
+|48|Dependency Injection in .NET|2011|342|2017-01-25|Manning|★★☆☆☆|C#|
+|49|Apprenticeship Patterns - Guidance for the Aspiring Software Craftsman|2010|165|2017-01-25|O'Reilly|★☆☆☆☆|Software Engineering|
+|50|Confessions of an IT Manager|2009|307|2017-01-25|Red gate books|★☆☆☆☆|Software Engineering|
+|51|Beginning TSQL With Microsoft SQL Server 2005 And 2008|2008|675|2017-01-26|Wrox|★★★☆☆|SQL Server|
+|52|Visual Studio 2015 Cookbook|2015|559|2017-01-26|Packt|★★☆☆☆|C#|
+|53|Domain-Driven Design - Tackling Complexity in the Heart of Software|2003|324|2017-01-27|Addison-Wesley|★☆☆☆☆|Software Engineering|
+|54|CSharp 5.0 In A Nutshell (5th Edition)|2012|1062|2017-01-27|O'Reilly|★☆☆☆☆|C#|
+|55|Fluent CSharp|2011|869|2017-01-27|Sams Publishing|★☆☆☆☆|C#|
+|56|C# 6.0 Cookbook|2015|703|2017-01-27|O'Reilly|★★☆☆☆|C#|
+|57|Domain Driven Design Quickly|2006|106|2017-02-05|Lulu.com|★★★★☆|Software Engineering|
+|58|What You Need to Know about Machine Learning|2016|50|2017-03-13|Packt|★★☆☆☆|Machine Learning|
+|59|Head First Design Patterns|2004|619|2017-03-17|O'Reilly|★★★★★|Software Engineering|
+|60|Learning Object-Oriented Programming|2015|280|2017-03-18|Packt|★★☆☆☆|Software Engineering|
+|61|Rapid Development|1996|671|2017-03-18|Microsoft Press|★★☆☆☆|Software Engineering|
+|62|Patterns of Enterprise Application Architecture|2002|127|2017-03-20|Addison-Wesley|★☆☆☆☆|Software Engineering|
+|63|Web Scraping with Python (Community Experience Distilled)|2015|174|2017-03-20|Packt|★☆☆☆☆|Data Science|
+|64|C# In Depth|2014|164|2017-03-21|Manning|★☆☆☆☆|C#|
+|65|The Art Of Unit Testing With Examples In C Sharp (2nd Edition)|2013|294|2017-03-25|Manning|★★★★★|Unit Testing|
+|66|Code Simplicity|2012|90|2017-03-25|O'Reilly|★★★☆☆|Software Engineering|
+|67|Becoming A Better Programmer|2015|362|2017-03-25|O'Reilly|★★★☆☆|Software Engineering|
+|68|CSharp Book 8.2|2016|216|2017-03-26|Self-Published|★★★☆☆|C#|
+|69|Inside Microsoft SQL Server 2008 T-SQL Querying|2009|127|2017-03-26|Microsoft Press|★★★☆☆|SQL Server|
+|70|Daily Design Pattern|-|108|2017-03-27|Self-Published|★★★★☆|Software Engineering|
+|71|Continuous Delivery and DevOps, a quickstart guide|2012|154|2017-03-28|Packt|★★★☆☆|Continuous Delivery|
+|72|Learning Docker|2015|240|2017-03-28|Packt|★★★☆☆|Docker|
+|73|Windows PowerShell 4.0 For .NET Developers|2014|140|2017-03-30|Packt|★★★☆☆|Powershell|
+|74|Xunit Test Patterns_ Refactoring Test Code|2007|500|2017-04-05|Addison-Wesley|★☆☆☆☆|Unit Testing|
+|75|The Mythical Man-Month (Anniversary Edition)|1995|322|2017-04-09|Addison-Wesley|★☆☆☆☆|Software Engineering|
+|76|Growing Object-Oriented Software Guided by Tests|2009|385|2017-04-13|Addison-Wesley|★★★★★|Unit Testing|
+|77|Refactoring to Patterns 1.13|2011|87|2017-04-13|Addison-Wesley|★★☆☆☆|Software Engineering|
+|78|Adaptive Code via C#|2013|433|2017-04-14|Microsoft Press|★★★☆☆|C#|
+|79|UML Weekend Crash Course|2002|385|2017-04-17|Wiley|★★★★★|Software Engineering|
+|80|Concurrency In C Sharp Cookbook|2014|159|2017-04-27|O'Reilly|★★★☆☆|C#|
+|81|Multithreading In C Sharp 5.0 Cookbook|2013|268|2017-04-27|Packt|★★★☆☆|C#|
+|82|Beginning Software Engineering|2015|482|2017-05-02|Sybex|★★★☆☆|Software Engineering|
+|83|Cracking The Coding Interview (6th edition)|2015|100|2017-05-02|CareerCup|★☆☆☆☆|Software Engineering|
+|84|Refactoring Improving the Design of Existing Code|-|337|2017-05-09|Addison-Wesley|★☆☆☆☆|Software Engineering|
+|85|Pragmatic Unit Testing In CSharp With Nunit|2004|163|2017-05-14|Pragmatic Bookshelf|★★☆☆☆|Unit Testing|
+|86|Object-Oriented Software Construction (2nd edition)|-|250|2017-05-14|Prentice Hall|★☆☆☆☆|Software Engineering|
+|87|Sams Teach Yourself Regular Expressions|2004|200|2017-05-16|Sams Publishing|★★☆☆☆|Regular Expressions|
+|88|Regular Expression Cookbook|2009|200|2017-05-16|O'Reilly|★★☆☆☆|Regular Expressions|
+|89|Webbots, Spiders, And Screen Scrapers (2nd Edition)|2012|120|2017-05-18|No Starch Press|★☆☆☆☆|Data Science|
+|90|Practical Microsoft Visual Studio 2015|2015|209|2017-05-21|Apress|★★★☆☆|C#|
+|91|C# 7 and .NET Core Cookbook|2017|598|2017-05-23|Packt|★☆☆☆☆|C#|
+|92|NET Design Patterns (1st Edition)|2017|325|2017-05-23|Packt|★★☆☆☆|C#|
+|93|Build APIs You Won't Hate|2014|143|2017-05-28|Leanpub|★★☆☆☆|Software Engineering|
+|94|Mastering C# and .NET Framework|2016|400|2017-05-29|Packt|★☆☆☆☆|C#|
+|95|Algorithms For Dummies|2017|417|2017-06-18|Wiley|★★★☆☆|Software Engineering|
+|96|AngularJS Essentials|2017|180|2017-06-24|Packt|★★★☆☆|Javascript|
+|97|Dependency Injection with AngularJS|2013|78|2017-06-24|Packt|★★★☆☆|Javascript|
+|98|The Algorithm Design Manual |2008|113|2017-06-25|Springer|★★☆☆☆|Software Engineering|
+|99|Algorithms An illustrated guide for programmers and other curious people |2016|258|2017-07-14|Manning|★★★★★|Software Engineering|
+|100|Make_ Electronics (2nd Edition) |2015|349|2017-07-16|Maker Media, Inc|★★★★☆|Electronic Engineering|
+|101|Pro Power BI Desktop|2016|533|2017-07-20|Apress|★★☆☆☆|Power Bi|
+|102|Machine Learning For Dummies|2016|453|2017-08-28|Wiley|★★★★☆|Machine Learning|
+|103|Machine Learning Projects for .NET Developers|2015|290|2017-09-06|Apress|★★★★☆|Machine Learning|
+|104|Learn More, Study Less|2008|228|2017-09-15|Self-Published|★★★★★|Continuous Education|
+|105|Machine Learning for Hackers|2012|322|2017-09-25|O'Reilly|★★☆☆☆|Machine Learning|
+|106|Programming Collective Intelligence|2007|360|2017-09-28|O'Reilly|★☆☆☆☆|Machine Learning|
+|107|Build Your Own PaaS with Docker|2016|138|2018-03-09|Packt|★★★☆☆|Docker|
+|108|Docker For Developers|2015|62|2018-03-10|Leanpub|★★☆☆☆|Docker|
+|109|Dive Deep with Docker|2014|21|2018-03-11|InfoWorld.com|★☆☆☆☆|Docker|
+|110|Docker for Beginners|2016|34|2018-03-15|-|★★☆☆☆|Docker|
+|111|Docker in Production, Lessons from the Trenches|-|196|2018-03-22|Bleeding Edge Press|★★☆☆☆|Docker|
+|112|Getting Started with MariaDB - 2nd Edition|-|149|2018-03-29|Packt|★★☆☆☆|MariaDB|
+|113|MariaDB Crash Course|2012|303|2018-04-01|Addison-Wesley|★★★☆☆|MariaDB|
+|114|MariaDB Cookbook|2014|282|2018-04-02|Packt|★★★☆☆|MariaDB|
+|115|Learning MySQL and MariaDB|2015|443|2018-04-02|O'Reilly|★★★☆☆|MariaDB|
+|116|Orchestrating Docker|2015|154|2018-04-02|Packt|★☆☆☆☆|Docker|
+|117|Learning Docker|2015|220|2018-04-02|Packt|★★☆☆☆|Docker|
+|118|Hands on Docker|2015|225|2018-04-03|Self-Published|★★☆☆☆|Docker|
+|119|Docker Cookbook|2016|359|2018-04-03|O'Reilly|★★☆☆☆|Docker|
+|120|Bad Programming Practices 101|2018|24|2018-06-28|Apress|★☆☆☆☆|Software Engineering|
+|121|Building Intelligent Systems|2018|275|2018-07-17|Apress|★☆☆☆☆|Machine Learning|
+|122|The Little ASP .NET Core Book|2018|101|2018-07-23|Self-Published|★★★★☆|.NET Core|
+|123|ASP .NET Core Succintly|-|51|2018-07-29|Syncfusion|★★★☆☆|.NET Core|
+|124|Beginning DAX with PowerBi|-|165|2018-10-08|Apress|★★☆☆☆|Power Bi|
+|125|Introducing Microsoft PowerBi|-|189|2018-10-08|Microsoft Press|★★☆☆☆|Power Bi|
+|126|Practical Data Science|-|394|2018-10-21|Apress|★★☆☆☆|Data Science|
+|127|Learning to Love Data Science|2015|159|2018-10-22|O'Reilly|★☆☆☆☆|Data Science|
+|128|Designing Data Visualizations|2011|110|2018-10-23|O'Reilly|★★☆☆☆|Business Intelligence|
+|129|Two styles of database development|2015|184|2018-10-23|CreateSpace|★☆☆☆☆|Software Engineering|
+|130|Good Habits for Great Coding||233|2018-11-08|Apress|★☆☆☆☆|Software Engineering|
+|131|Making Big Data Work for Your Business|2014|170|2018-11-09|Packt|★☆☆☆☆|Data Science|
+|132|Usage-Driven Database Design|2015|379|2018-11-11|Apress|★★★★☆|Software Engineering|
+|133|High Performance Techniques for Microsoft SQL Server||307|2018-11-11|SQLPerformance.com|★★☆☆☆|SQL Server|
+|134|Building a Data Warehouse with Examples in SQL Server |2008|541|2018-11-21|Apress|★★☆☆☆|SQL Server|
+|135|Exam Ref 70-767 Implementing a SQL Data Warehouse|2018|289|2018-11-24|Microsoft Press|★★☆☆☆|Business Intelligence|
+|136|Testing Computer Software (2nd Edition)|1999|286|2018-11-24|Wiley|★★☆☆☆|Unit Testing|
+|137|The Effective Engineer|2015|483|2018-11-26|Effective Bookshelf|★★☆☆☆|Software Engineering|
+|138|Confident Data Skills_ Master the Fundamentals of Working with Data and Supercharge Your Career|2018|272|2018-11-27|Kogan Page|★★☆☆☆|Data Science|
+|139|Data Science at the Command Line|2015|212|2018-11-27|O'Reilly|★★☆☆☆|Data Science|
+|140|Data Warehousing For Dummies|2009|388|2018-12-03|Wiley|★★☆☆☆|Business Intelligence|
+|141|Beginning PowerBi|2017|353|2018-12-04|Apress|★☆☆☆☆|Power Bi|
+|142|Beginning Big Data with PowerBi and Excel 2013|2015|107|2018-12-04|Apress|★☆☆☆☆|Power Bi|
+|143|SQL Server 2012 Integration Services Design Patterns|2012|444|2018-12-05|Apress|★★☆☆☆|Business Intelligence|
+|144|Database Systems (2nd Edition)|2016|619|2018-12-09|Apress|★★☆☆☆|Software Engineering|
+|145|Data Science for Dummies (2nd Edition)|2017|329|2018-12-09|Wiley|★★★☆☆|Data Science|
+|146|Foundations for Architecting Data Solutions|2018|189|2018-12-10|O'Reilly|★★☆☆☆|Data Science|
+|147|Effective SQL: 61 Specific ways to write better SQL|2017|546|2018-12-22|Addison-Wesley|★★★☆☆|Software Engineering|
+|148|Agile Testing: A practical guide for testers and Agile teams|2009|507|2018-12-24|Addison-Wesley|★★★☆☆|Software Engineering|
+|149|Beautiful Testing|2010|351|2018-12-25|O'Reilly|★★☆☆☆|Unit Testing|
+|150|Algorithms - Notes for Professionals|-|63|2018-12-25|Goalkicker.com|★★☆☆☆|Software Engineering|
+|151|C# Notes for Professionals|-|808|2018-12-29|Goalkicker.com|★★☆☆☆|C#|
+|152|C# Smorgasbord|2012|250|2018-12-29|Self-Published|★★☆☆☆|C#|
+|153|Principles of Package Design|2018|182|2018-12-30|Apress|★★★☆☆|Software Engineering|
+|154|Collect Combine Transform Data using Power Query in Excel and Power Bi|2019|100|2018-12-31|Microsoft Press|★☆☆☆☆|Power Bi|
+|155|Think Like A Data Scientist|2017|499|2019-01-14|Manning|★★☆☆☆|Data Science|
+|156|Infrastructure As Code|2016|362|2019-01-27|O'Reilly|★★★★☆|Continuous Delivery|
+|157|Microsoft PowerBi Dashboards Step-by-Step|2019|100|2019-01-31|Pearson Education|★☆☆☆☆|Power Bi|
+|158|PowerBi Data Analysis And Visualization|2019|100|2019-01-31|DEG Press|★☆☆☆☆|Power Bi|
+|159|Pro PowerBI Architecture|2018|242|2019-02-05|Apress|★★★☆☆|Power Bi|
+|160|PowerBi From Rookie To Rockstar|2017|948|2019-02-06|Radacad Systems Ltd|★★☆☆☆|Power Bi|
+|161|Optimizing Data-To-Learning-To-Action|2018|201|2019-02-11|Apress|★★★☆☆|Business Intelligence|
+|162|Microsoft SQL Server 2012 Integration Services|2012|964|2019-02-19|Wiley|★★★☆☆|Business Intelligence|
+|163|Visual Studio 2017 Succintly|2017|69|2019-02-19|Syncfusion|★★☆☆☆|C#|
+|164|SQL Server For C# Developers|2016|71|2019-02-20|Syncfusion|★★☆☆☆|C#|
+|165|Visual Studio 2015 Succintly|2015|165|2019-02-25|Syncfusion|★★☆☆☆|C#|
+|166|SQL By Example|2019|64|2019-02-25|Momentum Press|★☆☆☆☆|SQL Server|
+|167|SSIS Succintly|2014|60|2019-02-26|Syncfusion|★★★☆☆|Business Intelligence|
+|168|PowerBi Succintly|2017|44|2019-02-26|Syncfusion|★☆☆☆☆|Power Bi|
+|169|The Modern C# Challenge|2018|70|2019-02-26|Syncfusion|★☆☆☆☆|C#|
+|170|Customer Success For C# Developers Succintly|2016|58|2019-02-26|Syncfusion|★★★☆☆|C#|
+|171|Data Professionals At Work|2018|35|2019-02-26|Apress|★☆☆☆☆|Data Science|
+|172|Exam Ref 70-768 Developing SQL Data Models|2017|390|2019-03-02|Pearson Education|★★★★★|Business Intelligence|
+|173|BI Solutions Using SSIS Tabular Model Succintly|2014|230|2019-03-02|Syncfusion|★★★★☆|Business Intelligence|
+|174|Data Capture And Extraction with C# Succintly|2016|55|2019-03-02|Syncfusion|★☆☆☆☆|C#|
+|175|Roslyn Succintly|2016|75|2019-03-03|Syncfusion|★★★★☆|C#|
+|176|Data Structures Succintly Part 1|2012|50|2019-03-05|Syncfusion|★★★☆☆|Software Engineering|
+|177|Data Structures Succintly Part 1|2013|58|2019-03-06|Syncfusion|★★★☆☆|Software Engineering|
+|178|Facts and Fallacies of Software Engineering|2002|150|2019-03-06|Addison-Wesley|★★★☆☆|Software Engineering|
+|179|OWIN Succintly|2015|170|2019-03-06|Syncfusion|★★☆☆☆|C#|
+|180|SQL On Azure|2015|181|2019-03-06|Syncfusion|★★★☆☆|SQL Server|
+|181|SQL Services Analysis Services|2014|232|2019-03-10|Syncfusion|★★☆☆☆|Business Intelligence|
+|182|Visual Studio Add-Ins|2013|71|2019-03-10|Syncfusion|★★☆☆☆|C#|
+|183|Visual Studio Code Succintly|2016|58|2019-03-10|Syncfusion|★★★☆☆|.NET Core|
+|184|Visual Studio Code Distilled|2019|102|2019-03-10|Apress|★★☆☆☆|.NET Core|
+|185|Machine Learning: The Art And Science of Algorithms That Make Sense of Data|2012|416|2019-03-11|Cambridge University Press|★☆☆☆☆|Machine Learning|
+|186|Machine Learning: Hands-on For Developers and Technical Professionals|2015|407|2019-03-11|Wiley|★★☆☆☆|Machine Learning|
+|187|Bad Choices|2017|161|2019-03-12|Penguin Random House|★★☆☆☆|Software Engineering|
+|188|Perspectives on Data Science for Software Engineering|2016|340|2019-03-12|Morgan Kaufmann|★★★☆☆|Data Science|
+|189|Ubuntu Server Succintly|2016|80|2019-03-18|Syncfusion|★★★☆☆|Linux|
+|190|Asynchronous Programming Succintly|2017|44|2019-03-25|Syncfusion|★★☆☆☆|C#|
+|191|Entity Framework Code First Succintly|2014|79|2019-03-27|Syncfusion|★★★☆☆|C#|
+|192|Microservices in .NET Core|2017|348|2019-07-24|Manning|★★☆☆☆|C#|
+|193|The Absolutely Awesome Book on C# and .NET (sample chapters)|2019|96|2019-07-29|Dot Net Curry|★★★☆☆|C#|
+|194|LINQ Succintly|2015|54|2019-08-19|Syncfusion|★★★☆☆|C#|
+|195|C# For Artists|2008|794|2019-08-31|PulpFree Press|★★★☆☆|C#|
+|196|Software Architect Handbook|2018|1259|2019-09-20|Packt|★★☆☆☆|Software Engineering|
+|197|Learn Powershell Core 6.0|2018|736|2020-04-03|Packt|★☆☆☆☆|Powershell|
+|198|Powershell and Python Together|2019|98|2020-04-04|Apress|★☆☆☆☆|Powershell|
+|199|Powershell Core 6.2|2019|709|2020-04-05|Packt|★☆☆☆☆|Powershell|
+|200|C# Code Contracts Succintly|2016|44|2020-04-10|Syncfusion|★★★☆☆|C#|
+|201|Beginning Git and Github|2020|294|2020-04-11|Apress|★★★☆☆|Git|
+|202|Git Succintly|2012|28|2020-04-11|Syncfusion|★★★☆☆|Git|
+|203|LINQPad Succintly|2017|49|2020-04-11|Syncfusion|★★★☆☆|C#|
+|204|Coding for Python vol.37|2019|164|2020-04-14|Black Dog Media|★★☆☆☆|Python|
+|205|Application Security in .NET Succintly|2017|104|2020-04-14|Syncfusion|★★★☆☆|C#|
+|206|Structure and Interpretation of Computer Programs|1996|883|2020-10-14|MIT Press|★★☆☆☆|Software Engineering|
+|207|Entity Framework Code First Succintly|2014|79|2020-10-17|Syncfusion|★★★☆☆|C#|
+|208|Entity Framework Core Succintly|2018|71|2020-10-17|Syncfusion|★★★☆☆|.NET Core|
+|209|How-To Take Smart Notes|2017|160|2020-10-20|TakeSmartNotes.com|★☆☆☆☆|Continuous Education|
+|210|An Introduction to Information Retrieval|2009|569|2020-10-27|Cambridge University Press|★★★☆☆|Data Science|
+|211|Data Driven|2019|179|2020-10-28|McGraw Hill|★★☆☆☆|Data Science|
+|212|Thinking in C#|2003|799|2020-11-09|Prentice Hall|★★★☆☆|C#|
+|213|The Dip|2007|86|2020-11-10|Penguin Books|★★☆☆☆|Continuous Education|
+|214|Building Great Software Engineering Teams|2015|154|2020-11-10|Apress|★★★☆☆|Software Engineering|
+|215|Practical Enterprise Software Development Techniques|2015|223|2020-11-12|Apress|★★★☆☆|Software Engineering|
+|216|So Good They Can't Ignore You|2012|270|2020-11-15|Hachette|★★☆☆☆|Continuous Education|
+|217|Don't Make Me Think (Revisited)|2014|184|2020-11-26|Pearson Education|★★★☆☆|Continuous Education|
+|218|.NET Design Patterns|2017|284|2020-11-29|Packt|★☆☆☆☆|C#|
+|219|Functional Programming in C#|2018|435|2020-12-18|Manning|★★★★★|C#|
+|220|Jenkins, Docker and DevOps: The Innovation Catalysts|-|18|2021-02-08|Syncfusion|★☆☆☆☆|Docker|
+|221|NuGet In-House Succintly|2019|38|2021-02-08|Syncfusion|★★★☆☆|C#|
+|222|Azure Functions Succintly|2018|45|2021-02-16|Syncfusion|★★☆☆☆|Azure|
+|223|App Modernization on Azure Succintly|2020|68|2021-02-16|Syncfusion|★★☆☆☆|Azure|
+|224|Visual Studio 2019 Succintly|2019|44|2021-02-17|Syncfusion|★★☆☆☆|C#|
+|225|SQL Server Metadata Succintly|2019|60|2021-02-17|Syncfusion|★☆☆☆☆|SQL Server|
+|226|Hands-on DevOps with Vagrant|2018|411|2021-02-19|Packt|★★☆☆☆|DevOps|
+|227|Vagrant Virtual Development Environment Cookbook|2015|426|2021-02-19|Packt|★★☆☆☆|DevOps|
+|228|Using .NET Core, Docker and Kubernetes Succintly|2019|57|2021-02-21|Syncfusion|★★☆☆☆|Docker|
+|229|Getting The Most from LINQPad Succintly|2019|47|2021-02-21|Syncfusion|★★★★☆|C#|
+|230|Azure DevOps Succintly|2020|75|2021-02-22|Syncfusion|★★☆☆☆|DevOps|
+|231|Python Crash Course|2016|562|2021-03-18|No Starch Press|★★★☆☆|Python|
+|232|Modern Python Cookbook (2nd Edition)|2020|50|2021-03-18|Packt|★☆☆☆☆|Python|

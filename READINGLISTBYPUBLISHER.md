@@ -4,55 +4,56 @@
 |---|---|---|
 | 2020-12-28 | numbworks | Created. |
 | 2021-02-28 | numbworks | February 2021 update. |
+| 2021-04-25 | numbworks | March 2021 update. |
 
 ## Reading List By Publisher
 
-|<sub>Publisher</sub>|<sub>Books</sub>|<sub>AvgRating</sub>|<sub>Worthy?</sub>|
+|Publisher|Books|AvgRating|Worthy?|
 |---|---|---|---|
-|<sub>O'Reilly</sub>|<sub>33</sub>|<sub>2,15</sub>||
-|<sub>Syncfusion</sub>|<sub>38</sub>|<sub>2,55</sub>|<sub>←</sub>|
-|<sub>Packt</sub>|<sub>28</sub>|<sub>1,96</sub>||
-|<sub>Apress</sub>|<sub>25</sub>|<sub>2,24</sub>||
-|<sub>Addison-Wesley</sub>|<sub>16</sub>|<sub>2,19</sub>||
-|<sub>Manning</sub>|<sub>9</sub>|<sub>3,11</sub>|<sub>←</sub>|
-|<sub>Wiley</sub>|<sub>9</sub>|<sub>2,78</sub>|<sub>←</sub>|
-|<sub>Microsoft Press</sub>|<sub>9</sub>|<sub>2,22</sub>||
-|<sub>Self-Published</sub>|<sub>7</sub>|<sub>3</sub>||
-|<sub>Prentice Hall</sub>|<sub>4</sub>|<sub>2,25</sub>||
-|<sub>Leanpub</sub>|<sub>4</sub>|<sub>1,5</sub>||
-|<sub>Pearson Education</sub>|<sub>3</sub>|<sub>3</sub>||
-|<sub>Wrox</sub>|<sub>3</sub>|<sub>2,33</sub>||
-|<sub>Cambridge University Press</sub>|<sub>3</sub>|<sub>2,33</sub>||
-|<sub>Morgan Kaufmann</sub>|<sub>2</sub>|<sub>3</sub>||
-|<sub>Red gate books</sub>|<sub>2</sub>|<sub>2,5</sub>||
-|<sub>Lulu.com</sub>|<sub>2</sub>|<sub>2,5</sub>||
-|<sub>Goalkicker.com</sub>|<sub>2</sub>|<sub>2</sub>||
-|<sub>Sams Publishing</sub>|<sub>2</sub>|<sub>1,5</sub>||
-|<sub>Maker Media, Inc</sub>|<sub>1</sub>|<sub>4</sub>||
-|<sub>PulpFree Press</sub>|<sub>1</sub>|<sub>3</sub>||
-|<sub>Dot Net Curry</sub>|<sub>1</sub>|<sub>3</sub>||
-|<sub>Sourcemaking.com</sub>|<sub>1</sub>|<sub>3</sub>||
-|<sub>Sybex</sub>|<sub>1</sub>|<sub>3</sub>||
-|<sub>Butterworth-Heinemann</sub>|<sub>1</sub>|<sub>2</sub>||
-|<sub>Springer</sub>|<sub>1</sub>|<sub>2</sub>||
-|<sub>Bleeding Edge Press</sub>|<sub>1</sub>|<sub>2</sub>||
-|<sub>Effective Bookshelf</sub>|<sub>1</sub>|<sub>2</sub>||
-|<sub>Radacad Systems Ltd</sub>|<sub>1</sub>|<sub>2</sub>||
-|<sub>Penguin Random House</sub>|<sub>1</sub>|<sub>2</sub>||
-|<sub>Black Dog Media</sub>|<sub>1</sub>|<sub>2</sub>||
-|<sub>MIT Press</sub>|<sub>1</sub>|<sub>2</sub>||
-|<sub>McGraw Hill</sub>|<sub>1</sub>|<sub>2</sub>||
-|<sub>Penguin Books</sub>|<sub>1</sub>|<sub>2</sub>||
-|<sub>Hachette</sub>|<sub>1</sub>|<sub>2</sub>||
-|<sub>Kogan Page</sub>|<sub>1</sub>|<sub>2</sub>||
-|<sub>Pragmatic Bookshelf</sub>|<sub>1</sub>|<sub>2</sub>||
-|<sub>SQLPerformance.com</sub>|<sub>1</sub>|<sub>2</sub>||
-|<sub>Evermore</sub>|<sub>1</sub>|<sub>1</sub>||
-|<sub>Oxford University Press</sub>|<sub>1</sub>|<sub>1</sub>||
-|<sub>CareerCup</sub>|<sub>1</sub>|<sub>1</sub>||
-|<sub>No Starch Press</sub>|<sub>1</sub>|<sub>1</sub>||
-|<sub>CreateSpace</sub>|<sub>1</sub>|<sub>1</sub>||
-|<sub>Momentum Press</sub>|<sub>1</sub>|<sub>1</sub>||
-|<sub>DEG Press</sub>|<sub>1</sub>|<sub>1</sub>||
-|<sub>TakeSmartNotes.com</sub>|<sub>1</sub>|<sub>1</sub>||
-|<sub>InfoWorld.com</sub>|<sub>1</sub>|<sub>1</sub>||
+|O'Reilly|33|2,15||
+|Syncfusion|38|2,55|←|
+|Packt|29|1,93||
+|Apress|25|2,24||
+|Addison-Wesley|16|2,19||
+|Manning|9|3,11|←|
+|Wiley|9|2,78|←|
+|Microsoft Press|9|2,22||
+|Self-Published|7|3||
+|Prentice Hall|4|2,25||
+|Leanpub|4|1,5||
+|Pearson Education|3|3||
+|Wrox|3|2,33||
+|Cambridge University Press|3|2,33||
+|Morgan Kaufmann|2|3||
+|Red gate books|2|2,5||
+|Lulu.com|2|2,5||
+|Goalkicker.com|2|2||
+|No Starch Press|2|2||
+|Sams Publishing|2|1,5||
+|Maker Media, Inc|1|4||
+|PulpFree Press|1|3||
+|Dot Net Curry|1|3||
+|Sourcemaking.com|1|3||
+|Sybex|1|3||
+|Butterworth-Heinemann|1|2||
+|Springer|1|2||
+|Bleeding Edge Press|1|2||
+|Effective Bookshelf|1|2||
+|Radacad Systems Ltd|1|2||
+|Penguin Random House|1|2||
+|Black Dog Media|1|2||
+|MIT Press|1|2||
+|McGraw Hill|1|2||
+|Penguin Books|1|2||
+|Hachette|1|2||
+|Kogan Page|1|2||
+|Pragmatic Bookshelf|1|2||
+|SQLPerformance.com|1|2||
+|Evermore|1|1||
+|Oxford University Press|1|1||
+|CareerCup|1|1||
+|CreateSpace|1|1||
+|Momentum Press|1|1||
+|DEG Press|1|1||
+|TakeSmartNotes.com|1|1||
+|InfoWorld.com|1|1||

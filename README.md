@@ -38,7 +38,7 @@ The scope of this `Github account` is to share some of these `side projects`.
 |---|---|---|---|---|---|---|
 |<sub>1</sub>|<sub>0 (0)</sub>|<sub>13 (5157)</sub>|<sub>0 (0)</sub>|<sub>4 (1061)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>|
 |<sub>2</sub>|<sub>0 (0)</sub>|<sub>1 (106)</sub>|<sub>0 (0)</sub>|<sub>13 (2991)</sub>|<sub>0 (0)</sub>|<sub>11 (1289)</sub>|
-|<sub>3</sub>|<sub>0 (0)</sub>|<sub>16 (3816)</sub>|<sub>6 (600)</sub>|<sub>20 (3349)</sub>|<sub>0 (0)</sub>||
+|<sub>3</sub>|<sub>0 (0)</sub>|<sub>16 (3816)</sub>|<sub>6 (600)</sub>|<sub>20 (3349)</sub>|<sub>0 (0)</sub>|<sub>2 (612)</sub>|
 |<sub>4</sub>|<sub>0 (0)</sub>|<sub>8 (2539)</sub>|<sub>7 (1986)</sub>|<sub>0 (0)</sub>|<sub>9 (2226)</sub>||
 |<sub>5</sub>|<sub>1 (288)</sub>|<sub>13 (3527)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>||
 |<sub>6</sub>|<sub>8 (1734)</sub>|<sub>4 (788)</sub>|<sub>1 (24)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>||
@@ -48,37 +48,13 @@ The scope of this `Github account` is to share some of these `side projects`.
 |<sub>10</sub>|<sub>2 (275)</sub>|<sub>0 (0)</sub>|<sub>6 (1201)</sub>|<sub>0 (0)</sub>|<sub>6 (1941)</sub>||
 |<sub>11</sub>|<sub>11 (4033)</sub>|<sub>0 (0)</sub>|<sub>10 (3172)</sub>|<sub>0 (0)</sub>|<sub>7 (2000)</sub>||
 |<sub>12</sub>|<sub>11 (3019)</sub>|<sub>0 (0)</sub>|<sub>15 (5236)</sub>|<sub>0 (0)</sub>|<sub>1 (435)</sub>||
-|<sub>Total</sub>|<sub>43 (12322)</sub>|<sub>63 (18726)</sub>|<sub>48 (12646)</sub>|<sub>42 (9952)</sub>|<sub>23 (6602)</sub>|<sub>11 (1289)</sub>|
+|<sub>Total</sub>|<sub>43 (12322)</sub>|<sub>63 (18726)</sub>|<sub>48 (12646)</sub>|<sub>42 (9952)</sub>|<sub>23 (6602)</sub>|<sub>13 (1901)</sub>|
 
 Schema: Books (*Pages*)
 
 ## Reading List By Topic
 
-|<sub>Topic</sub>|<sub>Book Pages</sub>|<sub>Books</sub>|
-|---|---|---|
-|<sub>Software Engineering</sub>|<sub>16637</sub>|<sub>60</sub>|
-|<sub>C#</sub>|<sub>15772</sub>|<sub>50</sub>|
-|<sub>Data Science</sub>|<sub>5218</sub>|<sub>19</sub>|
-|<sub>Business Intelligence</sub>|<sub>3308</sub>|<sub>10</sub>|
-|<sub>Power Bi</sub>|<sub>2881</sub>|<sub>11</sub>|
-|<sub>Unit Testing</sub>|<sub>2739</sub>|<sub>9</sub>|
-|<sub>Machine Learning</sub>|<sub>2721</sub>|<sub>9</sub>|
-|<sub>SQL Server</sub>|<sub>1955</sub>|<sub>7</sub>|
-|<sub>Docker</sub>|<sub>1724</sub>|<sub>12</sub>|
-|<sub>Powershell</sub>|<sub>1683</sub>|<sub>4</sub>|
-|<sub>Git</sub>|<sub>1514</sub>|<sub>8</sub>|
-|<sub>MariaDB</sub>|<sub>1177</sub>|<sub>4</sub>|
-|<sub>Continuous Education</sub>|<sub>928</sub>|<sub>5</sub>|
-|<sub>DevOps</sub>|<sub>912</sub>|<sub>3</sub>|
-|<sub>Continuous Delivery</sub>|<sub>516</sub>|<sub>2</sub>|
-|<sub>Regular Expressions</sub>|<sub>400</sub>|<sub>2</sub>|
-|<sub>.NET Core</sub>|<sub>383</sub>|<sub>5</sub>|
-|<sub>Electronic Engineering</sub>|<sub>349</sub>|<sub>1</sub>|
-|<sub>Javascript</sub>|<sub>258</sub>|<sub>2</sub>|
-|<sub>Python</sub>|<sub>164</sub>|<sub>1</sub>|
-|<sub>Azure</sub>|<sub>113</sub>|<sub>2</sub>|
-|<sub>IoT</sub>|<sub>105</sub>|<sub>3</sub>|
-|<sub>Linux</sub>|<sub>80</sub>|<sub>1</sub>|
+Available here: [READINGLISTBYTOPIC.md](READINGLISTBYTOPIC.md).
 
 ## Reading List By Rating
 
