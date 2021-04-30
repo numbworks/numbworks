@@ -52,6 +52,10 @@ The schema used is: "Books (*Pages*)".
 |<sub>12</sub>|<sub>11 (3019)</sub>|<sub>0 (0)</sub>|<sub>15 (5236)</sub>|<sub>0 (0)</sub>|<sub>1 (435)</sub>||
 |<sub>Total</sub>|<sub>43 (12322)</sub>|<sub>63 (18726)</sub>|<sub>48 (12646)</sub>|<sub>42 (9952)</sub>|<sub>23 (6602)</sub>|<sub>13 (1901)</sub>|
 
+|<sub>Years</sub>|<sub>Books</sub>|<sub>Pages</sub>|
+|---|---|---|
+|<sub>6</sub>|<sub>232</sub>|<sub>62149</sub>|
+
 ## Reading List By Topic
 
 Available here: [READINGLISTBYTOPIC.md](READINGLISTBYTOPIC.md).
