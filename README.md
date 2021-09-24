@@ -2,7 +2,7 @@
 
 | Name | Type | Size | Getting Started | License | Code Coverage | Binaries | Last Update |
 |---|---|---|---|---|---|---|---|
-| [NW.NGramTextClassification](https://github.com/numbworks/NW.NGramTextClassification) | C# Library | 70 | [README](https://github.com/numbworks/NW.NGramTextClassification/blob/master/README.md), [CHANGELOG](https://github.com/numbworks/NW.NGramTextClassification/blob/master/CHANGELOG), [Documentation](https://github.com/numbworks/NW.NGramTextClassification/blob/master/docs/Documentation-NW.NGramTextClassification.md) | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/NW.NGramTextClassification/master/codecoverage.svg) | [1.1.0](https://www.nuget.org/packages/NW.NGramTextClassification/1.1.0) | 2021-05-01 |
+| [NW.NGramTextClassification](https://github.com/numbworks/NW.NGramTextClassification) | C# Library | 70 | [README](https://github.com/numbworks/NW.NGramTextClassification/blob/master/README.md), [CHANGELOG](https://github.com/numbworks/NW.NGramTextClassification/blob/master/CHANGELOG), [Documentation](https://github.com/numbworks/NW.NGramTextClassification/blob/master/docs/Documentation-NW.NGramTextClassification.md) | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/NW.NGramTextClassification/master/codecoverage.svg) | [2.0.0](https://www.nuget.org/packages/NW.NGramTextClassification/2.0.0) | 2021-09-24 |
 | [NW.MarkdownTables](https://github.com/numbworks/NW.MarkdownTables) | C# Library | 7 | [README](https://github.com/numbworks/NW.MarkdownTables/blob/master/README.md), [CHANGELOG](https://github.com/numbworks/NW.MarkdownTables/blob/master/CHANGELOG), [Documentation](https://github.com/numbworks/NW.MarkdownTables/blob/master/docs/Documentation-NW.MarkdownTables.md) | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/NW.MarkdownTables/master/codecoverage.svg) | [1.0.0](https://www.nuget.org/packages/NW.MarkdownTables/1.0.0) | 2020-12-29 |
 | [NW.UnivariateForecasting](https://github.com/numbworks/NW.UnivariateForecasting) | C# Library | 117 | [README](https://github.com/numbworks/NW.UnivariateForecasting/blob/master/README.md), [CHANGELOG](https://github.com/numbworks/NW.UnivariateForecasting/blob/master/CHANGELOG), [Documentation](https://github.com/numbworks/NW.UnivariateForecasting/blob/main/docs/Documentation-NW.UnivariateForecasting.md) | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/NW.UnivariateForecasting/main/codecoverage.svg) | [1.1.1](https://www.nuget.org/packages/NW.UnivariateForecasting/1.1.1) | 2021-04-30 |
 | [i3_eink_config](https://github.com/numbworks/i3_eink_config) | Configuration File | n/a | [README](https://github.com/numbworks/i3_eink_config/blob/master/README.md) | MIT | n/a | n/a | 2020-12-22 |
@@ -42,11 +42,11 @@ The schema used is: "Books (*Pages*)".
 |<sub>2</sub>|<sub>0 (0)</sub>|<sub>1 (106)</sub>|<sub>0 (0)</sub>|<sub>13 (2991)</sub>|<sub>0 (0)</sub>|<sub>11 (1289)</sub>|
 |<sub>3</sub>|<sub>0 (0)</sub>|<sub>16 (3816)</sub>|<sub>6 (600)</sub>|<sub>20 (3349)</sub>|<sub>0 (0)</sub>|<sub>2 (612)</sub>|
 |<sub>4</sub>|<sub>0 (0)</sub>|<sub>8 (2539)</sub>|<sub>7 (1986)</sub>|<sub>0 (0)</sub>|<sub>9 (2226)</sub>|<sub>0 (0)</sub>|
-|<sub>5</sub>|<sub>1 (288)</sub>|<sub>13 (3527)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>||
-|<sub>6</sub>|<sub>8 (1734)</sub>|<sub>4 (788)</sub>|<sub>1 (24)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>||
-|<sub>7</sub>|<sub>4 (1758)</sub>|<sub>3 (1140)</sub>|<sub>3 (427)</sub>|<sub>2 (444)</sub>|<sub>0 (0)</sub>||
-|<sub>8</sub>|<sub>2 (334)</sub>|<sub>1 (453)</sub>|<sub>0 (0)</sub>|<sub>2 (848)</sub>|<sub>0 (0)</sub>||
-|<sub>9</sub>|<sub>4 (881)</sub>|<sub>4 (1200)</sub>|<sub>0 (0)</sub>|<sub>1 (1259)</sub>|<sub>0 (0)</sub>||
+|<sub>5</sub>|<sub>1 (288)</sub>|<sub>13 (3527)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>|
+|<sub>6</sub>|<sub>8 (1734)</sub>|<sub>4 (788)</sub>|<sub>1 (24)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>|
+|<sub>7</sub>|<sub>4 (1758)</sub>|<sub>3 (1140)</sub>|<sub>3 (427)</sub>|<sub>2 (444)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>|
+|<sub>8</sub>|<sub>2 (334)</sub>|<sub>1 (453)</sub>|<sub>0 (0)</sub>|<sub>2 (848)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>|
+|<sub>9</sub>|<sub>4 (881)</sub>|<sub>4 (1200)</sub>|<sub>0 (0)</sub>|<sub>1 (1259)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>|
 |<sub>10</sub>|<sub>2 (275)</sub>|<sub>0 (0)</sub>|<sub>6 (1201)</sub>|<sub>0 (0)</sub>|<sub>6 (1941)</sub>||
 |<sub>11</sub>|<sub>11 (4033)</sub>|<sub>0 (0)</sub>|<sub>10 (3172)</sub>|<sub>0 (0)</sub>|<sub>7 (2000)</sub>||
 |<sub>12</sub>|<sub>11 (3019)</sub>|<sub>0 (0)</sub>|<sub>15 (5236)</sub>|<sub>0 (0)</sub>|<sub>1 (435)</sub>||
