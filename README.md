@@ -1,13 +1,26 @@
-## Repositories
+### Libraries (C#)
 
-| Name | Type | Size | Getting Started | License | Code Coverage | Binaries | Last Update |
-|---|---|---|---|---|---|---|---|
-| [NW.NGramTextClassification](https://github.com/numbworks/NW.NGramTextClassification) | C# Library | 70 | [README](https://github.com/numbworks/NW.NGramTextClassification/blob/master/README.md), [CHANGELOG](https://github.com/numbworks/NW.NGramTextClassification/blob/master/CHANGELOG), [Documentation](https://github.com/numbworks/NW.NGramTextClassification/blob/master/docs/Documentation-NW.NGramTextClassification.md) | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/NW.NGramTextClassification/master/codecoverage.svg) | [2.2.0](https://www.nuget.org/packages/NW.NGramTextClassification/2.2.0) | 2021-09-27 |
-| [NW.MarkdownTables](https://github.com/numbworks/NW.MarkdownTables) | C# Library | 7 | [README](https://github.com/numbworks/NW.MarkdownTables/blob/master/README.md), [CHANGELOG](https://github.com/numbworks/NW.MarkdownTables/blob/master/CHANGELOG), [Documentation](https://github.com/numbworks/NW.MarkdownTables/blob/master/docs/Documentation-NW.MarkdownTables.md) | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/NW.MarkdownTables/master/codecoverage.svg) | [2.0.0](https://www.nuget.org/packages/NW.MarkdownTables/2.0.0) | 2021-10-11 |
-| [NW.UnivariateForecasting](https://github.com/numbworks/NW.UnivariateForecasting) | C# Library | 117 | [README](https://github.com/numbworks/NW.UnivariateForecasting/blob/master/README.md), [CHANGELOG](https://github.com/numbworks/NW.UnivariateForecasting/blob/master/CHANGELOG), [Documentation](https://github.com/numbworks/NW.UnivariateForecasting/blob/main/docs/Documentation-NW.UnivariateForecasting.md) | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/NW.UnivariateForecasting/main/codecoverage.svg) | [2.0.0](https://www.nuget.org/packages/NW.UnivariateForecasting/2.0.0) | 2021-10-11 |
-| [i3_eink_config](https://github.com/numbworks/i3_eink_config) | Configuration File | n/a | [README](https://github.com/numbworks/i3_eink_config/blob/master/README.md) | MIT | n/a | n/a | 2020-12-22 |
+| Name | Size | Overview | License | Tests | Binaries | Last Update |
+|---|---|---|---|---|---|---|
+| [NW.NGramTextClassification](https://github.com/numbworks/NW.NGramTextClassification) | 70 | <li>[README](https://github.com/numbworks/NW.NGramTextClassification/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/NW.NGramTextClassification/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/NW.NGramTextClassification/blob/master/docs/Documentation-NW.NGramTextClassification.md)</li> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/NW.NGramTextClassification/master/codecoverage_library.svg) | [2.2.0](https://www.nuget.org/packages/NW.NGramTextClassification/2.2.0) | 2021-09-27 |
+| [NW.MarkdownTables](https://github.com/numbworks/NW.MarkdownTables) | 7 | <li>[README](https://github.com/numbworks/NW.MarkdownTables/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/NW.MarkdownTables/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/NW.MarkdownTables/blob/master/docs/Documentation-NW.MarkdownTables.md)</li> | MIT | ![codecoverage_library.svg](https://raw.githubusercontent.com/numbworks/NW.MarkdownTables/master/codecoverage_library.svg) | [2.0.0](https://www.nuget.org/packages/NW.MarkdownTables/2.0.0) | 2021-10-11 |
+| [NW.UnivariateForecasting](https://github.com/numbworks/NW.UnivariateForecasting) | 117 | <li>[README](https://github.com/numbworks/NW.UnivariateForecasting/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/NW.UnivariateForecasting/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/NW.UnivariateForecasting/blob/main/docs/Documentation-NW.UnivariateForecasting.md)</li> | MIT | ![codecoverage_library.svg](https://raw.githubusercontent.com/numbworks/NW.UnivariateForecasting/main/codecoverage_library.svg) | [2.0.0](https://www.nuget.org/packages/NW.UnivariateForecasting/2.0.0) | 2021-10-11 |
 
-## Who's numbworks?
+### CLI Applications (C#)
+
+| Name | Size | Overview | License | Tests | Binaries | Last Update |
+|---|---|---|---|---|---|---|
+| [NW.NGramTextClassificationClient](https://github.com/numbworks/NW.NGramTextClassification) | - | [Documentation](https://github.com/numbworks/NW.NGramTextClassification/blob/master/docs/Documentation-NW.NGramTextClassificationClient.md)| MIT | ![codecoverage_client.svg](https://raw.githubusercontent.com/numbworks/NW.NGramTextClassification/master/codecoverage_client.svg) | - | 2021-09-27 |
+| [NW.MarkdownTablesClient](https://github.com/numbworks/NW.MarkdownTables) | - | [Documentation](https://github.com/numbworks/NW.MarkdownTables/blob/master/docs/Documentation-NW.MarkdownTablesClient.md) | MIT | ![codecoverage_client.svg](https://raw.githubusercontent.com/numbworks/NW.MarkdownTables/master/codecoverage_client.svg) | - | 2021-10-11 |
+| [NW.UnivariateForecastingClient](https://github.com/numbworks/NW.UnivariateForecasting) | - | [Documentation](https://github.com/numbworks/NW.UnivariateForecasting/blob/main/docs/Documentation-NW.UnivariateForecastingClient.md) | MIT | ![codecoverage_client.svg](https://raw.githubusercontent.com/numbworks/NW.UnivariateForecasting/main/codecoverage_client.svg) | - | 2021-10-11 |
+
+### Other Projects
+
+| Name | Type | Overview | License | Tests | Last Update |
+|---|---|---|---|---|---|
+| [i3_eink_config](https://github.com/numbworks/i3_eink_config) | Configuration File | [README](https://github.com/numbworks/i3_eink_config/blob/master/README.md) | MIT | - | 2020-12-22 |
+
+### Who's numbworks?
 
 `numbworks` is:
 - an Italian guy 
@@ -20,19 +33,19 @@
 
 The scope of this `Github account` is to share some of these `side projects`.
 
-## Areas of Expertise
+### Areas of Expertise
 
 `Data`, `Databases`, `Development`, `Software Usability`, `Clean Software Architecture`, `Clean Code`, `Design Patterns`, `(Parametric) Unit Testing`, `OOP`, `Dependency Injection`, `Single Responsability Principle`, `Console Applications`, `Services`, `CLIs`,`CI/CD`, `(Web) Scraping`, `REST APIs`, `Business Analysis`, `ETL Process`, `Star Schema`, `Data Warehouses`.
 
-## Tech Stack
+### Tech Stack
 
 `C#`, `NET Core`, `NET Standard`, `NUNit`,`SQL Server`, `PowerBi`, `TeamCity`, `Azure DevOps`, `Excel`, `VBA`, `Powershell`, `Ubuntu Server`, `Docker`, `MariaDB`.
 
-## Incoming Skills
+### Incoming Skills
 
 `Machine Learning`, `Data Science`, `Python 3.x`, `Postgresql`, `SQLite`, `Jenkins`, `Time-Series Analysis`.
 
-## Studying Activity, Books
+### Studying Activity, Books
 
 The schema used is: "Books (*Pages*)".
 
@@ -56,23 +69,23 @@ The schema used is: "Books (*Pages*)".
 |---|---|---|
 |<sub>6</sub>|<sub>232</sub>|<sub>62149</sub>|
 
-## Reading List By Topic
+### Reading List By Topic
 
 Available here: [READINGLISTBYTOPIC.md](READINGLISTBYTOPIC.md).
 
-## Reading List By Rating
+### Reading List By Rating
 
 Available here: [READINGLISTBYRATING.md](READINGLISTBYRATING.md).
 
-## Reading List By Publisher
+### Reading List By Publisher
 
 Available here: [READINGLISTBYPUBLISHER.md](READINGLISTBYPUBLISHER.md).
 
-## Reading List
+### Reading List
 
 Available here: [READINGLIST.md](READINGLIST.md).
 
-## Appendix - The concept of "size"
+### Appendix - The concept of "size"
 
 For the **Repositories** table above I had the need to express the concept of "*size of a software package*" that could:
 - be appliable despite of the programming language used
