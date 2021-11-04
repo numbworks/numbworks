@@ -1,6 +1,6 @@
 ### Libraries (C#)
 
-| Name | Effort | Overview | License | Tests | Binaries | Last Update |
+| Name | Effort | Overview | License | Tests | NuGet | Last Update |
 |---|---|---|---|---|---|---|
 | [NW.WIDJobs](https://github.com/numbworks/NW.WIDJobs) | 381 h | <ul><li>[README](https://github.com/numbworks/NW.WIDJobs/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/NW.WIDJobs/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/NW.WIDJobs/blob/main/docs/Documentation-NW.WIDJobs.md)</li></ul> | MIT | ![codecoverage_library.svg](https://raw.githubusercontent.com/numbworks/NW.WIDJobs/main/codecoverage_library.svg) | [1.0.0](https://www.nuget.org/packages/NW.WIDJobs/1.0.0) | 2021-11-04 |
 | [NW.UnivariateForecasting](https://github.com/numbworks/NW.UnivariateForecasting) | 123 h | <ul><li>[README](https://github.com/numbworks/NW.UnivariateForecasting/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/NW.UnivariateForecasting/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/NW.UnivariateForecasting/blob/main/docs/Documentation-NW.UnivariateForecasting.md)</li></ul> | MIT | ![codecoverage_library.svg](https://raw.githubusercontent.com/numbworks/NW.UnivariateForecasting/main/codecoverage_library.svg) | [2.0.0](https://www.nuget.org/packages/NW.UnivariateForecasting/2.0.0) | 2021-10-11 |
