@@ -79,3 +79,14 @@ The following table summarizes how many development books I studied since I star
 |By Rating|[READINGLISTBYRATING.md](READINGLISTBYRATING.md)|
 |By Publisher|[READINGLISTBYPUBLISHER.md](READINGLISTBYPUBLISHER.md)|
 |Full List|[READINGLIST.md](READINGLIST.md)|
+
+### .NET Framework Overview
+
+|Project|Library|Client|Tests
+|---|---|---|---|---|
+|NW.WIDJobs|.NET Standard 2.1|.NET Core 3.1|.NET Core 3.1|
+|NW.UnivariateForecasting|.NET Standard 2.1|.NET Core 3.1|.NET Core 3.1|
+|NW.NGramTextClassification|.NET Standard 2.1|.NET Core 3.1|.NET Core 3.1|
+|NW.MarkdownTables|.NET Standard 2.1|.NET Core 3.1|.NET Core 3.1|
+
+Planned upgrade: .NET Core 3.1 (LTS) to .NET 6.0 (LTS) somewhen in 2022.
