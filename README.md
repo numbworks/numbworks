@@ -1,10 +1,10 @@
 ### Libraries (C#)
 
-| Name | Size | Overview | License | Tests | Binaries | Last Update |
+| Name | Effort | Overview | License | Tests | Binaries | Last Update |
 |---|---|---|---|---|---|---|
-| [NW.UnivariateForecasting](https://github.com/numbworks/NW.UnivariateForecasting) | 117 | <ul><li>[README](https://github.com/numbworks/NW.UnivariateForecasting/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/NW.UnivariateForecasting/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/NW.UnivariateForecasting/blob/main/docs/Documentation-NW.UnivariateForecasting.md)</li></ul> | MIT | ![codecoverage_library.svg](https://raw.githubusercontent.com/numbworks/NW.UnivariateForecasting/main/codecoverage_library.svg) | [2.0.0](https://www.nuget.org/packages/NW.UnivariateForecasting/2.0.0) | 2021-10-11 |
-| [NW.NGramTextClassification](https://github.com/numbworks/NW.NGramTextClassification) | 72 | <ul><li>[README](https://github.com/numbworks/NW.NGramTextClassification/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/NW.NGramTextClassification/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/NW.NGramTextClassification/blob/master/docs/Documentation-NW.NGramTextClassification.md)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/NW.NGramTextClassification/master/codecoverage_library.svg) | [2.2.0](https://www.nuget.org/packages/NW.NGramTextClassification/2.2.0) | 2021-09-27 |
-| [NW.MarkdownTables](https://github.com/numbworks/NW.MarkdownTables) | 7 | <ul><li>[README](https://github.com/numbworks/NW.MarkdownTables/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/NW.MarkdownTables/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/NW.MarkdownTables/blob/master/docs/Documentation-NW.MarkdownTables.md)</li></ul> | MIT | ![codecoverage_library.svg](https://raw.githubusercontent.com/numbworks/NW.MarkdownTables/master/codecoverage_library.svg) | [2.0.0](https://www.nuget.org/packages/NW.MarkdownTables/2.0.0) | 2021-10-11 |
+| [NW.UnivariateForecasting](https://github.com/numbworks/NW.UnivariateForecasting) | 123 h | <ul><li>[README](https://github.com/numbworks/NW.UnivariateForecasting/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/NW.UnivariateForecasting/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/NW.UnivariateForecasting/blob/main/docs/Documentation-NW.UnivariateForecasting.md)</li></ul> | MIT | ![codecoverage_library.svg](https://raw.githubusercontent.com/numbworks/NW.UnivariateForecasting/main/codecoverage_library.svg) | [2.0.0](https://www.nuget.org/packages/NW.UnivariateForecasting/2.0.0) | 2021-10-11 |
+| [NW.NGramTextClassification](https://github.com/numbworks/NW.NGramTextClassification) | 120 h | <ul><li>[README](https://github.com/numbworks/NW.NGramTextClassification/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/NW.NGramTextClassification/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/NW.NGramTextClassification/blob/master/docs/Documentation-NW.NGramTextClassification.md)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/NW.NGramTextClassification/master/codecoverage_library.svg) | [2.2.0](https://www.nuget.org/packages/NW.NGramTextClassification/2.2.0) | 2021-09-27 |
+| [NW.MarkdownTables](https://github.com/numbworks/NW.MarkdownTables) | 22 h | <ul><li>[README](https://github.com/numbworks/NW.MarkdownTables/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/NW.MarkdownTables/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/NW.MarkdownTables/blob/master/docs/Documentation-NW.MarkdownTables.md)</li></ul> | MIT | ![codecoverage_library.svg](https://raw.githubusercontent.com/numbworks/NW.MarkdownTables/master/codecoverage_library.svg) | [2.0.0](https://www.nuget.org/packages/NW.MarkdownTables/2.0.0) | 2021-10-11 |
 
 ### CLI Applications (C#)
 
@@ -77,23 +77,3 @@ The following table summarizes how many development books I studied since I star
 |By Rating|[READINGLISTBYRATING.md](READINGLISTBYRATING.md)|
 |By Publisher|[READINGLISTBYPUBLISHER.md](READINGLISTBYPUBLISHER.md)|
 |Full List|[READINGLIST.md](READINGLIST.md)|
-
-### Appendix - The concept of "size"
-
-For the **Repositories** table above I had the need to express the concept of "*size of a software package*" that could:
-- be appliable despite of the programming language used
-- allow the comparison among software packages developed in the same language
-
-Sofware metrics is a quite broad topic, but I didn't find anything that suited my use case scenario in whatever I read about it, therefore I established my own metric.
-
-To express "size" for C# libraries I wrote a piece of software that:
-
-- count all the interfaces
-- count all the methods that are:
-    - public
-    - private
-    - not inherited from Object
-    - not getters
-    - not setters
-    - not generated by the compiler
-- sum both numbers to get the "size"
