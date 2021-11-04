@@ -83,7 +83,7 @@ The following table summarizes how many development books I studied since I star
 ### .NET Framework Overview
 
 |Project|Library|Client|Tests
-|---|---|---|---|---|
+|---|---|---|---|
 |NW.WIDJobs|.NET Standard 2.1|.NET Core 3.1|.NET Core 3.1|
 |NW.UnivariateForecasting|.NET Standard 2.1|.NET Core 3.1|.NET Core 3.1|
 |NW.NGramTextClassification|.NET Standard 2.1|.NET Core 3.1|.NET Core 3.1|
