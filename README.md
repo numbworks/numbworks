@@ -8,11 +8,11 @@
 
 ### CLI Applications (C#)
 
-| Name | Size | Overview | License | Tests | Binaries | Last Update |
-|---|---|---|---|---|---|---|
-| [NW.UnivariateForecastingClient](https://github.com/numbworks/NW.UnivariateForecasting) | - | [Documentation](https://github.com/numbworks/NW.UnivariateForecasting/blob/main/docs/Documentation-NW.UnivariateForecastingClient.md) | MIT | ![codecoverage_client.svg](https://raw.githubusercontent.com/numbworks/NW.UnivariateForecasting/main/codecoverage_client.svg) | - | 2021-10-11 |
-| [NW.NGramTextClassificationClient](https://github.com/numbworks/NW.NGramTextClassification) | - | [Documentation](https://github.com/numbworks/NW.NGramTextClassification/blob/master/docs/Documentation-NW.NGramTextClassificationClient.md)| MIT | ![codecoverage_client.svg](https://raw.githubusercontent.com/numbworks/NW.NGramTextClassification/master/codecoverage_client.svg) | - | 2021-09-27 |
-| [NW.MarkdownTablesClient](https://github.com/numbworks/NW.MarkdownTables) | - | [Documentation](https://github.com/numbworks/NW.MarkdownTables/blob/master/docs/Documentation-NW.MarkdownTablesClient.md) | MIT | ![codecoverage_client.svg](https://raw.githubusercontent.com/numbworks/NW.MarkdownTables/master/codecoverage_client.svg) | - | 2021-10-11 |
+| Name | Overview | License | Tests | Binaries | Last Update |
+|---|---|---|---|---|---|
+| [NW.UnivariateForecastingClient](https://github.com/numbworks/NW.UnivariateForecasting) | [Documentation](https://github.com/numbworks/NW.UnivariateForecasting/blob/main/docs/Documentation-NW.UnivariateForecastingClient.md) | MIT | ![codecoverage_client.svg](https://raw.githubusercontent.com/numbworks/NW.UnivariateForecasting/main/codecoverage_client.svg) | - | 2021-10-11 |
+| [NW.NGramTextClassificationClient](https://github.com/numbworks/NW.NGramTextClassification) | [Documentation](https://github.com/numbworks/NW.NGramTextClassification/blob/master/docs/Documentation-NW.NGramTextClassificationClient.md)| MIT | ![codecoverage_client.svg](https://raw.githubusercontent.com/numbworks/NW.NGramTextClassification/master/codecoverage_client.svg) | - | 2021-09-27 |
+| [NW.MarkdownTablesClient](https://github.com/numbworks/NW.MarkdownTables) | [Documentation](https://github.com/numbworks/NW.MarkdownTables/blob/master/docs/Documentation-NW.MarkdownTablesClient.md) | MIT | ![codecoverage_client.svg](https://raw.githubusercontent.com/numbworks/NW.MarkdownTables/master/codecoverage_client.svg) | - | 2021-10-11 |
 
 ### Other Projects
 
