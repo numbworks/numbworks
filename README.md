@@ -1,5 +1,7 @@
 ### Libraries (C#)
 
+These are intended for other developers who want to integrate my software in their own software:
+
 | Name | Effort | Overview | License | Tests | NuGet | Last Update |
 |---|---|---|---|---|---|---|
 | [NW.WIDJobs](https://github.com/numbworks/NW.WIDJobs) | 381 h | <ul><li>[README](https://github.com/numbworks/NW.WIDJobs/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/NW.WIDJobs/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/NW.WIDJobs/blob/master/docs/Documentation-NW.WIDJobs.md)</li></ul> | MIT | ![codecoverage_library.svg](https://raw.githubusercontent.com/numbworks/NW.WIDJobs/master/codecoverage_library.svg) | [1.0.0](https://www.nuget.org/packages/NW.WIDJobs/1.0.0) | 2021-11-04 |
@@ -8,6 +10,8 @@
 | [NW.MarkdownTables](https://github.com/numbworks/NW.MarkdownTables) | 22 h | <ul><li>[README](https://github.com/numbworks/NW.MarkdownTables/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/NW.MarkdownTables/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/NW.MarkdownTables/blob/master/docs/Documentation-NW.MarkdownTables.md)</li></ul> | MIT | ![codecoverage_library.svg](https://raw.githubusercontent.com/numbworks/NW.MarkdownTables/master/codecoverage_library.svg) | [2.0.0](https://www.nuget.org/packages/NW.MarkdownTables/2.0.0) | 2021-10-11 |
 
 ### CLI Applications (C#)
+
+These are intended for final users who want to use my libraries thru a handy command-line interface:
 
 | Name | Overview | License | Tests | Binaries | Last Update |
 |---|---|---|---|---|---|
