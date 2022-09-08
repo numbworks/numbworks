@@ -1,3 +1,7 @@
+### Contact
+
+For any question, feel free to contact me on Twitter: [@numbworks](http://www.twitter.com/numbworks)
+
 ### Libraries (C#)
 
 These are intended for other developers who want to integrate my software in their own software:
@@ -26,19 +30,6 @@ These are intended for final users who want to use my libraries thru a handy com
 |---|---|---|---|---|---|
 | [i3_eink_config](https://github.com/numbworks/i3_eink_config) | Configuration File | [README](https://github.com/numbworks/i3_eink_config/blob/master/README.md) | MIT | - | 2020-12-22 |
 
-### Who's numbworks?
-
-`numbworks` is:
-- an Italian guy 
-- living in `Malmö (Sweden)`
-- working in `Copenhagen (Denmark)`
-- getting a living by working on projects around `automated data retrieval` and `data visualization`
-- dedicating `(part of) his free time`: 
-    - to an intense `continuous learning` path since several years, mostly made by `books` and `articles`
-    - to work on some `side projects`, which are still about `data` but they are using a widened tech stack than the one he uses at work.
-
-The scope of this `Github account` is to share some of these `side projects`.
-
 ### Areas of Expertise
 
 `Data`, `Databases`, `Development`, `Software Usability`, `Clean Software Architecture`, `Clean Code`, `Design Patterns`, `(Parametric) Unit Testing`, `OOP`, `Dependency Injection`, `Single Responsability Principle`, `Console Applications`, `Services`, `CLIs`,`CI/CD`, `(Web) Scraping`, `REST APIs`, `Business Analysis`, `ETL Process`, `Star Schema`, `Data Warehouses`.
@@ -59,12 +50,12 @@ The following table summarizes how many development books I studied since I star
 |---|---|---|---|---|---|---|---|
 |<sub>1</sub>|<sub>0 (0)</sub>|<sub>13 (5157)</sub>|<sub>0 (0)</sub>|<sub>4 (1061)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>|
 |<sub>2</sub>|<sub>0 (0)</sub>|<sub>1 (106)</sub>|<sub>0 (0)</sub>|<sub>13 (2991)</sub>|<sub>0 (0)</sub>|<sub>11 (1289)</sub>|<sub>0 (0)</sub>|
-|<sub>3</sub>|<sub>0 (0)</sub>|<sub>16 (3816)</sub>|<sub>6 (600)</sub>|<sub>20 (3349)</sub>|<sub>0 (0)</sub>|<sub>2 (612)</sub>||
-|<sub>4</sub>|<sub>0 (0)</sub>|<sub>8 (2539)</sub>|<sub>7 (1986)</sub>|<sub>0 (0)</sub>|<sub>9 (2226)</sub>|<sub>0 (0)</sub>||
-|<sub>5</sub>|<sub>1 (288)</sub>|<sub>13 (3527)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>||
-|<sub>6</sub>|<sub>8 (1734)</sub>|<sub>4 (788)</sub>|<sub>1 (24)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>||
-|<sub>7</sub>|<sub>4 (1758)</sub>|<sub>3 (1140)</sub>|<sub>3 (427)</sub>|<sub>2 (444)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>||
-|<sub>8</sub>|<sub>2 (334)</sub>|<sub>1 (453)</sub>|<sub>0 (0)</sub>|<sub>2 (848)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>||
+|<sub>3</sub>|<sub>0 (0)</sub>|<sub>16 (3816)</sub>|<sub>6 (600)</sub>|<sub>20 (3349)</sub>|<sub>0 (0)</sub>|<sub>2 (612)</sub>|<sub>0 (0)</sub>|
+|<sub>4</sub>|<sub>0 (0)</sub>|<sub>8 (2539)</sub>|<sub>7 (1986)</sub>|<sub>0 (0)</sub>|<sub>9 (2226)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>|
+|<sub>5</sub>|<sub>1 (288)</sub>|<sub>13 (3527)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>|
+|<sub>6</sub>|<sub>8 (1734)</sub>|<sub>4 (788)</sub>|<sub>1 (24)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>|
+|<sub>7</sub>|<sub>4 (1758)</sub>|<sub>3 (1140)</sub>|<sub>3 (427)</sub>|<sub>2 (444)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>|
+|<sub>8</sub>|<sub>2 (334)</sub>|<sub>1 (453)</sub>|<sub>0 (0)</sub>|<sub>2 (848)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>|
 |<sub>9</sub>|<sub>4 (881)</sub>|<sub>4 (1200)</sub>|<sub>0 (0)</sub>|<sub>1 (1259)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>||
 |<sub>10</sub>|<sub>2 (275)</sub>|<sub>0 (0)</sub>|<sub>6 (1201)</sub>|<sub>0 (0)</sub>|<sub>6 (1941)</sub>|<sub>0 (0)</sub>||
 |<sub>11</sub>|<sub>11 (4033)</sub>|<sub>0 (0)</sub>|<sub>10 (3172)</sub>|<sub>0 (0)</sub>|<sub>7 (2000)</sub>|<sub>0 (0)</sub>||
@@ -95,5 +86,9 @@ The following table summarizes how many development books I studied since I star
 |NW.MarkdownTables|.NET Standard 2.1|.NET Core 3.1|.NET Core 3.1|-|
 
 Planned upgrades for 2022: 
+- Version 2.0 for NW.WIDJobs
+- Version 3.0 for NW.NGramTextClassification
+
+Planned upgrades for 2023: 
 - Add a functional CLI to clients missing it
 - Migrate .NET Core 3.1 (LTS) to .NET 6.0 (LTS)
