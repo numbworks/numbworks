@@ -9,8 +9,8 @@ These are intended for other developers who want to integrate my software in the
 | Name | Effort | Overview | License | Tests | NuGet | Last Update |
 |---|---|---|---|---|---|---|
 | [NW.WIDJobs](https://github.com/numbworks/NW.WIDJobs) | 579 h | <ul><li>[README](https://github.com/numbworks/NW.WIDJobs/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/NW.WIDJobs/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/NW.WIDJobs/blob/master/docs/Documentation-NW.WIDJobs.md)</li></ul> | MIT | ![codecoverage_library.svg](https://raw.githubusercontent.com/numbworks/NW.WIDJobs/master/codecoverage_library.svg) | [2.0.0](https://www.nuget.org/packages/NW.WIDJobs/2.0.0) | 2022-09-17 |
+| [NW.NGramTextClassification](https://github.com/numbworks/NW.NGramTextClassification) | 148 h | <ul><li>[README](https://github.com/numbworks/NW.NGramTextClassification/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/NW.NGramTextClassification/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/NW.NGramTextClassification/blob/master/docs/Documentation-NW.NGramTextClassification.md)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/NW.NGramTextClassification/master/codecoverage_library.svg) | [3.0.0](https://www.nuget.org/packages/NW.NGramTextClassification/3.0.0) | 2022-09-27 |
 | [NW.UnivariateForecasting](https://github.com/numbworks/NW.UnivariateForecasting) | 125 h | <ul><li>[README](https://github.com/numbworks/NW.UnivariateForecasting/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/NW.UnivariateForecasting/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/NW.UnivariateForecasting/blob/main/docs/Documentation-NW.UnivariateForecasting.md)</li></ul> | MIT | ![codecoverage_library.svg](https://raw.githubusercontent.com/numbworks/NW.UnivariateForecasting/main/codecoverage_library.svg) | [2.0.1](https://www.nuget.org/packages/NW.UnivariateForecasting/2.0.1) | 2022-09-18 |
-| [NW.NGramTextClassification](https://github.com/numbworks/NW.NGramTextClassification) | 120 h | <ul><li>[README](https://github.com/numbworks/NW.NGramTextClassification/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/NW.NGramTextClassification/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/NW.NGramTextClassification/blob/master/docs/Documentation-NW.NGramTextClassification.md)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/NW.NGramTextClassification/master/codecoverage_library.svg) | [2.2.0](https://www.nuget.org/packages/NW.NGramTextClassification/2.2.0) | 2021-09-27 |
 | [NW.MarkdownTables](https://github.com/numbworks/NW.MarkdownTables) | 22 h | <ul><li>[README](https://github.com/numbworks/NW.MarkdownTables/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/NW.MarkdownTables/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/NW.MarkdownTables/blob/master/docs/Documentation-NW.MarkdownTables.md)</li></ul> | MIT | ![codecoverage_library.svg](https://raw.githubusercontent.com/numbworks/NW.MarkdownTables/master/codecoverage_library.svg) | [2.0.0](https://www.nuget.org/packages/NW.MarkdownTables/2.0.0) | 2021-10-11 |
 
 ### CLI Applications (C#)
@@ -20,8 +20,8 @@ These are intended for final users who want to use my libraries thru a handy com
 | Name | Overview | License | Tests | Binaries | Last Update |
 |---|---|---|---|---|---|
 | [NW.WIDJobsClient](https://github.com/numbworks/NW.WIDJobs) | [Documentation](https://github.com/numbworks/NW.WIDJobs/blob/master/docs/Documentation-NW.WIDJobsClient.md) | MIT | ![codecoverage_client.svg](https://raw.githubusercontent.com/numbworks/NW.WIDJobs/master/codecoverage_client.svg) | [2.0.0](https://github.com/numbworks/NW.WIDJobs/releases/tag/v2.0.0) | 2022-09-17 |
+| [NW.NGramTextClassificationClient](https://github.com/numbworks/NW.NGramTextClassification) | [Documentation](https://github.com/numbworks/NW.NGramTextClassification/blob/master/docs/Documentation-NW.NGramTextClassificationClient.md)| MIT | ![codecoverage_client.svg](https://raw.githubusercontent.com/numbworks/NW.NGramTextClassification/master/codecoverage_client.svg) | [3.0.0](https://github.com/numbworks/NW.NGramTextClassification/releases/tag/v3.0.0) | 2022-09-27 |
 | [NW.UnivariateForecastingClient](https://github.com/numbworks/NW.UnivariateForecasting) | [Documentation](https://github.com/numbworks/NW.UnivariateForecasting/blob/main/docs/Documentation-NW.UnivariateForecastingClient.md) | MIT | ![codecoverage_client.svg](https://raw.githubusercontent.com/numbworks/NW.UnivariateForecasting/main/codecoverage_client.svg) | - | 2022-09-18 |
-| [NW.NGramTextClassificationClient](https://github.com/numbworks/NW.NGramTextClassification) | [Documentation](https://github.com/numbworks/NW.NGramTextClassification/blob/master/docs/Documentation-NW.NGramTextClassificationClient.md)| MIT | ![codecoverage_client.svg](https://raw.githubusercontent.com/numbworks/NW.NGramTextClassification/master/codecoverage_client.svg) | - | 2021-09-27 |
 | [NW.MarkdownTablesClient](https://github.com/numbworks/NW.MarkdownTables) | [Documentation](https://github.com/numbworks/NW.MarkdownTables/blob/master/docs/Documentation-NW.MarkdownTablesClient.md) | MIT | ![codecoverage_client.svg](https://raw.githubusercontent.com/numbworks/NW.MarkdownTables/master/codecoverage_client.svg) | - | 2021-10-11 |
 
 ### Other Projects
@@ -81,13 +81,10 @@ The following table summarizes how many development books I studied since I star
 |Project|Library|Client|Tests|Has CLI?|
 |---|---|---|---|---|
 |NW.WIDJobs|.NET Standard 2.1|.NET Core 3.1|.NET Core 3.1|Yes|
+|NW.NGramTextClassification|.NET Standard 2.1|.NET Core 3.1|.NET Core 3.1|Yes|
 |NW.UnivariateForecasting|.NET Standard 2.1|.NET Core 3.1|.NET Core 3.1|Not yet|
-|NW.NGramTextClassification|.NET Standard 2.1|.NET Core 3.1|.NET Core 3.1|Not yet|
 |NW.MarkdownTables|.NET Standard 2.1|.NET Core 3.1|.NET Core 3.1|-|
 
-Planned upgrades for 2022: 
-- Version 3.0 for NW.NGramTextClassification
-
-Planned upgrades for 2023: 
-- Add a functional CLI to clients missing it
-- Migrate .NET Core 3.1 (LTS) to .NET 6.0 (LTS)
+Planned releases for 2022: 
+- Version 3.5 for NW.NGramTextClassification
+- Contributors guidelines
