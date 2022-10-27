@@ -2,7 +2,7 @@
 
 A software developer profile is defined by the software he develops and by the continuous learning activities he performs. This is my portfolio and you'll find information about both aspects of my professional journey in software development, data analytics and data science.
 
-For any question, feel free to contact me on Twitter: [@numbworks](http://www.twitter.com/numbworks)
+Contact: [Twitter](http://www.twitter.com/numbworks) | [Email](mailto:numbworks@gmail.com)
 
 ## Development
 
