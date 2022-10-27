@@ -1,6 +1,8 @@
 ## About
 
-A software developer profile is defined by the software he develops and by the continuous learning activities he performs. This is my portfolio and you'll find information about both aspects of my professional journey in software development, data analytics and data science.
+I'm a back-end developer with a strong interest for data analytics and data science.
+
+A software developer profile is defined by the software he develops and by the continuous learning activities he performs. This is my portfolio and you'll find information about both aspects of my professional journey. 
 
 Contact: [Twitter](http://www.twitter.com/numbworks) | [Email](mailto:numbworks@gmail.com)
 
