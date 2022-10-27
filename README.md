@@ -1,8 +1,12 @@
-### Contact
+## About
+
+A software developer profile is defined by the software he develops and by the continuous learning activities he performs. This is my portfolio and you'll find information about both aspects of my professional journey in software development, data analytics and data science.
 
 For any question, feel free to contact me on Twitter: [@numbworks](http://www.twitter.com/numbworks)
 
-### Libraries (C#)
+## Development
+
+#### Libraries (C#)
 
 These are intended for other developers who want to integrate my software in their own software:
 
@@ -13,7 +17,7 @@ These are intended for other developers who want to integrate my software in the
 | [NW.UnivariateForecasting](https://github.com/numbworks/NW.UnivariateForecasting) | 125 h | <ul><li>[README](https://github.com/numbworks/NW.UnivariateForecasting/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/NW.UnivariateForecasting/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/NW.UnivariateForecasting/blob/main/docs/Documentation-NW.UnivariateForecasting.md)</li></ul> | MIT | ![codecoverage_library.svg](https://raw.githubusercontent.com/numbworks/NW.UnivariateForecasting/main/codecoverage_library.svg) | [2.0.1](https://www.nuget.org/packages/NW.UnivariateForecasting/2.0.1) | 2022-09-18 |
 | [NW.MarkdownTables](https://github.com/numbworks/NW.MarkdownTables) | 22 h | <ul><li>[README](https://github.com/numbworks/NW.MarkdownTables/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/NW.MarkdownTables/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/NW.MarkdownTables/blob/master/docs/Documentation-NW.MarkdownTables.md)</li></ul> | MIT | ![codecoverage_library.svg](https://raw.githubusercontent.com/numbworks/NW.MarkdownTables/master/codecoverage_library.svg) | [2.0.0](https://www.nuget.org/packages/NW.MarkdownTables/2.0.0) | 2021-10-11 |
 
-### CLI Applications (C#)
+#### CLI Applications (C#)
 
 These are intended for final users who want to use my libraries thru a handy command-line interface:
 
@@ -24,25 +28,19 @@ These are intended for final users who want to use my libraries thru a handy com
 | [NW.UnivariateForecastingClient](https://github.com/numbworks/NW.UnivariateForecasting) | [Documentation](https://github.com/numbworks/NW.UnivariateForecasting/blob/main/docs/Documentation-NW.UnivariateForecastingClient.md) | MIT | ![codecoverage_client.svg](https://raw.githubusercontent.com/numbworks/NW.UnivariateForecasting/main/codecoverage_client.svg) | - | 2022-09-18 |
 | [NW.MarkdownTablesClient](https://github.com/numbworks/NW.MarkdownTables) | [Documentation](https://github.com/numbworks/NW.MarkdownTables/blob/master/docs/Documentation-NW.MarkdownTablesClient.md) | MIT | ![codecoverage_client.svg](https://raw.githubusercontent.com/numbworks/NW.MarkdownTables/master/codecoverage_client.svg) | - | 2021-10-11 |
 
-### Other Projects
+#### Other Projects
 
 | Name | Type | Overview | License | Tests | Last Update |
 |---|---|---|---|---|---|
 | [i3_eink_config](https://github.com/numbworks/i3_eink_config) | Configuration File | [README](https://github.com/numbworks/i3_eink_config/blob/master/README.md) | MIT | - | 2020-12-22 |
 
-### Areas of Expertise
+#### Related Pages
 
-`Data`, `Databases`, `Development`, `Software Usability`, `Clean Software Architecture`, `Clean Code`, `Design Patterns`, `(Parametric) Unit Testing`, `OOP`, `Dependency Injection`, `Single Responsability Principle`, `Console Applications`, `Services`, `CLIs`,`CI/CD`, `(Web) Scraping`, `REST APIs`, `Business Analysis`, `ETL Process`, `Star Schema`, `Data Warehouses`.
+- [PLANNEDUPDATES.md](PLANNEDUPDATES.md)
 
-### Tech Stack
+## Continuous Learning
 
-`C#`, `NET Core`, `NET Standard`, `NUNit`,`SQL Server`, `PowerBi`, `TeamCity`, `Azure DevOps`, `Excel`, `VBA`, `Powershell`, `Ubuntu Server`, `Docker`, `MariaDB`.
-
-### Incoming Skills
-
-`Machine Learning`, `Data Science`, `Python 3.x`, `Postgresql`, `SQLite`, `Jenkins`, `Time-Series Analysis`.
-
-### Studying Activity, Summary
+#### Summary
 
 The following table summarizes how many development books I studied since I started with continuous learning. The schema used is: "Books (*Pages*)".
 
@@ -62,29 +60,27 @@ The following table summarizes how many development books I studied since I star
 |<sub>12</sub>|<sub>11 (3019)</sub>|<sub>0 (0)</sub>|<sub>15 (5236)</sub>|<sub>0 (0)</sub>|<sub>1 (435)</sub>|<sub>0 (0)</sub>||
 |<sub>Total</sub>|<sub>43 (12322)</sub>|<sub>63 (18726)</sub>|<sub>48 (12646)</sub>|<sub>42 (9952)</sub>|<sub>23 (6602)</sub>|<sub>13 (1901)</sub>|<sub>0 (0)</sub>|
 
-
 |<sub>Years</sub>|<sub>Books</sub>|<sub>Pages</sub>|
 |---|---|---|
-|<sub>6</sub>|<sub>232</sub>|<sub>62149</sub>|
+|<sub>7</sub>|<sub>232</sub>|<sub>62149</sub>|
 
-### Studying Activity, Details
+#### Related Pages
 
-|Reading List|Link|
-|---|---|
-|By Topic|[READINGLISTBYTOPIC.md](READINGLISTBYTOPIC.md)|
-|By Rating|[READINGLISTBYRATING.md](READINGLISTBYRATING.md)|
-|By Publisher|[READINGLISTBYPUBLISHER.md](READINGLISTBYPUBLISHER.md)|
-|Full List|[READINGLIST.md](READINGLIST.md)|
+- [READINGLISTBYTOPIC.md](READINGLISTBYTOPIC.md)
+- [READINGLISTBYRATING.md](READINGLISTBYRATING.md)
+- [READINGLISTBYPUBLISHER.md](READINGLISTBYPUBLISHER.md)
+- [READINGLIST.md](READINGLIST.md)
 
-### Status & Planned Upgrades
+## Self-Improvement Status
 
-|Project|Library|Client|Tests|Has CLI?|
-|---|---|---|---|---|
-|NW.WIDJobs|.NET Standard 2.1|.NET Core 3.1|.NET Core 3.1|Yes|
-|NW.NGramTextClassification|.NET Standard 2.1|.NET Core 3.1|.NET Core 3.1|Yes|
-|NW.UnivariateForecasting|.NET Standard 2.1|.NET Core 3.1|.NET Core 3.1|Not yet|
-|NW.MarkdownTables|.NET Standard 2.1|.NET Core 3.1|.NET Core 3.1|-|
+#### Areas of Expertise
 
-Planned releases for 2022: 
-- Version 3.5 for NW.NGramTextClassification
-- Contributors guidelines
+`Data`, `Databases`, `Development`, `Software Usability`, `Clean Software Architecture`, `Clean Code`, `Design Patterns`, `(Parametric) Unit Testing`, `OOP`, `Dependency Injection`, `Single Responsability Principle`, `Console Applications`, `Services`, `CLIs`,`CI/CD`, `(Web) Scraping`, `REST APIs`, `Business Analysis`, `ETL Process`, `Star Schema`, `Data Warehouses`.
+
+#### Tech Stack
+
+`C#`, `NET Core`, `NET Standard`, `NUNit`,`SQL Server`, `PowerBi`, `TeamCity`, `Azure DevOps`, `Excel`, `VBA`, `Powershell`, `Ubuntu Server`, `Docker`, `MariaDB`, `NuGet Packages`.
+
+#### Incoming
+
+`Data Science`, `SQLite`, `Python 3.x`, `Python Packages`, `Proxmox VE`, `Jupyper Notebooks`, `Machine Learning`, `Postgresql`, `Time-Series Analysis`.
