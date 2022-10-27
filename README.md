@@ -40,9 +40,17 @@ These are intended for final users who want to use my libraries thru a handy com
 
 ## Continuous Learning
 
-#### Summary
+#### By Year
 
-The following table summarizes how many development books I studied since I started with continuous learning. The schema used is: "Books (*Pages*)".
+The following table summarizes how many technical books I studied since I started a continuous learning path: 
+
+|<sub>Years</sub>|<sub>Books</sub>|<sub>Pages</sub>|
+|---|---|---|
+|<sub>7</sub>|<sub>232</sub>|<sub>62149</sub>|
+
+#### By Month
+
+The schema used is: `Books (Pages)`.
 
 |<sub>Month</sub>|<sub>2016</sub>|<sub>2017</sub>|<sub>2018</sub>|<sub>2019</sub>|<sub>2020</sub>|<sub>2021</sub>|<sub>2022</sub>|
 |---|---|---|---|---|---|---|---|
@@ -60,9 +68,6 @@ The following table summarizes how many development books I studied since I star
 |<sub>12</sub>|<sub>11 (3019)</sub>|<sub>0 (0)</sub>|<sub>15 (5236)</sub>|<sub>0 (0)</sub>|<sub>1 (435)</sub>|<sub>0 (0)</sub>||
 |<sub>Total</sub>|<sub>43 (12322)</sub>|<sub>63 (18726)</sub>|<sub>48 (12646)</sub>|<sub>42 (9952)</sub>|<sub>23 (6602)</sub>|<sub>13 (1901)</sub>|<sub>0 (0)</sub>|
 
-|<sub>Years</sub>|<sub>Books</sub>|<sub>Pages</sub>|
-|---|---|---|
-|<sub>7</sub>|<sub>232</sub>|<sub>62149</sub>|
 
 #### Related Pages
 
