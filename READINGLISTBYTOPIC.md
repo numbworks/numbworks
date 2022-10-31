@@ -2,7 +2,8 @@
 
 | Date | Author | Description |
 |---|---|---|
-| 2021-04-25 | numbworks | Created + March 2021 update. |
+|2021-04-25|numbworks|Created + March 2021 update.|
+|2022-10-31|numbworks|Sep-Oct 2022 update.|
 
 ## Reading List By Topic
 
@@ -10,7 +11,7 @@
 |---|---|---|
 |Software Engineering|16637|60|
 |C#|15772|50|
-|Data Science|5218|19|
+|Data Science|5578|20|
 |Business Intelligence|3308|10|
 |Power Bi|2881|11|
 |Unit Testing|2739|9|
