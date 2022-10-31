@@ -26,7 +26,7 @@
 |Python|776|3|
 |Continuous Delivery|516|2|
 |Regular Expressions|400|2|
-|.NET Core|383|5|
+|.NET|383|5|
 |Electronic Engineering|349|1|
 |Javascript|258|2|
 |Azure|113|2|
