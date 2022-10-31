@@ -1,6 +1,6 @@
 ## Revision History
 
-| Date | Author | Description |
+|Date|Author|Description|
 |---|---|---|
 |2021-04-25|numbworks|Created + March 2021 update.|
 |2022-10-31|numbworks|Sep-Oct 2022 update.|
