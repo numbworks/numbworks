@@ -1,35 +1,36 @@
 ## Revision History
 
-| Date | Author | Description |
+|Date|Author|Description|
 |---|---|---|
-| 2020-12-28 | numbworks | Created. |
-| 2021-02-28 | numbworks | February 2021 update. |
-| 2021-04-25 | numbworks | March 2021 update. |
+|2020-12-28|numbworks|Created.|
+|2021-02-28|numbworks|February 2021 update.|
+|2021-04-25|numbworks|March 2021 update.|
+|2022-10-31|numbworks|Sep-Oct 2022 update.|
 
 ## Reading List By Publisher
 
 |Publisher|Books|AvgRating|Worthy?|
 |---|---|---|---|
-|O'Reilly|33|2,15||
-|Syncfusion|38|2,55|←|
-|Packt|29|1,93||
-|Apress|25|2,24||
-|Addison-Wesley|16|2,19||
-|Manning|9|3,11|←|
-|Wiley|9|2,78|←|
-|Microsoft Press|9|2,22||
+|Syncfusion|38|2.55|←|
+|O'Reilly|34|2.18||
+|Packt|29|1.93||
+|Apress|25|2.24||
+|Addison-Wesley|16|2.19||
+|Manning|9|3.11|←|
+|Wiley|9|2.78|←|
+|Microsoft Press|9|2.22||
 |Self-Published|7|3||
-|Prentice Hall|4|2,25||
-|Leanpub|4|1,5||
+|Prentice Hall|4|2.25||
+|Leanpub|4|1.5||
 |Pearson Education|3|3||
-|Wrox|3|2,33||
-|Cambridge University Press|3|2,33||
+|Wrox|3|2.33||
+|Cambridge University Press|3|2.33||
 |Morgan Kaufmann|2|3||
-|Red gate books|2|2,5||
-|Lulu.com|2|2,5||
+|Red gate books|2|2.5||
+|Lulu.com|2|2.5||
 |Goalkicker.com|2|2||
 |No Starch Press|2|2||
-|Sams Publishing|2|1,5||
+|Sams Publishing|2|1.5||
 |Maker Media, Inc|1|4||
 |PulpFree Press|1|3||
 |Dot Net Curry|1|3||
