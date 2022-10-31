@@ -48,7 +48,7 @@ The following table summarizes how many technical books I studied since I starte
 
 |<sub>Years</sub>|<sub>Books</sub>|<sub>Pages</sub>|
 |---|---|---|
-|<sub>7</sub>|<sub>232</sub>|<sub>62149</sub>|
+|<sub>7</sub>|<sub>233</sub>|<sub>62509</sub>|
 
 #### By Month
 
