@@ -4,17 +4,20 @@
 |---|---|---|
 | 2022-10-27 | numbworks | Created. |
 
-## Status 
+## Framework Status 
 
-|Project|Library|Client|Tests|Has CLI?|
+|Project|Has CLI?|Library|Client|Tests|
 |---|---|---|---|---|
-|NW.WIDJobs|.NET Standard 2.1|.NET Core 3.1|.NET Core 3.1|Yes|
-|NW.NGramTextClassification|.NET Standard 2.1|.NET Core 3.1|.NET Core 3.1|Yes|
-|NW.UnivariateForecasting|.NET Standard 2.1|.NET Core 3.1|.NET Core 3.1|Not yet|
-|NW.MarkdownTables|.NET Standard 2.1|.NET Core 3.1|.NET Core 3.1|-|
+|NW.WIDJobs|Yes|.NET Standard 2.1|.NET Core 3.1|.NET Core 3.1|
+|NW.NGramTextClassification|Yes|.NET Standard 2.1|.NET Core 3.1|.NET Core 3.1|
+|NW.UnivariateForecasting|Not yet|.NET Standard 2.1|.NET Core 3.1|.NET Core 3.1|
+|NW.MarkdownTables|-|.NET Standard 2.1|.NET Core 3.1|.NET Core 3.1|
 
 ## Planned Updates
 
 Planned releases for 2022: 
-- Version 3.5 for NW.NGramTextClassification
 - Contributors guidelines
+
+Planned releases for 2023: 
+- Update libraries to .NET 6.0
+- Update all dependencies
