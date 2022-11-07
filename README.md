@@ -12,7 +12,7 @@ Contact: [Twitter](http://www.twitter.com/numbworks) | [Email](mailto:numbworks@
 
 These are intended for other developers who want to integrate my software in their own software:
 
-| Name | Effort | Overview | License | Tests | NuGet | Last Update |
+| Repository | Effort | Quick Links | License | Tests | NuGet | Last Update |
 |---|---|---|---|---|---|---|
 | [NW.WIDJobs](https://github.com/numbworks/NW.WIDJobs) | 579 h | <ul><li>[README](https://github.com/numbworks/NW.WIDJobs/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/NW.WIDJobs/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/NW.WIDJobs/blob/master/docs/Documentation-NW.WIDJobs.md)</li></ul> | MIT | ![codecoverage_library.svg](https://raw.githubusercontent.com/numbworks/NW.WIDJobs/master/codecoverage_library.svg) | [2.0.0](https://www.nuget.org/packages/NW.WIDJobs/2.0.0) | 2022-09-17 |
 | [NW.NGramTextClassification](https://github.com/numbworks/NW.NGramTextClassification) | 188 h | <ul><li>[README](https://github.com/numbworks/NW.NGramTextClassification/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/NW.NGramTextClassification/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/NW.NGramTextClassification/blob/master/docs/Documentation-NW.NGramTextClassification.md)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/NW.NGramTextClassification/master/codecoverage_library.svg) | [3.5.0](https://www.nuget.org/packages/NW.NGramTextClassification/3.5.0) | 2022-10-30 |
@@ -23,7 +23,7 @@ These are intended for other developers who want to integrate my software in the
 
 These are intended for final users who want to use my libraries thru a handy command-line interface:
 
-| Name | Overview | License | Tests | Binaries | Last Update |
+| Repository | Quick Links | License | Tests | Binaries | Last Update |
 |---|---|---|---|---|---|
 | [NW.WIDJobsClient](https://github.com/numbworks/NW.WIDJobs) | [Documentation](https://github.com/numbworks/NW.WIDJobs/blob/master/docs/Documentation-NW.WIDJobsClient.md) | MIT | ![codecoverage_client.svg](https://raw.githubusercontent.com/numbworks/NW.WIDJobs/master/codecoverage_client.svg) | [2.0.0](https://github.com/numbworks/NW.WIDJobs/releases/tag/v2.0.0) | 2022-09-17 |
 | [NW.NGramTextClassificationClient](https://github.com/numbworks/NW.NGramTextClassification) | [Documentation](https://github.com/numbworks/NW.NGramTextClassification/blob/master/docs/Documentation-NW.NGramTextClassificationClient.md)| MIT | ![codecoverage_client.svg](https://raw.githubusercontent.com/numbworks/NW.NGramTextClassification/master/codecoverage_client.svg) | [3.5.0](https://github.com/numbworks/NW.NGramTextClassification/releases/tag/v3.5.0) | 2022-10-30 |
@@ -32,7 +32,7 @@ These are intended for final users who want to use my libraries thru a handy com
 
 #### Other Projects
 
-| Name | Type | Overview | License | Tests | Last Update |
+| Repository | Type | Quick Links | License | Tests | Last Update |
 |---|---|---|---|---|---|
 | [i3_eink_config](https://github.com/numbworks/i3_eink_config) | Configuration File | [README](https://github.com/numbworks/i3_eink_config/blob/master/README.md) | MIT | - | 2020-12-22 |
 
