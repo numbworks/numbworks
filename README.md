@@ -23,12 +23,12 @@ These are intended for other developers who want to integrate my software in the
 
 These are intended for final users who want to use my libraries thru a handy command-line interface:
 
-| Repository | Quick Links | License | Tests | Binaries | Last Update |
+| Repository | Quick Links | License | Tests | Binaries |
 |---|---|---|---|---|---|
-| [NW.WIDJobsClient](https://github.com/numbworks/NW.WIDJobs) | [Documentation](https://github.com/numbworks/NW.WIDJobs/blob/master/docs/Documentation-NW.WIDJobsClient.md) | MIT | ![codecoverage_client.svg](https://raw.githubusercontent.com/numbworks/NW.WIDJobs/master/codecoverage_client.svg) | [2.0.0](https://github.com/numbworks/NW.WIDJobs/releases/tag/v2.0.0) | 2022-09-17 |
-| [NW.NGramTextClassificationClient](https://github.com/numbworks/NW.NGramTextClassification) | [Documentation](https://github.com/numbworks/NW.NGramTextClassification/blob/master/docs/Documentation-NW.NGramTextClassificationClient.md)| MIT | ![codecoverage_client.svg](https://raw.githubusercontent.com/numbworks/NW.NGramTextClassification/master/codecoverage_client.svg) | [3.6.0](https://github.com/numbworks/NW.NGramTextClassification/releases/tag/v3.6.0) | 2022-11-08 |
-| [NW.UnivariateForecastingClient](https://github.com/numbworks/NW.UnivariateForecasting) | [Documentation](https://github.com/numbworks/NW.UnivariateForecasting/blob/main/docs/Documentation-NW.UnivariateForecastingClient.md) | MIT | ![codecoverage_client.svg](https://raw.githubusercontent.com/numbworks/NW.UnivariateForecasting/main/codecoverage_client.svg) | - | 2022-09-18 |
-| [NW.MarkdownTablesClient](https://github.com/numbworks/NW.MarkdownTables) | [Documentation](https://github.com/numbworks/NW.MarkdownTables/blob/master/docs/Documentation-NW.MarkdownTablesClient.md) | MIT | ![codecoverage_client.svg](https://raw.githubusercontent.com/numbworks/NW.MarkdownTables/master/codecoverage_client.svg) | - | 2021-10-11 |
+| [NW.WIDJobsClient](https://github.com/numbworks/NW.WIDJobs) | [Documentation](https://github.com/numbworks/NW.WIDJobs/blob/master/docs/Documentation-NW.WIDJobsClient.md) | MIT | ![codecoverage_client.svg](https://raw.githubusercontent.com/numbworks/NW.WIDJobs/master/codecoverage_client.svg) | [2.0.0](https://github.com/numbworks/NW.WIDJobs/releases/tag/v2.0.0) |
+| [NW.NGramTextClassificationClient](https://github.com/numbworks/NW.NGramTextClassification) | [Documentation](https://github.com/numbworks/NW.NGramTextClassification/blob/master/docs/Documentation-NW.NGramTextClassificationClient.md)| MIT | ![codecoverage_client.svg](https://raw.githubusercontent.com/numbworks/NW.NGramTextClassification/master/codecoverage_client.svg) | [3.6.0](https://github.com/numbworks/NW.NGramTextClassification/releases/tag/v3.6.0) |
+| [NW.UnivariateForecastingClient](https://github.com/numbworks/NW.UnivariateForecasting) | [Documentation](https://github.com/numbworks/NW.UnivariateForecasting/blob/main/docs/Documentation-NW.UnivariateForecastingClient.md) | MIT | ![codecoverage_client.svg](https://raw.githubusercontent.com/numbworks/NW.UnivariateForecasting/main/codecoverage_client.svg) | - |
+| [NW.MarkdownTablesClient](https://github.com/numbworks/NW.MarkdownTables) | [Documentation](https://github.com/numbworks/NW.MarkdownTables/blob/master/docs/Documentation-NW.MarkdownTablesClient.md) | MIT | ![codecoverage_client.svg](https://raw.githubusercontent.com/numbworks/NW.MarkdownTables/master/codecoverage_client.svg) | - |
 
 #### Other Projects
 
