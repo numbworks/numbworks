@@ -30,11 +30,17 @@ These are intended for final users who want to use my libraries thru a handy com
 | [NW.UnivariateForecastingClient](https://github.com/numbworks/NW.UnivariateForecasting) | [Documentation](https://github.com/numbworks/NW.UnivariateForecasting/blob/main/docs/Documentation-NW.UnivariateForecastingClient.md) | MIT | ![codecoverage_client.svg](https://raw.githubusercontent.com/numbworks/NW.UnivariateForecasting/main/codecoverage_client.svg) | - |
 | [NW.MarkdownTablesClient](https://github.com/numbworks/NW.MarkdownTables) | [Documentation](https://github.com/numbworks/NW.MarkdownTables/blob/master/docs/Documentation-NW.MarkdownTablesClient.md) | MIT | ![codecoverage_client.svg](https://raw.githubusercontent.com/numbworks/NW.MarkdownTables/master/codecoverage_client.svg) | - |
 
+#### Jupyter Notebooks (Python)
+
+| Repository | Effort | Quick Links | License | Tests | Last Update |
+|---|---|---|---|---|---|
+| [nwtraderaanalytics](https://github.com/numbworks/nwtraderaanalytics) | ? | <ul><li>[README](https://github.com/numbworks/nwtraderaanalytics/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwtraderaanalytics/blob/master/changelog)</li> <li>[Documentation](https://github.com/numbworks/nwtraderaanalytics/blob/master/docs/docs-nwtraderaanalytics.md)</li> <li>[Issues](https://github.com/numbworks/nwtraderaanalytics/issues)</li></ul> | MIT | - | 2022-12-15 |
+
 #### Other Projects
 
-| Repository | Type | Quick Links | License | Tests | Last Update |
-|---|---|---|---|---|---|
-| [i3_eink_config](https://github.com/numbworks/i3_eink_config) | Configuration File | [README](https://github.com/numbworks/i3_eink_config/blob/master/README.md) | MIT | - | 2020-12-22 |
+| Repository | Type | Quick Links | License | Last Update |
+|---|---|---|---|---|
+| [i3_eink_config](https://github.com/numbworks/i3_eink_config) | Configuration File | [README](https://github.com/numbworks/i3_eink_config/blob/master/README.md) | MIT | 2020-12-22 |
 
 #### Related Pages
 
