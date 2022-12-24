@@ -30,13 +30,11 @@ Intended for data analysts who want to use my libraries thru a command-line inte
 
 #### Jupyter Notebooks (Python)
 
-Intended for data analysts and Jupyter Notebook/Python enthusiasts.
+Intended for data analysts and Jupyter Notebook/Python enthusiasts. Feel free to contact me to get access if the repositories are private.
 
 || Repository | Effort | Quick Links | License | Tests | Version | Last Update |
 |---|---|---|---|---|---|---|---|
 |![private](images/repository-private-small.png)| [nwtraderaanalytics](https://github.com/numbworks/nwtraderaanalytics) | 60 h | <ul><li>[README](https://github.com/numbworks/nwtraderaanalytics/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwtraderaanalytics/blob/master/changelog)</li> <li>[Documentation](https://github.com/numbworks/nwtraderaanalytics/blob/master/docs/docs-nwtraderaanalytics.md)</li> <li>[Issues](https://github.com/numbworks/nwtraderaanalytics/issues)</li></ul> | MIT | ![codecoverage.svg](images/nwtraderaanalytics_codecoverage.svg) | 1.0.0 | 2022-12-23 |
-
-Feel free to contact me to get access to the private repositories.
 
 #### Other Projects
 
