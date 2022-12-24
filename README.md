@@ -10,7 +10,7 @@ Contact: [Twitter](http://www.twitter.com/numbworks) | [Email](mailto:numbworks@
 
 #### Libraries (C#)
 
-These are intended for other developers who want to integrate my software in their own software:
+Intended for other developers who want to integrate my software in their own software.
 
 | Repository | Effort | Quick Links | License | Tests | NuGet | Last Update |
 |---|---|---|---|---|---|---|
@@ -21,7 +21,7 @@ These are intended for other developers who want to integrate my software in the
 
 #### CLI Applications (C#)
 
-These are intended for final users who want to use my libraries thru a handy command-line interface:
+Intended for data analysts who want to use my libraries thru a command-line interface.
 
 | Repository | Quick Links | License | Tests | Binaries |
 |---|---|---|---|---|
@@ -30,9 +30,11 @@ These are intended for final users who want to use my libraries thru a handy com
 
 #### Jupyter Notebooks (Python)
 
+Intended for data analysts and Jupyter Notebook/Python enthusiasts.
+
 | Repository | Effort | Quick Links | License | Tests | Version | Last Update |
 |---|---|---|---|---|---|---|
-| [nwtraderaanalytics](https://github.com/numbworks/nwtraderaanalytics) | ? | <ul><li>[README](https://github.com/numbworks/nwtraderaanalytics/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwtraderaanalytics/blob/master/changelog)</li> <li>[Documentation](https://github.com/numbworks/nwtraderaanalytics/blob/master/docs/docs-nwtraderaanalytics.md)</li> <li>[Issues](https://github.com/numbworks/nwtraderaanalytics/issues)</li></ul> | MIT | - | 1.0.0 | 2022-12-15 |
+| [nwtraderaanalytics](https://github.com/numbworks/nwtraderaanalytics) | 60 h | <ul><li>[README](https://github.com/numbworks/nwtraderaanalytics/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwtraderaanalytics/blob/master/changelog)</li> <li>[Documentation](https://github.com/numbworks/nwtraderaanalytics/blob/master/docs/docs-nwtraderaanalytics.md)</li> <li>[Issues](https://github.com/numbworks/nwtraderaanalytics/issues)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwtraderaanalytics/master/codecoverage.svg) | 1.0.0 | 2022-12-23 |
 
 #### Other Projects
 
