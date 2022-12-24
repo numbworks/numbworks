@@ -30,7 +30,9 @@ Intended for data analysts who want to use my libraries thru a command-line inte
 
 #### Jupyter Notebooks (Python)
 
-Intended for data analysts and Jupyter Notebook/Python enthusiasts. Feel free to contact me to get access if the repositories are private.
+Intended for data analysts and Jupyter Notebook/Python enthusiasts. 
+
+Feel free to contact me to get access if the repositories are private.
 
 || Repository | Effort | Quick Links | License | Tests | Version | Last Update |
 |---|---|---|---|---|---|---|---|
