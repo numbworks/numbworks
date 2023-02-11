@@ -15,9 +15,7 @@
 
 ## Planned Updates
 
-Planned releases for 2022: 
+Planned releases for 2023:
 - Contributors guidelines
-
-Planned releases for 2023: 
 - Update libraries to .NET 6.0
 - Update all dependencies
