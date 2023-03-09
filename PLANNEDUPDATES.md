@@ -10,7 +10,7 @@
 |---|---|---|---|---|
 |NW.WIDJobs|Yes|.NET Standard 2.1|.NET Core 3.1|.NET Core 3.1|
 |NW.NGramTextClassification|Yes|.NET Standard 2.1|.NET Core 3.1|.NET Core 3.1|
-|NW.UnivariateForecasting|Not yet|.NET Standard 2.1|.NET Core 3.1|.NET Core 3.1|
+|NW.UnivariateForecasting|Yes|.NET Standard 2.1|.NET Core 3.1|.NET Core 3.1|
 |NW.MarkdownTables|-|.NET Standard 2.1|.NET Core 3.1|.NET Core 3.1|
 
 ## Planned Updates
