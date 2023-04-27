@@ -51,9 +51,7 @@ Feel free to contact me to get access if the repositories are private.
 
 ## Continuous Learning
 
-#### By Year
-
-The following table summarizes how many technical books I studied since I started a continuous learning path: 
+The following table summarizes how many technical books I studied since I started a continuous learning path (2016): 
 
 |<sub>Years</sub>|<sub>Books</sub>|<sub>Pages</sub>|
 |---|---|---|
