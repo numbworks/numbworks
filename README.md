@@ -57,34 +57,15 @@ The following table summarizes how many technical books I studied since I starte
 
 |<sub>Years</sub>|<sub>Books</sub>|<sub>Pages</sub>|
 |---|---|---|
-|<sub>8</sub>|<sub>233</sub>|<sub>62509</sub>|
-
-#### By Month
-
-The schema used is: `Books (Pages)`.
-
-|<sub>Month</sub>|<sub>2016</sub>|<sub>2017</sub>|<sub>2018</sub>|<sub>2019</sub>|<sub>2020</sub>|<sub>2021</sub>|<sub>2022</sub>|<sub>2023</sub>|
-|---|---|---|---|---|---|---|---|---|
-|<sub>1</sub>|<sub>0 (0)</sub>|<sub>13 (5157)</sub>|<sub>0 (0)</sub>|<sub>4 (1061)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>|
-|<sub>2</sub>|<sub>0 (0)</sub>|<sub>1 (106)</sub>|<sub>0 (0)</sub>|<sub>13 (2991)</sub>|<sub>0 (0)</sub>|<sub>11 (1289)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>|
-|<sub>3</sub>|<sub>0 (0)</sub>|<sub>16 (3816)</sub>|<sub>6 (600)</sub>|<sub>20 (3349)</sub>|<sub>0 (0)</sub>|<sub>2 (612)</sub>|<sub>0 (0)</sub>||
-|<sub>4</sub>|<sub>0 (0)</sub>|<sub>8 (2539)</sub>|<sub>7 (1986)</sub>|<sub>0 (0)</sub>|<sub>9 (2226)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>||
-|<sub>5</sub>|<sub>1 (288)</sub>|<sub>13 (3527)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>||
-|<sub>6</sub>|<sub>8 (1734)</sub>|<sub>4 (788)</sub>|<sub>1 (24)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>||
-|<sub>7</sub>|<sub>4 (1758)</sub>|<sub>3 (1140)</sub>|<sub>3 (427)</sub>|<sub>2 (444)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>||
-|<sub>8</sub>|<sub>2 (334)</sub>|<sub>1 (453)</sub>|<sub>0 (0)</sub>|<sub>2 (848)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>||
-|<sub>9</sub>|<sub>4 (881)</sub>|<sub>4 (1200)</sub>|<sub>0 (0)</sub>|<sub>1 (1259)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>|<sub>1 (360)</sub>||
-|<sub>10</sub>|<sub>2 (275)</sub>|<sub>0 (0)</sub>|<sub>6 (1201)</sub>|<sub>0 (0)</sub>|<sub>6 (1941)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>||
-|<sub>11</sub>|<sub>11 (4033)</sub>|<sub>0 (0)</sub>|<sub>10 (3172)</sub>|<sub>0 (0)</sub>|<sub>7 (2000)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>||
-|<sub>12</sub>|<sub>11 (3019)</sub>|<sub>0 (0)</sub>|<sub>15 (5236)</sub>|<sub>0 (0)</sub>|<sub>1 (435)</sub>|<sub>0 (0)</sub>|<sub>0 (0)</sub>||
-|<sub>Total</sub>|<sub>43 (12322)</sub>|<sub>63 (18726)</sub>|<sub>48 (12646)</sub>|<sub>42 (9952)</sub>|<sub>23 (6602)</sub>|<sub>13 (1901)</sub>|<sub>1 (360)</sub>|<sub>0 (0)</sub>|
+|<sub>8</sub>|<sub>234</sub>|<sub>65363</sub>|
 
 #### Related Pages
 
-- [READINGLISTBYTOPIC.md](READINGLISTBYTOPIC.md)
-- [READINGLISTBYRATING.md](READINGLISTBYRATING.md)
-- [READINGLISTBYPUBLISHER.md](READINGLISTBYPUBLISHER.md)
 - [READINGLIST.md](READINGLIST.md)
+- [READINGLISTBYMONTH.md](READINGLISTBYMONTH.md)
+- [READINGLISTBYPUBLISHER.md](READINGLISTBYPUBLISHER.md)
+- [READINGLISTBYRATING.md](READINGLISTBYRATING.md)
+- [READINGLISTBYTOPIC.md](READINGLISTBYTOPIC.md)
 
 ## Self-Improvement Status
 

@@ -2,14 +2,14 @@
 
 |Date|Author|Description|
 |---|---|---|
-|2021-04-25|numbworks|Created + March 2021 update.|
-|2022-10-31|numbworks|Sep-Oct 2022 update.|
+|2020-12-22|numbworks|Created.|
+|2023-04-28|numbworks|Updated.|
 
 ## Reading List By Topic
 
 |Topic|Book Pages|Books|
 |---|---|---|
-|Software Engineering|16637|60|
+|Software Engineering|16776|61|
 |C#|15772|50|
 |Data Science|5578|20|
 |Business Intelligence|3308|10|

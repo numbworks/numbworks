@@ -2,10 +2,8 @@
 
 |Date|Author|Description|
 |---|---|---|
-|2020-12-28|numbworks|Created.|
-|2021-02-28|numbworks|February 2021 update.|
-|2021-04-25|numbworks|March 2021 update.|
-|2022-10-31|numbworks|Sep-Oct 2022 update.|
+|2020-12-22|numbworks|Created.|
+|2023-04-28|numbworks|Updated.|
 
 ## Reading List By Publisher
 
@@ -58,3 +56,4 @@
 |DEG Press|1|1||
 |TakeSmartNotes.com|1|1||
 |InfoWorld.com|1|1||
+|RBA|1|2||

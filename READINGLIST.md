@@ -3,9 +3,7 @@
 |Date|Author|Description|
 |---|---|---|
 |2020-12-22|numbworks|Created.|
-|2021-02-28|numbworks|February 2021 update.|
-|2021-04-25|numbworks|March 2021 update.|
-|2022-10-31|numbworks|Sep-Oct 2022 update.|
+|2023-04-28|numbworks|Updated.|
 
 ## Reading List
 
@@ -244,3 +242,4 @@
 |231|Python Crash Course|2016|562|2021-03-18|No Starch Press|★★★☆☆|Python|
 |232|Modern Python Cookbook (2nd Edition)|2020|50|2021-03-18|Packt|★☆☆☆☆|Python|
 |233|Programming Collective Intelligence|2007|360|2022-09-01|O'Reilly|★★★☆☆|Data Science|
+|234|Le Reti Sociali e La Teoria dei Grafi|2020|139|2023-03-14|RBA|★★☆☆☆|Software Engineering|
