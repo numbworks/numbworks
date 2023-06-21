@@ -47,6 +47,7 @@ Feel free to contact me to get access if the repositories are private.
 
 #### Related Pages
 
+- [CONTRIBUTIONGUIDEFORCSHARP.md](CONTRIBUTIONGUIDEFORCSHARP.md)
 - [PLANNEDUPDATES.md](PLANNEDUPDATES.md)
 
 ## Continuous Learning
