@@ -58,11 +58,11 @@ The following table summarizes how many technical books I studied since I starte
 
 #### Related Pages
 
-- [READINGLIST.md](READINGLIST.md)
 - [READINGLISTBYMONTH.md](READINGLISTBYMONTH.md)
 - [READINGLISTBYPUBLISHER.md](READINGLISTBYPUBLISHER.md)
 - [READINGLISTBYRATING.md](READINGLISTBYRATING.md)
 - [READINGLISTBYTOPIC.md](READINGLISTBYTOPIC.md)
+- [READINGLIST.md](READINGLIST.md)
 
 ## Self-Improvement Status
 
