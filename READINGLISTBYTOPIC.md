@@ -3,32 +3,33 @@
 |Date|Author|Description|
 |---|---|---|
 |2020-12-22|numbworks|Created.|
-|2023-04-28|numbworks|Updated.|
+|2023-08-16|numbworks|Last update.|
 
 ## Reading List By Topic
 
-|Topic|Book Pages|Books|
-|---|---|---|
-|Software Engineering|16776|61|
-|C#|15772|50|
-|Data Science|5578|20|
-|Business Intelligence|3308|10|
-|Power Bi|2881|11|
-|Unit Testing|2739|9|
-|Machine Learning|2721|9|
-|SQL Server|1955|7|
-|Docker|1724|12|
-|Powershell|1683|4|
-|Git|1514|8|
-|MariaDB|1177|4|
-|Continuous Education|928|5|
-|DevOps|912|3|
-|Python|776|3|
-|Continuous Delivery|516|2|
-|Regular Expressions|400|2|
-|.NET|383|5|
-|Electronic Engineering|349|1|
-|Javascript|258|2|
-|Azure|113|2|
-|IoT|105|3|
-|Linux|80|1|
+| Topic                  |   Books |   Pages |
+|:-----------------------|--------:|--------:|
+| Software Engineering   |      62 |   16835 |
+| C#                     |      50 |   15772 |
+| Data Science           |      23 |    5761 |
+| Docker                 |      12 |    1724 |
+| Power Bi               |      11 |    2881 |
+| Business Intelligence  |      10 |    3308 |
+| Unit Testing           |       9 |    2739 |
+| Machine Learning       |       9 |    2721 |
+| Git                    |       8 |    1514 |
+| SQL Server             |       7 |    1955 |
+| Python                 |       6 |    1025 |
+| .NET                   |       5 |     383 |
+| Continuous Education   |       5 |     928 |
+| MariaDB                |       4 |    1177 |
+| Powershell             |       4 |    1683 |
+| DevOps                 |       3 |     912 |
+| IoT                    |       3 |     105 |
+| Azure                  |       2 |     113 |
+| Javascript             |       2 |     258 |
+| Regular Expressions    |       2 |     400 |
+| Continuous Delivery    |       2 |     516 |
+| Linux                  |       1 |      80 |
+| Entrepreneurship       |       1 |     151 |
+| Electronic Engineering |       1 |     349 |
