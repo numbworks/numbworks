@@ -72,8 +72,8 @@ The following table summarizes how many technical books I studied since I starte
 
 #### Tech Stack
 
-`C#`, `NET Core`, `NET Standard`, `NUNit`,`SQL Server`, `PowerBi`, `TeamCity`, `Azure DevOps`, `Excel`, `VBA`, `Powershell`, `Ubuntu Server`, `Docker`, `MariaDB`, `NuGet Packages`.
+`C#`, `NET Core`, `NET Standard`, `NUNit`,`SQL Server`, `PowerBi`, `TeamCity`, `Azure DevOps`, `Excel`, `VBA`, `Powershell`, `Ubuntu Server`, `Docker`, `MariaDB`, `NuGet Packages`, `SQLite`, `Proxmox VE`, `Jupyter Notebooks`, `Python 3.x`, `Pandas`.
 
 #### Incoming
 
-`Data Science`, `SQLite`, `Python 3.x`, `Python Packages`, `Proxmox VE`, `Jupyper Notebooks`, `Machine Learning`, `Postgresql`, `Time-Series Analysis`.
+`Python Packages`, `Data Science`, `Machine Learning`, `Postgresql`, `Time-Series Analysis`, `Sensor Data`, `AWS Architecture`.
