@@ -52,9 +52,9 @@ Intended to showcase my approach to solve specific data analysis problems:
 
 The following table summarizes how many technical books I studied since I started a continuous learning path (2016): 
 
-|   Years |   Books |   Pages | TotalSpend   |
-|--------:|--------:|--------:|:-------------|
-|       8 |     255 |   66429 | $6788.84     |
+|   Years |   Books |   Pages | TotalSpend   | LastUpdate   |
+|--------:|--------:|--------:|:-------------|:-------------|
+|       8 |     254 |   66069 | $6758.62     | 2023-09-23   |
 
 #### Related Pages
 
