@@ -35,7 +35,7 @@ Intended to showcase my approach to solve specific data analysis problems:
 
 | Repository | Effort | Quick Links | License | Tests | Version | Last Update |
 |---|---|---|---|---|---|---|
-| [nwreadinglistmanager](https://github.com/numbworks/nwreadinglistmanager) | 63 h | <ul><li>[README](https://github.com/numbworks/nwreadinglistmanager/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwreadinglistmanager/blob/master/changelog)</li> <li>[Documentation](https://github.com/numbworks/nwreadinglistmanager/blob/master/docs/docs-nwreadinglistmanager.md)</li> <li>[Issues](https://github.com/numbworks/nwreadinglistmanager/issues)</li></ul> | MIT | ![codecoverage.svg](nwtraderaanalytics_codecoverage.svg) | 1.5.0 | 2023-09-23 |
+| [nwreadinglistmanager](https://github.com/numbworks/nwreadinglistmanager) | 68 h | <ul><li>[README](https://github.com/numbworks/nwreadinglistmanager/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwreadinglistmanager/blob/master/changelog)</li> <li>[Documentation](https://github.com/numbworks/nwreadinglistmanager/blob/master/docs/docs-nwreadinglistmanager.md)</li> <li>[Issues](https://github.com/numbworks/nwreadinglistmanager/issues)</li></ul> | MIT | ![codecoverage.svg](nwtraderaanalytics_codecoverage.svg) | 1.6.0 | 2023-09-24 |
 
 #### Other Projects
 
