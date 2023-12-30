@@ -3,7 +3,7 @@
 |Date|Author|Description|
 |---|---|---|
 |2020-12-22|numbworks|Created.|
-|2023-09-23|numbworks|Last update.|
+|2023-12-30|numbworks|Last update.|
 
 ## Reading List
 
@@ -46,7 +46,7 @@
 | <sub>35</sub>   | <sub>.NET Technology Guide for Business Applications</sub>                                                 | <sub>2013</sub>   | <sub>EN</sub>         | <sub>74</sub>      | <sub>2016-12-02</sub> | <sub>Microsoft Press</sub>                  | <sub>★☆☆☆☆</sub>    | <sub>C#</sub>                              |
 | <sub>36</sub>   | <sub>Head First C#, 3rd Edition</sub>                                                                      | <sub>2013</sub>   | <sub>EN</sub>         | <sub>948</sub>     | <sub>2016-12-05</sub> | <sub>O'Reilly</sub>                         | <sub>★☆☆☆☆</sub>    | <sub>C#</sub>                              |
 | <sub>37</sub>   | <sub>The Pragmatic Programmer, From Journeyman To Master</sub>                                             | <sub>1999</sub>   | <sub>EN</sub>         | <sub>361</sub>     | <sub>2016-12-09</sub> | <sub>Addison-Wesley</sub>                   | <sub>★★☆☆☆</sub>    | <sub>Software Engineering</sub>            |
-| <sub>38</sub>   | <sub>Producing Open Source Software</sub>                                                                  | <sub>2016</sub>   | <sub>EN</sub>         | <sub>229</sub>     | <sub>2016-12-20</sub> | <sub>O'Reilly</sub>                         | <sub>★☆☆☆☆</sub>    | <sub>Software Engineering</sub>            |
+| <sub>38</sub>   | <sub>Producing Open Source Software</sub>                                                                  | <sub>2016</sub>   | <sub>EN</sub>         | <sub>229</sub>     | <sub>2016-12-20</sub> | <sub>O'Reilly</sub>                         | <sub>★★☆☆☆</sub>    | <sub>Software Engineering</sub>            |
 | <sub>39</sub>   | <sub>Hacknot Essays on Software Development</sub>                                                          | <sub>2006</sub>   | <sub>EN</sub>         | <sub>294</sub>     | <sub>2016-12-20</sub> | <sub>Self-Published</sub>                   | <sub>★☆☆☆☆</sub>    | <sub>Software Engineering</sub>            |
 | <sub>40</sub>   | <sub>Patterns Of Software</sub>                                                                            | <sub>1996</sub>   | <sub>EN</sub>         | <sub>239</sub>     | <sub>2016-12-20</sub> | <sub>Oxford University Press</sub>          | <sub>★☆☆☆☆</sub>    | <sub>Software Engineering</sub>            |
 | <sub>41</sub>   | <sub>Object-Oriented Reengineering Patterns</sub>                                                          | <sub>2008</sub>   | <sub>EN</sub>         | <sub>360</sub>     | <sub>2016-12-21</sub> | <sub>Morgan Kaufmann</sub>                  | <sub>★★★☆☆</sub>    | <sub>Software Engineering</sub>            |
@@ -263,3 +263,5 @@
 | <sub>252</sub>  | <sub>Be Data Analytical</sub>                                                                              | <sub>2023</sub>   | <sub>EN</sub>         | <sub>184</sub>     | <sub>2023-09-12</sub> | <sub>Kogan Page</sub>                       | <sub>★★☆☆☆</sub>    | <sub>Data Analysis, Data Science, ML</sub> |
 | <sub>253</sub>  | <sub>Creating Software with Modern Diagramming Techniques</sub>                                            | <sub>2023</sub>   | <sub>EN</sub>         | <sub>203</sub>     | <sub>2023-09-13</sub> | <sub>Pragmatic Bookshelf</sub>              | <sub>★★☆☆☆</sub>    | <sub>Software Engineering</sub>            |
 | <sub>254</sub>  | <sub>Python for Excel</sub>                                                                                | <sub>2021</sub>   | <sub>EN</sub>         | <sub>338</sub>     | <sub>2023-09-13</sub> | <sub>O'Reilly</sub>                         | <sub>★★★☆☆</sub>    | <sub>Python</sub>                          |
+| <sub>255</sub>  | <sub>Learning AWS IoT</sub>                                                                                | <sub>2018</sub>   | <sub>EN</sub>         | <sub>229</sub>     | <sub>2023-12-21</sub> | <sub>Packt</sub>                            | <sub>★★★☆☆</sub>    | <sub>Cloud Vendors</sub>                   |
+| <sub>256</sub>  | <sub>Building Python Web APIs with FastAPI</sub>                                                           | <sub>2022</sub>   | <sub>EN</sub>         | <sub>94</sub>      | <sub>2023-12-21</sub> | <sub>Packt</sub>                            | <sub>★★★★☆</sub>    | <sub>Python</sub>                          |
