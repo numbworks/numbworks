@@ -3,7 +3,7 @@
 |Date|Author|Description|
 |---|---|---|
 |2020-12-22|numbworks|Created.|
-|2023-12-30|numbworks|Last update.|
+|2024-01-01|numbworks|Last update.|
 
 ## Reading List
 
@@ -265,3 +265,4 @@
 | <sub>254</sub>  | <sub>Python for Excel</sub>                                                                                | <sub>2021</sub>   | <sub>EN</sub>         | <sub>338</sub>     | <sub>2023-09-13</sub> | <sub>O'Reilly</sub>                         | <sub>★★★☆☆</sub>    | <sub>Python</sub>                          |
 | <sub>255</sub>  | <sub>Learning AWS IoT</sub>                                                                                | <sub>2018</sub>   | <sub>EN</sub>         | <sub>229</sub>     | <sub>2023-12-21</sub> | <sub>Packt</sub>                            | <sub>★★★☆☆</sub>    | <sub>Cloud Vendors</sub>                   |
 | <sub>256</sub>  | <sub>Building Python Web APIs with FastAPI</sub>                                                           | <sub>2022</sub>   | <sub>EN</sub>         | <sub>94</sub>      | <sub>2023-12-21</sub> | <sub>Packt</sub>                            | <sub>★★★★☆</sub>    | <sub>Python</sub>                          |
+| <sub>257</sub>  | <sub>Building Python Microservices with FastAPI (1st Ed.)</sub>                                            | <sub>2022</sub>   | <sub>EN</sub>         | <sub>265</sub>     | <sub>2023-12-31</sub> | <sub>Packt</sub>                            | <sub>★★★☆☆</sub>    | <sub>Python</sub>                          |
