@@ -11,6 +11,8 @@ A *framework freeze* is a strategy that advocates the usage of the same version 
 
 The scope of this strategy is to simplify planned updates by reducing the possible issues and by centralizing their resolution.
 
+Regarding frameworks and when possible, only LTS (Long Term Support) versions must be used.
+
 ## C# Framework Freeze - Summary
 
 |Tech|Version|
@@ -19,6 +21,8 @@ The scope of this strategy is to simplify planned updates by reducing the possib
 |NUnit|4.0.1|
 |NUnit3TestAdapter|4.5.0|
 |Visual Studio|2022|
+
+For additional information, please refer to [.NET Support Policy](https://dotnet.microsoft.com/en-us/platform/support/policy).
 
 ## C# Framework Freeze - Status
 
@@ -46,6 +50,8 @@ The scope of this strategy is to simplify planned updates by reducing the possib
 |openpyxl|3.0.10|
 |coverage|7.2.3|
 |parameterized|0.9.0|
+
+For additional information, please refer to [Python Release Cycle](https://devguide.python.org/versions/).
 
 ## Python Framework Freeze - Status
 
