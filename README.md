@@ -47,7 +47,7 @@ Intended to showcase my approach to solve specific data analysis problems:
 #### Related Pages
 
 - [CONTRIBUTIONGUIDEFORCSHARP.md](CONTRIBUTIONGUIDEFORCSHARP.md)
-- [PLANNEDUPDATES.md](PLANNEDUPDATES.md)
+- [FRAMEWORKFREEZE.md](FRAMEWORKFREEZE.md)
 
 ## Continuous Learning
 
