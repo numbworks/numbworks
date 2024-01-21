@@ -45,9 +45,10 @@ For additional information, please refer to [.NET Support Policy](https://dotnet
 |Tech|Version|
 |---|---|
 |Python|3.12.1|
-|pandas|1.5.2|
-|numpy|1.24.0|
-|openpyxl|3.0.10|
+|numpy|1.26.3 |
+|openpyxl|3.1.0|
+|pyarrow|15.0.0|
+|pandas|2.2.0|
 |coverage|7.2.3|
 |parameterized|0.9.0|
 
@@ -55,9 +56,11 @@ For additional information, please refer to [Python Release Cycle](https://devgu
 
 ## Python Framework Freeze - Status
 
-**Non-frozen (yet)**:
+**Frozen**:
 
 |Project|Python Version|
 |---|---|
-|nwreadinglistmanager|3.11.0|
-|nwtimetrackingmanager|3.11.0|
+|nwreadinglistmanager|3.12.1|
+|nwtimetrackingmanager|3.12.1|
+
+The freeze status is verified by the `nwcorecomponents.check_python_version()` function embedded into the projects.
