@@ -32,7 +32,7 @@ The scope of this strategy is to simplify planned updates by reducing the possib
 
 **Frozen**:
 
-|Project|Has CLI?|Library|Client|Tests|FrozenDate|
+|Project|Has CLI?|Library|Client|Tests|FreezeDate|
 |---|---|---|---|---|---|
 |NW.MarkdownTables|-|.NET 8.x|.NET 8.x|.NET 8.x|2024-01-21|
 
