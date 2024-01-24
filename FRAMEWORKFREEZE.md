@@ -30,7 +30,6 @@ For additional information, please refer to [.NET Support Policy](https://dotnet
 
 |Project|Has CLI?|Library|Client|Tests|
 |---|---|---|---|---|
-|NW.WIDJobs|Yes|.NET Standard 2.1|.NET Core 3.1|.NET Core 3.1|
 |NW.NGramTextClassification|Yes|.NET Standard 2.1|.NET Core 3.1|.NET Core 3.1|
 |NW.UnivariateForecasting|Yes|.NET Standard 2.1|.NET Core 3.1|.NET Core 3.1|
 
