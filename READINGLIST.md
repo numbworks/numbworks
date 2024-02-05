@@ -3,7 +3,7 @@
 |Date|Author|Description|
 |---|---|---|
 |2020-12-22|numbworks|Created.|
-|2024-01-01|numbworks|Last update.|
+|2024-02-05|numbworks|Last update.|
 
 ## Reading List
 
@@ -266,3 +266,6 @@
 | <sub>255</sub>  | <sub>Learning AWS IoT</sub>                                                                                | <sub>2018</sub>   | <sub>EN</sub>         | <sub>229</sub>     | <sub>2023-12-21</sub> | <sub>Packt</sub>                            | <sub>★★★☆☆</sub>    | <sub>Cloud Vendors</sub>                   |
 | <sub>256</sub>  | <sub>Building Python Web APIs with FastAPI</sub>                                                           | <sub>2022</sub>   | <sub>EN</sub>         | <sub>94</sub>      | <sub>2023-12-21</sub> | <sub>Packt</sub>                            | <sub>★★★★☆</sub>    | <sub>Python</sub>                          |
 | <sub>257</sub>  | <sub>Building Python Microservices with FastAPI (1st Ed.)</sub>                                            | <sub>2022</sub>   | <sub>EN</sub>         | <sub>265</sub>     | <sub>2023-12-31</sub> | <sub>Packt</sub>                            | <sub>★★★☆☆</sub>    | <sub>Python</sub>                          |
+| <sub>258</sub>  | <sub>Building Sata Science Applications with FastAPI</sub>                                                 | <sub>2023</sub>   | <sub>EN</sub>         | <sub>288</sub>     | <sub>2024-01-04</sub> | <sub>Packt</sub>                            | <sub>★★☆☆☆</sub>    | <sub>Python</sub>                          |
+| <sub>259</sub>  | <sub>The Rules of Programming (Early Release)</sub>                                                        | <sub>2023</sub>   | <sub>EN</sub>         | <sub>151</sub>     | <sub>2024-01-06</sub> | <sub>O'Reilly</sub>                         | <sub>★☆☆☆☆</sub>    | <sub>Software Engineering</sub>            |
+| <sub>260</sub>  | <sub>Concise Guide to Software Engineering</sub>                                                           | <sub>2022</sub>   | <sub>EN</sub>         | <sub>416</sub>     | <sub>2024-01-06</sub> | <sub>Springer</sub>                         | <sub>★☆☆☆☆</sub>    | <sub>Software Engineering</sub>            |

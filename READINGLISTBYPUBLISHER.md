@@ -3,7 +3,7 @@
 |Date|Author|Description|
 |---|---|---|
 |2020-12-22|numbworks|Created.|
-|2024-01-01|numbworks|Last update.|
+|2024-02-05|numbworks|Last update.|
 
 ## Reading List By Publisher
 
@@ -16,8 +16,8 @@
 | Publisher                        |   Books |   AvgRating | IsWorth   |
 |:---------------------------------|--------:|------------:|:----------|
 | Syncfusion                       |      38 |        2.55 | Yes       |
-| O'Reilly                         |      36 |        2.19 | No        |
-| Packt                            |      33 |        2.09 | No        |
+| O'Reilly                         |      37 |        2.16 | No        |
+| Packt                            |      34 |        2.09 | No        |
 | Self-Published                   |      26 |        2.31 | No        |
 | Apress                           |      25 |        2.24 | No        |
 | Addison-Wesley                   |      16 |        2.19 | No        |
@@ -29,13 +29,13 @@
 | Pearson Education                |       3 |        3    | No        |
 | Wrox                             |       3 |        2.33 | No        |
 | Pragmatic Bookshelf              |       2 |        2    | No        |
-| Morgan Kaufmann                  |       2 |        3    | No        |
+| Springer                         |       2 |        1.5  | No        |
 | RBA                              |       2 |        2    | No        |
 | Red Gate Books                   |       2 |        2.5  | No        |
 | Sams Publishing                  |       2 |        1.5  | No        |
+| Morgan Kaufmann                  |       2 |        3    | No        |
 | No Starch Press                  |       2 |        2    | No        |
 | Kogan Page                       |       2 |        2    | No        |
-| Springer                         |       1 |        2    | No        |
 | SitePoint                        |       1 |        2    | No        |
 | Sybex                            |       1 |        3    | No        |
 | PulpFree Press                   |       1 |        3    | No        |
