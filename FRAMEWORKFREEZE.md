@@ -20,6 +20,7 @@ Regarding frameworks and when possible, only LTS (Long Term Support) versions mu
 |.NET| 8.x|
 |NUnit|4.0.1|
 |NUnit3TestAdapter|4.5.0|
+|Master.Extensions.CommandLineUtils|4.1.0|
 |Visual Studio|2022|
 
 For additional information, please refer to [.NET Support Policy](https://dotnet.microsoft.com/en-us/platform/support/policy).
@@ -30,7 +31,6 @@ For additional information, please refer to [.NET Support Policy](https://dotnet
 
 |Project|Has CLI?|Library|Client|Tests|
 |---|---|---|---|---|
-|NW.NGramTextClassification|Yes|.NET Standard 2.1|.NET Core 3.1|.NET Core 3.1|
 |NW.UnivariateForecasting|Yes|.NET Standard 2.1|.NET Core 3.1|.NET Core 3.1|
 
 **Frozen**:
@@ -38,6 +38,7 @@ For additional information, please refer to [.NET Support Policy](https://dotnet
 |Project|Has CLI?|Library|Client|Tests|FreezeDate|
 |---|---|---|---|---|---|
 |NW.MarkdownTables|-|.NET 8.x|.NET 8.x|.NET 8.x|2024-01-21|
+|NW.NGramTextClassification|Yes|.NET 8.x|.NET 8.x|.NET 8.x|2024-02-06|
 
 ## Python Framework Freeze - Summary
 
