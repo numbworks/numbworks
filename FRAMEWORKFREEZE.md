@@ -27,18 +27,13 @@ For additional information, please refer to [.NET Support Policy](https://dotnet
 
 ## C# Framework Freeze - Status
 
-**Non-frozen (yet)**:
-
-|Project|Has CLI?|Library|Client|Tests|
-|---|---|---|---|---|
-|NW.UnivariateForecasting|Yes|.NET Standard 2.1|.NET Core 3.1|.NET Core 3.1|
-
 **Frozen**:
 
 |Project|Has CLI?|Library|Client|Tests|FreezeDate|
 |---|---|---|---|---|---|
 |NW.MarkdownTables|-|.NET 8.x|.NET 8.x|.NET 8.x|2024-01-21|
 |NW.NGramTextClassification|Yes|.NET 8.x|.NET 8.x|.NET 8.x|2024-02-06|
+|NW.UnivariateForecasting|Yes|.NET 8.x|.NET 8.x|.NET 8.x|2024-02-09|
 
 ## Python Framework Freeze - Summary
 
