@@ -29,7 +29,7 @@ Intended for data analysts who want to use my libraries thru a command-line inte
 
 #### Shared Libraries (C#)
 
-Pieces of logic shared among my libraries:
+Pieces of logic shared among my libraries. These might not be feature-rich enough to be useful for the general audience.
 
 | Repository | Effort | Quick Links | License | Tests | NuGet | Last Update |
 |---|---|---|---|---|---|---|
