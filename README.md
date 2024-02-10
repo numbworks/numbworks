@@ -27,6 +27,14 @@ Intended for data analysts who want to use my libraries thru a command-line inte
 | [NW.UnivariateForecastingClient](https://github.com/numbworks/NW.UnivariateForecasting) | [Documentation](https://github.com/numbworks/NW.UnivariateForecasting/blob/master/docs/Documentation-NW.UnivariateForecastingClient.md)| MIT | ![codecoverage_client.svg](https://raw.githubusercontent.com/numbworks/NW.UnivariateForecasting/master/codecoverage_client.svg) | [4.0.0](https://github.com/numbworks/NW.UnivariateForecasting/releases/tag/v4.0.0) |
 | [NW.NGramTextClassificationClient](https://github.com/numbworks/NW.NGramTextClassification) | [Documentation](https://github.com/numbworks/NW.NGramTextClassification/blob/master/docs/Documentation-NW.NGramTextClassificationClient.md)| MIT | ![codecoverage_client.svg](https://raw.githubusercontent.com/numbworks/NW.NGramTextClassification/master/codecoverage_client.svg) | [4.0.0](https://github.com/numbworks/NW.NGramTextClassification/releases/tag/v4.0.0) |
 
+#### Shared Libraries (C#)
+
+Pieces of logic shared among my libraries:
+
+| Repository | Effort | Quick Links | License | Tests | NuGet | Last Update |
+|---|---|---|---|---|---|---|
+| [NW.Shared.Validation](https://github.com/numbworks/NW.Shared.Validation) | 3 h | <ul><li>[README](https://github.com/numbworks/NW.Shared.Validation/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/NW.Shared.Validation/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/NW.Shared.Validation/blob/master/docs/Documentation-NW.Shared.Validation.md)</li> <li>[Issues](https://github.com/numbworks/NW.Shared.Validation/issues)</li></ul> | MIT | ![codecoverage_library.svg](https://raw.githubusercontent.com/numbworks/NW.Shared.Validation/master/codecoverage_library.svg) | [1.0.0](https://www.nuget.org/packages/NW.Shared.Validation/1.0.0) | 2024-02-10 |
+
 #### Jupyter Notebooks (Python)
 
 Intended to showcase my approach to solve specific data analysis problems: 
