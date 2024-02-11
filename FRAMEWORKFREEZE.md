@@ -35,6 +35,7 @@ For additional information, please refer to [.NET Support Policy](https://dotnet
 |NW.NGramTextClassification|Yes|.NET 8.x|.NET 8.x|.NET 8.x|2024-02-06|
 |NW.UnivariateForecasting|Yes|.NET 8.x|.NET 8.x|.NET 8.x|2024-02-09|
 |NW.Shared.Validation|Yes|.NET 8.x|.NET 8.x|.NET 8.x|2024-02-10|
+|NW.Shared.Files|Yes|.NET 8.x|.NET 8.x|.NET 8.x|2024-02-11|
 
 ## Python Framework Freeze - Summary
 
