@@ -1,10 +1,14 @@
 ## About
 
-I'm a C# back-end developer with a burning interest for data analytics, data science, data visualizations, databases, SQL, Python, Pandas and Jupyter Notebooks. My interest is so strong that I do work with all this even in my free time.
+I'm a Technical Product Manager with strong software development roots (C# and Python) and a passionate love affair with data pipelines, which I do nurture every day.
 
-A software developer profile is defined by the software he develops and by the continuous learning activities he performs. This is my portfolio and you'll find information about both aspects of my professional journey. 
+In my daily job I do manage six teams, lead the product strategy of the company, enforce Agile and other best practices (_clean architecture, unit test coverage > 70%, updated documentation as part of the definition-of-done, code readibility as a priority,_ ...), ensure quarterly deliveries despite the limited development capacity. In addition, I do back-end development work when required. Few of the many technologies I do work with every week: _C#, Python, Jupyter Notebook, Pandas, PowerBi, ETL, databases, REST APIs, AWS_. 
 
-Contact: [Twitter](http://www.twitter.com/numbworks) | [Email](mailto:numbworks@gmail.com)
+In my off-work time I do actively develop and maintain some open-source software packages (C# and Python) under my "numbworks" brand. Last but not least, to improve my craft, I studied 260 technical books in the past nine years.
+
+A software developer profile is defined by the software he develops and by the continuous learning activities he performs. This is my portfolio and you'll find information about both aspects of my off-work journey as a back-end developer.
+
+Contact: [Email](mailto:numbworks@gmail.com) | [Twitter](http://www.twitter.com/numbworks)
 
 ## Development
 
