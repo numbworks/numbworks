@@ -54,7 +54,7 @@ public double MinimumAccuracySingleLabel { get; }
 public double MinimumAccuracyMultipleLabels { get; }
 public string FolderPath { get; }
 
-public TextClassifierSettings(
+public SettingBag(
             uint truncateTextInLogMessagesAfter,
             double minimumAccuracySingleLabel,
             double minimumAccuracyMultipleLabels,
@@ -85,7 +85,7 @@ At the very least, classes embedding logic (no DTOs) should have two constructor
 The use of a `default constructor` reduces to zero the amount of decisions and the number of "clicks" that a user or another developer should do to initialize your class, with a big positive impact on `software usability`.
 
 ```csharp
-public class TextClassifierSettings
+public class SettingBag
 {
 
     public static uint DefaultTruncateTextInLogMessagesAfter { get; } = 20;
@@ -98,8 +98,8 @@ public class TextClassifierSettings
     public double MinimumAccuracyMultipleLabels { get; }
     public string FolderPath { get; }
 
-    /// <summary>Initializes a <see cref="TextClassifierSettings"/> instance.</summary>
-    public TextClassifierSettings(
+    /// <summary>Initializes a <see cref="SettingBag"/> instance.</summary>
+    public SettingBag(
                 uint truncateTextInLogMessagesAfter,
                 double minimumAccuracySingleLabel,
                 double minimumAccuracyMultipleLabels,
@@ -115,8 +115,8 @@ public class TextClassifierSettings
 
     }
 
-    /// <summary>Initializes a <see cref="TextClassifierSettings"/> instance using default parameters.</summary>
-    public TextClassifierSettings()
+    /// <summary>Initializes a <see cref="SettingBag"/> instance using default parameters.</summary>
+    public SettingBag()
         : this(
                 truncateTextInLogMessagesAfter: DefaultTruncateTextInLogMessagesAfter,
                 minimumAccuracySingleLabel: DefaultMinimumAccuracySingleLabel,
@@ -142,8 +142,10 @@ The `entry point` class summarizes how the consumer is allowed to interact with 
 
 To simplify its initialization, the `entry point` class doesn't exist without two other classes:
 
-- a `settings` class, collecting all the settings that the library requires the user to provide in order to run
-- a `components` class, collecting all the dependencies that the library requires in order to run
+- a `SettingBag` class, collecting all the settings that the library requires the user to provide in order to run
+- a `ComponentBag` class, collecting all the dependencies that the library requires in order to run
+
+The concept behind these two classes can be defined as `The Bag Pattern`.
 
 The diagram below summarize the architecture (`composition`):
 
@@ -155,13 +157,13 @@ classDiagram
     }
     class TextClassifier{ 
     }
-    class TextClassifierComponents{ 
+    class ComponentBag{ 
     }
-    class TextClassifierSettings{ 
+    class SettingBag{ 
     }    
 
-    TextClassifier --* TextClassifierComponents
-    TextClassifier --* TextClassifierSettings
+    TextClassifier --* ComponentBag
+    TextClassifier --* SettingBag
     TextClassifier --|> ITextClassifier
 
 ```
@@ -173,27 +175,25 @@ Both classes are provided to the `entry point` class thru its constructor:
 /* ... */
 
 /// <summary>Initializes a <see cref="TextClassifier"/> instance.</summary>
-public TextClassifier(
-    TextClassifierComponents components, 
-    TextClassifierSettings settings)
+public TextClassifier(ComponentBag componentBag, SettingBag settingBag)
 {
 
-    Validator.ValidateObject(components, nameof(components));
-    Validator.ValidateObject(settings, nameof(settings));
+    Validator.ValidateObject(componentBag, nameof(componentBag));
+    Validator.ValidateObject(settingBag, nameof(settingBag));
 
-    _components = components;
-    _settings = settings;
+    _componentBag = componentBag;
+    _settingBag = settingBag;
 
     Version = Assembly.GetExecutingAssembly().GetName().Version.ToString();
-    AsciiBanner = _components.AsciiBannerManager.Create(Version);
+    AsciiBanner = _componentBag.AsciiBannerManager.Create(Version);
 
 }
 
 /// <summary>Initializes a <see cref="TextClassifier"/> instance using default parameters.</summary>
 public TextClassifier()
     : this(
-        DefaultTextClassifierComponents, 
-        DefaultTextClassifierSettings) { }
+        DefaultComponentBag, 
+        DefaultSettingBag) { }
 
 /* ... */
 ```
@@ -213,14 +213,14 @@ The `entry point` class is a good example of this, since most of the logic comes
 public class TextClassifier : ITextClassifier
 {
 
-    private TextClassifierComponents _components;
+    private ComponentBag _componentBag;
 
     /* ... */
 
     public void LogAsciiBanner()
-        => _components.LoggingActionAsciiBanner(AsciiBanner);
+        => _componentBag.LoggingActionAsciiBanner(AsciiBanner);
     public IFileInfoAdapter Convert(string filePath)
-        => _components.FileManager.Create(filePath);
+        => _componentBag.FileManager.Create(filePath);
 
     /* ... */
     
