@@ -50,6 +50,14 @@ Intended to showcase my approach to solve specific data analysis problems:
 | [nwreadinglist](https://github.com/numbworks/nwreadinglist) | 94 h | <ul><li>[README](https://github.com/numbworks/nwreadinglist/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwreadinglist/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwreadinglist/blob/master/docs/docs-nwreadinglist.md)</li> <li>[Issues](https://github.com/numbworks/nwreadinglist/issues)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwreadinglist/master/codecoverage.svg) | 3.2.0 | 2024-05-19 |
 | [nwtimetracking](https://github.com/numbworks/nwtimetracking) | 72 h | <ul><li>[README](https://github.com/numbworks/nwtimetracking/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwtimetracking/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwtimetracking/blob/master/docs/docs-nwtimetracking.md)</li> <li>[Issues](https://github.com/numbworks/nwtimetracking/issues)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwtimetracking/master/codecoverage.svg) | 3.2.0 | 2024-05-19 |
 
+#### Shared Packages (Python)
+
+Pieces of logic shared among my libraries. These might not be feature-rich enough to be useful for the general audience.
+
+| Repository | Effort | Quick Links | License | Tests | Version | Last Update |
+|---|---|---|---|---|---|---|
+| [nwshared](https://github.com/numbworks/nwshared) | 1 h | <ul><li>[README](https://github.com/numbworks/nwshared/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwshared/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwshared/blob/master/docs/docs-nwshared.md)</li> <li>[Issues](https://github.com/numbworks/nwshared/issues)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwshared/master/codecoverage.svg) | 1.1.0 | 2024-05-19 |
+
 #### Other Projects
 
 | Repository | Type | Quick Links | License | Last Update |
