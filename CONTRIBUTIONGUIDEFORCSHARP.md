@@ -17,6 +17,27 @@ I don't foresee to have external contribution to my codebases any time soon, but
 
 Contributions are welcome, but please have in mind that I do use [github.com/numbworks](https://github.com/numbworks) as my personal portfolio and  that I do have a quite precise roadmap in my mind for each of my products.
 
+## C# <=> Python Mapping
+
+The two programming languanges I mainly code with are `C#` and `Python`. 
+
+The first one is a very elegantly designed and structured language, while the second one is quite wild and unstructured. In order for me to make my applications look coherent despite of the programming language used and in order to make `Python` applications easier to scale and maintain, I created the following mapping between the two languages. 
+
+These small conventions don't overcome all the issues in `Python`'s design, but they definitely help.
+
+| Python | C# | Example | Notes |
+|---|---|---|---|
+| Package | Solution | A collection of libraries. | |
+| Module | Project | A library. | Every function should be part of a class. |
+
+`Namespaces` must include the company's name and be hierarchical:
+
+| Language | Examples |
+|---|---|
+| C# | NW.NGramTextClassification, NW.NGramTextClassification.Files, ... |
+| Python | nwtraderaanalytics, nwtraderaanalyticsapi, ... |
+
+
 ## C#: Principles and Best Practices
 
 Below a list of principles and best practice that are widely adopted in the codebase:

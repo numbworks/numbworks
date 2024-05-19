@@ -3,12 +3,13 @@
 |Date|Author|Description|
 |---|---|---|
 |2020-12-22|numbworks|Created.|
-|2024-02-26|numbworks|Last update.|
+|2024-05-19|numbworks|Last update.|
 
 ## Reading List Topic Trend
 
 | Topic                           | Books                          | Trend     |
 |:--------------------------------|:-------------------------------|:----------|
+| AI                              | [0, 0, 0, 0, 0, 0, 0, 0, 2]    | ▁▁▁▁▁▁▁▁▂ |
 | BI, Data Warehousing, PowerBI   | [0, 1, 9, 11, 0, 0, 0, 0, 0]   | ▁▁▃▄▁▁▁▁▁ |
 | C#                              | [10, 14, 4, 17, 8, 3, 0, 0, 0] | ▄▅▂▅▃▂▁▁▁ |
 | Cloud Vendors                   | [0, 0, 0, 0, 0, 2, 0, 1, 0]    | ▁▁▁▁▁▂▁▁▁ |

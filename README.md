@@ -47,7 +47,7 @@ Intended to showcase my approach to solve specific data analysis problems:
 
 | Repository | Effort | Quick Links | License | Tests | Version | Last Update |
 |---|---|---|---|---|---|---|
-| [nwreadinglistmanager](https://github.com/numbworks/nwreadinglistmanager) | 92 h | <ul><li>[README](https://github.com/numbworks/nwreadinglistmanager/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwreadinglistmanager/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwreadinglistmanager/blob/master/docs/docs-nwreadinglistmanager.md)</li> <li>[Issues](https://github.com/numbworks/nwreadinglistmanager/issues)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwreadinglistmanager/master/codecoverage.svg) | 3.1.0 | 2024-03-28 |
+| [nwreadinglist](https://github.com/numbworks/nwreadinglist) | 93 h | <ul><li>[README](https://github.com/numbworks/nwreadinglist/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwreadinglist/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwreadinglist/blob/master/docs/docs-nwreadinglist.md)</li> <li>[Issues](https://github.com/numbworks/nwreadinglist/issues)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwreadinglist/master/codecoverage.svg) | 3.2.0 | 2024-05-19 |
 | [nwtimetrackingmanager](https://github.com/numbworks/nwtimetrackingmanager) | 70 h | <ul><li>[README](https://github.com/numbworks/nwtimetrackingmanager/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwtimetrackingmanager/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwtimetrackingmanager/blob/master/docs/docs-nwtimetrackingmanager.md)</li> <li>[Issues](https://github.com/numbworks/nwtimetrackingmanager/issues)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwtimetrackingmanager/master/codecoverage.svg) | 3.0.0 | 2024-03-19 |
 
 #### Other Projects
@@ -67,7 +67,7 @@ The following table summarizes how many technical books I studied since I starte
 
 |   Years |   Books |   Pages | TotalSpend   | LastUpdate   |
 |--------:|--------:|--------:|:-------------|:-------------|
-|       9 |     274 |   73085 | $7611.63     | 2024-02-26   |
+|       9 |     276 |   73675 | $7661.61     | 2024-05-19   |
 
 #### Related Pages
 
@@ -82,11 +82,11 @@ The following table summarizes how many technical books I studied since I starte
 
 #### Areas of Expertise
 
-`Data`, `Databases`, `Development`, `Software Usability`, `Clean Software Architecture`, `Clean Code`, `Design Patterns`, `(Parametric) Unit Testing`, `OOP`, `Dependency Injection`, `Single Responsability Principle`, `Console Applications`, `Services`, `CLIs`,`CI/CD`, `(Web) Scraping`, `REST APIs`, `Business Analysis`, `ETL Process`, `Star Schema`, `Data Warehouses`.
+`Data`, `Databases`, `Development`, `Software Usability`, `Clean Software Architecture`, `Clean Code`, `Design Patterns`, `(Parametric) Unit Testing`, `OOP`, `Dependency Injection`, `Single Responsability Principle`, `Console Applications`, `Services`, `CLIs`,`CI/CD`, `(Web) Scraping`, `REST APIs`, `Business Analysis`, `ETL Process`, `Star Schema`, `Data Warehouses`, `Prompt Engineering`.
 
 #### Tech Stack
 
-`C#`, `NET Core`, `NET Standard`, `NUNit`,`SQL Server`, `PowerBi`, `TeamCity`, `Azure DevOps`, `Excel`, `VBA`, `Powershell`, `Ubuntu Server`, `Docker`, `MariaDB`, `NuGet Packages`, `SQLite`, `Proxmox VE`, `Jupyter Notebooks`, `Python 3.x`, `Pandas`.
+`C#`, `NET Core`, `NET Standard`, `NUNit`,`SQL Server`, `PowerBi`, `TeamCity`, `Azure DevOps`, `Excel`, `VBA`, `Powershell`, `Ubuntu Server`, `Docker`, `MariaDB`, `NuGet Packages`, `SQLite`, `Proxmox VE`, `Jupyter Notebooks`, `Python 3.x`, `Pandas`, `ollama`.
 
 #### Incoming
 

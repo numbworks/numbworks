@@ -3,7 +3,7 @@
 |Date|Author|Description|
 |---|---|---|
 |2020-12-22|numbworks|Created.|
-|2024-02-26|numbworks|Last update.|
+|2024-05-19|numbworks|Last update.|
 
 ## Reading List By Topic
 
@@ -18,10 +18,11 @@
 | Docker                          |      12 |    1724 |
 | SQL Server                      |       7 |    1955 |
 | Entrepreneurship, Learning      |       6 |    1079 |
-| Electronics, IoT                |       4 |     454 |
 | MariaDB                         |       4 |    1177 |
 | Powershell                      |       4 |    1683 |
+| Electronics, IoT                |       4 |     454 |
 | Cloud Vendors                   |       3 |     342 |
 | Javascript                      |       2 |     258 |
 | Regular Expressions             |       2 |     400 |
+| AI                              |       2 |     590 |
 | Linux                           |       1 |      80 |

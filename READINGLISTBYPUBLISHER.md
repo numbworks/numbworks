@@ -3,7 +3,7 @@
 |Date|Author|Description|
 |---|---|---|
 |2020-12-22|numbworks|Created.|
-|2024-02-26|numbworks|Last update.|
+|2024-05-19|numbworks|Last update.|
 
 ## Reading List By Publisher
 
@@ -11,7 +11,6 @@
 |:------------|--------:|------------:|:----------|
 | Syncfusion  |      38 |        2.55 | Yes       |
 | Manning     |      12 |        2.75 | Yes       |
-| Wiley       |       9 |        2.78 | Yes       |
 
 | Publisher                        |   Books |   AvgRating | IsWorth   |
 |:---------------------------------|--------:|------------:|:----------|
@@ -22,7 +21,7 @@
 | Apress                           |      26 |        2.19 | No        |
 | Addison-Wesley                   |      16 |        2.19 | No        |
 | Manning                          |      12 |        2.75 | Yes       |
-| Wiley                            |       9 |        2.78 | Yes       |
+| Wiley                            |      11 |        2.45 | No        |
 | Microsoft Press                  |       9 |        2.22 | No        |
 | Prentice Hall                    |       4 |        2.25 | No        |
 | Pearson Education                |       4 |        3    | No        |
