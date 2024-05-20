@@ -56,7 +56,7 @@ Pieces of logic shared among my libraries. These might not be feature-rich enoug
 
 | Repository | Effort | Quick Links | License | Tests | Version | Last Update |
 |---|---|---|---|---|---|---|
-| [nwshared](https://github.com/numbworks/nwshared) | 1 h | <ul><li>[README](https://github.com/numbworks/nwshared/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwshared/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwshared/blob/master/docs/docs-nwshared.md)</li> <li>[Issues](https://github.com/numbworks/nwshared/issues)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwshared/master/codecoverage.svg) | 1.1.0 | 2024-05-19 |
+| [nwshared](https://github.com/numbworks/nwshared) | 7 h | <ul><li>[README](https://github.com/numbworks/nwshared/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwshared/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwshared/blob/master/docs/docs-nwshared.md)</li> <li>[Issues](https://github.com/numbworks/nwshared/issues)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwshared/master/codecoverage.svg) | 1.1.0 | 2024-05-20 |
 
 #### Other Projects
 
