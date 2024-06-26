@@ -75,7 +75,7 @@ The following table summarizes how many technical books I studied since I starte
 
 |   Years |   Books |   Pages | TotalSpend   | LastUpdate   |
 |--------:|--------:|--------:|:-------------|:-------------|
-|       9 |     276 |   73675 | $7661.61     | 2024-05-19   |
+|       9 |     279 |   75882 | $7747.15     | 2024-06-25   |
 
 #### Related Pages
 

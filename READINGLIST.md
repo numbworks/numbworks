@@ -3,7 +3,7 @@
 |Date|Author|Description|
 |---|---|---|
 |2020-12-22|numbworks|Created.|
-|2024-05-19|numbworks|Last update.|
+|2024-06-26|numbworks|Last update.|
 
 ## Reading List
 
@@ -221,7 +221,7 @@
 |  210 | Data Driven                                                                                     |   2019 | EN         |     179 | 2020-10-28 | McGraw Hill                      | ★★☆☆☆    | Data Analysis, Data Science, ML |
 |  211 | Thinking in C#                                                                                  |   2003 | EN         |     799 | 2020-11-09 | Prentice Hall                    | ★★★☆☆    | C#                              |
 |  212 | The Dip                                                                                         |   2007 | EN         |      86 | 2020-11-10 | Penguin Books                    | ★★☆☆☆    | Entrepreneurship, Learning      |
-|  213 | Building Great Software Engineering Teams                                                       |   2015 | EN         |     154 | 2020-11-10 | Apress                           | ★★★☆☆    | Software Engineering            |
+|  213 | Building Great Software Engineering Teams                                                       |   2015 | EN         |     154 | 2020-11-10 | Apress                           | ★★★☆☆    | Product Management              |
 |  214 | Practical Enterprise Software Development Techniques                                            |   2015 | EN         |     223 | 2020-11-12 | Apress                           | ★★★☆☆    | Software Engineering            |
 |  215 | So Good They Can't Ignore You                                                                   |   2012 | EN         |     270 | 2020-11-15 | Hachette                         | ★★☆☆☆    | Entrepreneurship, Learning      |
 |  216 | Don't Make Me Think (Revisited)                                                                 |   2014 | EN         |     184 | 2020-11-26 | Pearson Education                | ★★★☆☆    | Entrepreneurship, Learning      |
@@ -285,3 +285,6 @@
 |  274 | Python Packages                                                                                 |   2022 | EN         |     243 | 2024-02-26 | CRC Press                        | ★★★★☆    | Python                          |
 |  275 | The Quick Guide to Prompt Engineering                                                           |   2024 | EN         |     337 | 2024-05-19 | Wiley                            | ★☆☆☆☆    | AI                              |
 |  276 | Writing AI Prompts For Dummies                                                                  |   2024 | EN         |     253 | 2024-05-19 | Wiley                            | ★☆☆☆☆    | AI                              |
+|  277 | Unlocking The Secrets of Prompt Engineering                                                     |   2024 | EN         |     316 | 2024-06-25 | Packt                            | ★★★☆☆    | AI                              |
+|  278 | API as a Product                                                                                |   2024 | EN         |     112 | 2024-06-25 | Self-Published                   | ★★★☆☆    | Product Management              |
+|  279 | Building an API Product                                                                         |   2024 | EN         |    1779 | 2024-06-25 | Packt                            | ★★★☆☆    | Product Management              |

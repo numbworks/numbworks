@@ -3,7 +3,7 @@
 |Date|Author|Description|
 |---|---|---|
 |2020-12-22|numbworks|Created.|
-|2024-05-19|numbworks|Last update.|
+|2024-06-26|numbworks|Last update.|
 
 ## Reading List By Publisher
 
@@ -15,9 +15,9 @@
 | Publisher                        |   Books |   AvgRating | IsWorth   |
 |:---------------------------------|--------:|------------:|:----------|
 | Syncfusion                       |      38 |        2.55 | Yes       |
+| Packt                            |      38 |        2.13 | No        |
 | O'Reilly                         |      38 |        2.18 | No        |
-| Packt                            |      36 |        2.08 | No        |
-| Self-Published                   |      29 |        2.21 | No        |
+| Self-Published                   |      30 |        2.23 | No        |
 | Apress                           |      26 |        2.19 | No        |
 | Addison-Wesley                   |      16 |        2.19 | No        |
 | Manning                          |      12 |        2.75 | Yes       |
