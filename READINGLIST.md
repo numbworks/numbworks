@@ -3,7 +3,7 @@
 |Date|Author|Description|
 |---|---|---|
 |2020-12-22|numbworks|Created.|
-|2024-06-26|numbworks|Last update.|
+|2024-07-09|numbworks|Last update.|
 
 ## Reading List
 
@@ -288,3 +288,9 @@
 |  277 | Unlocking The Secrets of Prompt Engineering                                                     |   2024 | EN         |     316 | 2024-06-25 | Packt                            | ★★★☆☆    | AI                              |
 |  278 | API as a Product                                                                                |   2024 | EN         |     112 | 2024-06-25 | Self-Published                   | ★★★☆☆    | Product Management              |
 |  279 | Building an API Product                                                                         |   2024 | EN         |    1779 | 2024-06-25 | Packt                            | ★★★☆☆    | Product Management              |
+|  280 | The Kaggle Book                                                                                 |   2022 | EN         |     365 | 2024-06-27 | Packt                            | ★☆☆☆☆    | Data Analysis, Data Science, ML |
+|  281 | Microservice API                                                                                |   2023 | EN         |     340 | 2024-07-04 | Manning                          | ★★☆☆☆    | Software Engineering            |
+|  282 | Building and Delivering Microservices on AWS                                                    |   2023 | EN         |     600 | 2024-07-09 | Packt                            | ★★☆☆☆    | Software Engineering            |
+|  283 | Better Python Code                                                                              |   2024 | EN         |     289 | 2024-07-09 | Addison-Wesley                   | ★☆☆☆☆    | Python                          |
+|  284 | The Art of Leadership: Small Things, Done Well                                                  |   2024 | EN         |     198 | 2024-07-09 | O'Reilly                         | ★★☆☆☆    | Product Management              |
+|  285 | Think One Team                                                                                  |   2024 | EN         |     224 | 2024-07-09 | Wiley                            | ★☆☆☆☆    | Product Management              |
