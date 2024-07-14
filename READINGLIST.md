@@ -3,7 +3,7 @@
 |Date|Author|Description|
 |---|---|---|
 |2020-12-22|numbworks|Created.|
-|2024-07-09|numbworks|Last update.|
+|2024-07-14|numbworks|Last update.|
 
 ## Reading List
 
@@ -286,7 +286,7 @@
 |  275 | The Quick Guide to Prompt Engineering                                                           |   2024 | EN         |     337 | 2024-05-19 | Wiley                            | ★☆☆☆☆    | AI                              |
 |  276 | Writing AI Prompts For Dummies                                                                  |   2024 | EN         |     253 | 2024-05-19 | Wiley                            | ★☆☆☆☆    | AI                              |
 |  277 | Unlocking The Secrets of Prompt Engineering                                                     |   2024 | EN         |     316 | 2024-06-25 | Packt                            | ★★★☆☆    | AI                              |
-|  278 | API as a Product                                                                                |   2024 | EN         |     112 | 2024-06-25 | Self-Published                   | ★★★☆☆    | Product Management              |
+|  278 | API as a Product                                                                                |   2024 | EN         |     112 | 2024-06-25 | Nordic APIs                      | ★★★☆☆    | Product Management              |
 |  279 | Building an API Product                                                                         |   2024 | EN         |    1779 | 2024-06-25 | Packt                            | ★★★☆☆    | Product Management              |
 |  280 | The Kaggle Book                                                                                 |   2022 | EN         |     365 | 2024-06-27 | Packt                            | ★☆☆☆☆    | Data Analysis, Data Science, ML |
 |  281 | Microservice API                                                                                |   2023 | EN         |     340 | 2024-07-04 | Manning                          | ★★☆☆☆    | Software Engineering            |
@@ -294,3 +294,8 @@
 |  283 | Better Python Code                                                                              |   2024 | EN         |     289 | 2024-07-09 | Addison-Wesley                   | ★☆☆☆☆    | Python                          |
 |  284 | The Art of Leadership: Small Things, Done Well                                                  |   2024 | EN         |     198 | 2024-07-09 | O'Reilly                         | ★★☆☆☆    | Product Management              |
 |  285 | Think One Team                                                                                  |   2024 | EN         |     224 | 2024-07-09 | Wiley                            | ★☆☆☆☆    | Product Management              |
+|  286 | Product Management In Practice (2nd Edition)                                                    |   2022 | EN         |     296 | 2024-07-11 | O'Reilly                         | ★★★☆☆    | Product Management              |
+|  287 | Software Requirements Essentials                                                                |   2023 | EN         |     200 | 2024-07-13 | Addison-Wesley                   | ★★★☆☆    | Product Management              |
+|  288 | Senior Engineer Mindset                                                                         |   2023 | EN         |     255 | 2024-07-13 | Self-Published                   | ★★★☆☆    | Software Engineering            |
+|  289 | The Art of Crafting User Stories                                                                |   2023 | EN         |     192 | 2024-07-13 | Packt                            | ★★☆☆☆    | Product Management              |
+|  290 | Developing the API Mindset                                                                      |   2015 | EN         |      96 | 2024-07-13 | Nordic APIs                      | ★★★☆☆    | Product Management              |
