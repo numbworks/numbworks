@@ -3,20 +3,20 @@
 |Date|Author|Description|
 |---|---|---|
 |2020-12-22|numbworks|Created.|
-|2024-07-14|numbworks|Last update.|
+|2024-07-20|numbworks|Last update.|
 
 ## Reading List By Topic
 
 | Topic                           |   Books |   Pages |
 |:--------------------------------|--------:|--------:|
-| Software Engineering            |      77 |   21760 |
+| Software Engineering            |      78 |   21948 |
 | C#                              |      56 |   16449 |
 | Data Analysis, Data Science, ML |      33 |    8470 |
-| Python                          |      32 |    9283 |
-| BI, Data Warehousing, PowerBI   |      21 |    6189 |
+| Python                          |      33 |    9914 |
+| BI, Data Warehousing, PowerBI   |      23 |    6805 |
 | Development Tools               |      14 |    3477 |
 | Docker                          |      12 |    1724 |
-| Product Management              |       9 |    3251 |
+| Product Management              |      10 |    3445 |
 | SQL Server                      |       7 |    1955 |
 | Entrepreneurship, Learning      |       6 |    1079 |
 | Electronics, IoT                |       4 |     454 |

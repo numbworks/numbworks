@@ -3,7 +3,7 @@
 |Date|Author|Description|
 |---|---|---|
 |2020-12-22|numbworks|Created.|
-|2024-07-14|numbworks|Last update.|
+|2024-07-20|numbworks|Last update.|
 
 ## Reading List
 
@@ -299,3 +299,8 @@
 |  288 | Senior Engineer Mindset                                                                         |   2023 | EN         |     255 | 2024-07-13 | Self-Published                   | ★★★☆☆    | Software Engineering            |
 |  289 | The Art of Crafting User Stories                                                                |   2023 | EN         |     192 | 2024-07-13 | Packt                            | ★★☆☆☆    | Product Management              |
 |  290 | Developing the API Mindset                                                                      |   2015 | EN         |      96 | 2024-07-13 | Nordic APIs                      | ★★★☆☆    | Product Management              |
+|  291 | How To Successfully Market an API                                                               |   2022 | EN         |     194 | 2024-07-14 | Nordic APIs                      | ★★★☆☆    | Product Management              |
+|  292 | A Philosophy of Software Design                                                                 |   2018 | EN         |     188 | 2024-07-16 | Yaknyam Press                    | ★★★★☆    | Software Engineering            |
+|  293 | Expert Python Programming (4th Edition)                                                         |   2021 | EN         |     631 | 2024-07-17 | Packt                            | ★★★☆☆    | Python                          |
+|  294 | Modern Data Architectures with Python                                                           |   2023 | EN         |     318 | 2024-07-18 | Packt                            | ★☆☆☆☆    | BI, Data Warehousing, PowerBI   |
+|  295 | Cost-Effective Data Pipelines                                                                   |   2023 | EN         |     298 | 2024-07-19 | O'Reilly                         | ★☆☆☆☆    | BI, Data Warehousing, PowerBI   |
