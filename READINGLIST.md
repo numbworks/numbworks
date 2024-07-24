@@ -3,7 +3,7 @@
 |Date|Author|Description|
 |---|---|---|
 |2020-12-22|numbworks|Created.|
-|2024-07-20|numbworks|Last update.|
+|2024-07-24|numbworks|Last update.|
 
 ## Reading List
 
@@ -304,3 +304,9 @@
 |  293 | Expert Python Programming (4th Edition)                                                         |   2021 | EN         |     631 | 2024-07-17 | Packt                            | ★★★☆☆    | Python                          |
 |  294 | Modern Data Architectures with Python                                                           |   2023 | EN         |     318 | 2024-07-18 | Packt                            | ★☆☆☆☆    | BI, Data Warehousing, PowerBI   |
 |  295 | Cost-Effective Data Pipelines                                                                   |   2023 | EN         |     298 | 2024-07-19 | O'Reilly                         | ★☆☆☆☆    | BI, Data Warehousing, PowerBI   |
+|  296 | Learn Enough Python To Be Dangerous                                                             |   2023 | EN         |     636 | 2024-07-22 | Addison-Wesley                   | ★☆☆☆☆    | Python                          |
+|  297 | Professional Python: Object-Oriented Approaches To Efficient Software Development               |   2023 | EN         |     218 | 2024-07-22 | Self-Published                   | ★☆☆☆☆    | Python                          |
+|  298 | The Pythonic Way                                                                                |   2022 | EN         |     464 | 2024-07-23 | BPB Publications                 | ★★★☆☆    | Python                          |
+|  299 | LangChain: A Hands-On Guide To Modern AI Applications                                           |   2023 | EN         |      58 | 2024-07-23 | Self-Published                   | ★★☆☆☆    | AI                              |
+|  300 | Data Analysis: A Gentle Introduction For Future Data Scientists                                 |   2023 | EN         |     161 | 2024-07-23 | Oxford University Press          | ★★☆☆☆    | Data Analysis, Data Science, ML |
+|  301 | The Creative Programmer                                                                         |   2023 | EN         |     331 | 2024-07-23 | Manning                          | ★★☆☆☆    | Software Engineering            |
