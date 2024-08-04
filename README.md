@@ -4,7 +4,7 @@ I'm a Technical Product Manager with strong software development roots (C# and P
 
 In my daily job I do manage five teams, lead the product strategy of the company, enforce Agile and other best practices (_clean architecture, unit test coverage > 70%, updated documentation as part of the definition-of-done, code readibility as a priority,_ ...), ensure quarterly deliveries despite the limited development capacity. In addition, I do back-end development work when required. Few of the many technologies I do work with every week: _C#, Python, Jupyter Notebook, Pandas, PowerBi, ETL, databases, REST APIs, AWS_. 
 
-In my off-work time I do actively develop and maintain some open-source software packages (C# and Python) under my _numbworks_ brand. Last but not least, to improve my craft, I studied 276 technical books in the past nine years.
+In my off-work time I do actively develop and maintain some open-source software packages (C# and Python) under my _numbworks_ brand. Last but not least, to improve my craft, I studied 303 technical books in the past nine years.
 
 A software developer profile is defined by the software he develops and by the continuous learning activities he performs. This is my portfolio and you'll find information about both aspects of my off-work journey as a back-end developer.
 
