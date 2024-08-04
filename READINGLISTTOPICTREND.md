@@ -3,7 +3,7 @@
 |Date|Author|Description|
 |---|---|---|
 |2020-12-22|numbworks|Created.|
-|2024-07-24|numbworks|Last update.|
+|2024-08-04|numbworks|Last update.|
 
 ## Reading List Topic Trend
 
@@ -19,7 +19,7 @@
 | Electronics, IoT                | [0, 4, 0, 0, 0, 0, 0, 0, 0]    | ▁▂▁▁▁▁▁▁▁ |
 | Entrepreneurship, Learning      | [0, 1, 0, 0, 4, 0, 0, 1, 0]    | ▁▁▁▁▂▁▁▁▁ |
 | Javascript                      | [0, 2, 0, 0, 0, 0, 0, 0, 0]    | ▁▂▁▁▁▁▁▁▁ |
-| Linux                           | [0, 0, 0, 1, 0, 0, 0, 0, 0]    | ▁▁▁▁▁▁▁▁▁ |
+| Linux                           | [0, 0, 0, 1, 0, 0, 0, 0, 2]    | ▁▁▁▁▁▁▁▁▂ |
 | MariaDB                         | [0, 0, 4, 0, 0, 0, 0, 0, 0]    | ▁▁▂▁▁▁▁▁▁ |
 | Powershell                      | [0, 1, 0, 0, 3, 0, 0, 0, 0]    | ▁▁▁▁▂▁▁▁▁ |
 | Product Management              | [0, 0, 0, 0, 1, 0, 0, 0, 9]    | ▁▁▁▁▁▁▁▁▃ |

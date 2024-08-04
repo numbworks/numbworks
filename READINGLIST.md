@@ -3,7 +3,7 @@
 |Date|Author|Description|
 |---|---|---|
 |2020-12-22|numbworks|Created.|
-|2024-07-24|numbworks|Last update.|
+|2024-08-04|numbworks|Last update.|
 
 ## Reading List
 
@@ -310,3 +310,5 @@
 |  299 | LangChain: A Hands-On Guide To Modern AI Applications                                           |   2023 | EN         |      58 | 2024-07-23 | Self-Published                   | ★★☆☆☆    | AI                              |
 |  300 | Data Analysis: A Gentle Introduction For Future Data Scientists                                 |   2023 | EN         |     161 | 2024-07-23 | Oxford University Press          | ★★☆☆☆    | Data Analysis, Data Science, ML |
 |  301 | The Creative Programmer                                                                         |   2023 | EN         |     331 | 2024-07-23 | Manning                          | ★★☆☆☆    | Software Engineering            |
+|  302 | NixOS & Flakes Book v0.4.3                                                                      |   2024 | EN         |     179 | 2024-07-26 | Self-Published                   | ★★★☆☆    | Linux                           |
+|  303 | NixOS in Production                                                                             |   2024 | EN         |     123 | 2024-08-01 | Self-Published                   | ★☆☆☆☆    | Linux                           |

@@ -3,7 +3,7 @@
 |Date|Author|Description|
 |---|---|---|
 |2020-12-22|numbworks|Created.|
-|2024-07-24|numbworks|Last update.|
+|2024-08-04|numbworks|Last update.|
 
 ## Reading List By Topic
 
@@ -23,7 +23,7 @@
 | AI                              |       4 |     964 |
 | MariaDB                         |       4 |    1177 |
 | Electronics, IoT                |       4 |     454 |
+| Linux                           |       3 |     382 |
 | Cloud Vendors                   |       3 |     342 |
 | Regular Expressions             |       2 |     400 |
 | Javascript                      |       2 |     258 |
-| Linux                           |       1 |      80 |
