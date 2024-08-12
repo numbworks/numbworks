@@ -30,7 +30,7 @@ Regarding frameworks and when possible, only LTS (Long Term Support) versions mu
 
 |Language|Version|Notes |
 |---|---|---|
-|Python|3.12.1|[Python Release Cycle](https://devguide.python.org/versions/)|
+|Python|3.12.5|[Python Release Cycle](https://devguide.python.org/versions/)|
 
 
 |Package/Version|
