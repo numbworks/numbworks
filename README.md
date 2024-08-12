@@ -68,6 +68,7 @@ Pieces of logic shared among my libraries. These might not be feature-rich enoug
 
 - [CONTRIBUTIONGUIDEFORCSHARP.md](CONTRIBUTIONGUIDEFORCSHARP.md)
 - [FRAMEWORKFREEZE.md](FRAMEWORKFREEZE.md)
+- [USEFULCOMMANDS.md](USEFULCOMMANDS.md)
 
 ## Continuous Learning
 
