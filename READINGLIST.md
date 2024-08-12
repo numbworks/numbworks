@@ -3,7 +3,7 @@
 |Date|Author|Description|
 |---|---|---|
 |2020-12-22|numbworks|Created.|
-|2024-08-04|numbworks|Last update.|
+|2024-08-12|numbworks|Last update.|
 
 ## Reading List
 
@@ -312,3 +312,4 @@
 |  301 | The Creative Programmer                                                                         |   2023 | EN         |     331 | 2024-07-23 | Manning                          | ★★☆☆☆    | Software Engineering            |
 |  302 | NixOS & Flakes Book v0.4.3                                                                      |   2024 | EN         |     179 | 2024-07-26 | Self-Published                   | ★★★☆☆    | Linux                           |
 |  303 | NixOS in Production                                                                             |   2024 | EN         |     123 | 2024-08-01 | Self-Published                   | ★☆☆☆☆    | Linux                           |
+|  304 | Building Data-Driven Applications with LLamaIndex                                               |   2024 | EN         |     368 | 2024-08-11 | Packt                            | ★★★★☆    | AI                              |

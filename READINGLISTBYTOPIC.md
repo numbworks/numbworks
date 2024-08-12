@@ -3,7 +3,7 @@
 |Date|Author|Description|
 |---|---|---|
 |2020-12-22|numbworks|Created.|
-|2024-08-04|numbworks|Last update.|
+|2024-08-12|numbworks|Last update.|
 
 ## Reading List By Topic
 
@@ -19,9 +19,9 @@
 | Product Management              |      10 |    3445 |
 | SQL Server                      |       7 |    1955 |
 | Entrepreneurship, Learning      |       6 |    1079 |
-| Powershell                      |       4 |    1683 |
-| AI                              |       4 |     964 |
+| AI                              |       5 |    1332 |
 | MariaDB                         |       4 |    1177 |
+| Powershell                      |       4 |    1683 |
 | Electronics, IoT                |       4 |     454 |
 | Linux                           |       3 |     382 |
 | Cloud Vendors                   |       3 |     342 |
