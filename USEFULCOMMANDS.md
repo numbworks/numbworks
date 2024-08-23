@@ -15,3 +15,10 @@ if (-not (Test-Path $PROFILE)) { $null = New-Item -Force $PROFILE }
 Invoke-Item $PROFILE
 Set-PSReadLineOption -PredictionSource None
 ```
+
+#### Add username and email to Git configs
+
+```sh
+git config --global user.name "numbworks"
+git config --global user.email "numbworks@gmail.com"
+```
