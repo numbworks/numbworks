@@ -31,3 +31,11 @@ sudo dpkg -i rustdesk-*.deb
 sudo apt install -f
 rustdesk
 ```
+
+#### Install Dropbox on Debian
+
+```sh
+# Download the .deb from https://linux.dropboxstatic.com/packages/debian/
+sudo dpkg -i dropbox-*.deb
+sudo apt install -f
+```
