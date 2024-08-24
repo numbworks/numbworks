@@ -22,3 +22,12 @@ Set-PSReadLineOption -PredictionSource None
 git config --global user.name "numbworks"
 git config --global user.email "numbworks@gmail.com"
 ```
+
+#### Install RustDesk on Debian
+
+```sh
+# Download the .deb from https://rustdesk.com/download
+sudo dpkg -i rustdesk-*.deb
+sudo apt install -f
+rustdesk
+```
