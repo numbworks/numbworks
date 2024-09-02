@@ -62,3 +62,9 @@ sudo apt install openrct2
 openrct2 set-rct2 /home/ruben/Documents/RCT/
 openrct2
 ```
+
+#### Reduce the size of Docker's VHDX file(s) on Windows 10
+
+```powershell
+Optimize-VHD -Path "C:\Users\Rubèn\AppData\Local\Docker\wsl\disk\docker_data.vhdx" -Mode Full
+```
