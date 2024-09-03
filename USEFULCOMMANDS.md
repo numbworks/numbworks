@@ -68,3 +68,20 @@ openrct2
 ```powershell
 Optimize-VHD -Path "C:\Users\Rubèn\AppData\Local\Docker\wsl\disk\docker_data.vhdx" -Mode Full
 ```
+
+#### Solve the "Failed to Attach Disk ext4.vhdx to WSL2" issue on Windows 10
+
+```powershell
+# Open Windows Terminal as Administrator
+wsl -l -v
+wsl --unregister Ubuntu-24.04
+# Click on Start > Ubuntu 24.04 LTS
+# Enter new UNIX username ...
+# New password ...
+```
+
+#### Search for specific commands inside Dockerfiles on Github
+
+```
+ollama serve path:**/Dockerfile
+```
