@@ -41,6 +41,14 @@ Pieces of logic shared among my libraries. These might not be feature-rich enoug
 | [NW.Shared.Serialization](https://github.com/numbworks/NW.Shared.Serialization) | 4 h | <ul><li>[README](https://github.com/numbworks/NW.Shared.Serialization/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/NW.Shared.Serialization/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/NW.Shared.Serialization/blob/master/docs/Documentation-NW.Shared.Serialization.md)</li> <li>[Issues](https://github.com/numbworks/NW.Shared.Serialization/issues)</li></ul> | MIT | ![codecoverage_library.svg](https://raw.githubusercontent.com/numbworks/NW.Shared.Serialization/master/codecoverage_library.svg) | [1.0.0](https://www.nuget.org/packages/NW.Shared.Serialization/1.0.0) | 2024-02-13 |
 | [NW.Shared.Validation](https://github.com/numbworks/NW.Shared.Validation) | 3 h | <ul><li>[README](https://github.com/numbworks/NW.Shared.Validation/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/NW.Shared.Validation/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/NW.Shared.Validation/blob/master/docs/Documentation-NW.Shared.Validation.md)</li> <li>[Issues](https://github.com/numbworks/NW.Shared.Validation/issues)</li></ul> | MIT | ![codecoverage_library.svg](https://raw.githubusercontent.com/numbworks/NW.Shared.Validation/master/codecoverage_library.svg) | [1.0.0](https://www.nuget.org/packages/NW.Shared.Validation/1.0.0) | 2024-02-10 |
 
+#### Libraries (Python)
+
+Intended for other developers who want to integrate my software in their own software.
+
+| Repository | Effort | Quick Links | License | Tests | PyPi | Last Update |
+|---|---|---|---|---|---|---|
+| [nwpackageversions](https://github.com/numbworks/nwpackageversions) | 34 h | <ul><li>[README](https://github.com/numbworks/nwpackageversions/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwpackageversions/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwpackageversions/blob/main/docs/Documentation-nwpackageversions.md)</li> <li>[Issues](https://github.com/numbworks/nwpackageversions/issues)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwpackageversions/master/codecoverage.svg) | [1.0.0](https://pypi.org/project/nwpackageversions/1.0.0/) | 2024-10-15 |
+
 #### Jupyter Notebooks (Python)
 
 Intended to showcase my approach to solve specific data analysis problems: 
