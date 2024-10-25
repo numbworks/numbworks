@@ -45,7 +45,7 @@ Intended for other developers who want to integrate my software in their own sof
 
 | Repository | Effort | Quick Links | License | Tests | PyPi | Last Update |
 |---|---|---|---|---|---|---|
-| [nwpackageversions](https://github.com/numbworks/nwpackageversions) | 36 h | <ul><li>[README](https://github.com/numbworks/nwpackageversions/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwpackageversions/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwpackageversions/blob/main/docs/Documentation-nwpackageversions.md)</li> <li>[Issues](https://github.com/numbworks/nwpackageversions/issues)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwpackageversions/master/codecoverage.svg) | [1.1.0](https://pypi.org/project/nwpackageversions/1.1.0/) | 2024-10-22 |
+| [nwpackageversions](https://github.com/numbworks/nwpackageversions) | 39 h | <ul><li>[README](https://github.com/numbworks/nwpackageversions/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwpackageversions/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwpackageversions/blob/main/docs/Documentation-nwpackageversions.md)</li> <li>[Issues](https://github.com/numbworks/nwpackageversions/issues)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwpackageversions/master/codecoverage.svg) | [1.2.0](https://pypi.org/project/nwpackageversions/1.2.0/) | 2024-10-25 |
 
 #### Jupyter Notebooks (Python)
 
