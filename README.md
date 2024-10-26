@@ -6,7 +6,7 @@ Additionally, I actively develop and maintain open-source software packages (C# 
 
 Detailed information about my tech stack and my continuous learning activity is meticulously kept up to date on my GitHub account, alongside my open-source software releases.
 
-Contact: [Email](mailto:numbworks@gmail.com) | [Twitter / X](http://www.x.com/numbworks) | [Github Threads](https://github.com/search?q=is%3Aissue%20commenter%3Anumbworks&type=issues)
+Contact: [Email](mailto:numbworks@gmail.com) | [Twitter / X](http://www.x.com/numbworks) | [Github Threads](https://github.com/search?q=is%3Aissue+commenter%3Anumbworks&type=issues&s=created&o=desc)
 
 ## Development
 
