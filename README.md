@@ -45,7 +45,7 @@ Intended for other developers who want to integrate my software in their own sof
 
 | Repository | Effort | Quick Links | License | Tests | PyPi | Last Update |
 |---|---|---|---|---|---|---|
-| [nwpackageversions](https://github.com/numbworks/nwpackageversions) | 39 h | <ul><li>[README](https://github.com/numbworks/nwpackageversions/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwpackageversions/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwpackageversions/blob/main/docs/Documentation-nwpackageversions.md)</li> <li>[Issues](https://github.com/numbworks/nwpackageversions/issues)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwpackageversions/master/codecoverage.svg) | [1.2.0](https://pypi.org/project/nwpackageversions/1.2.0/) | 2024-10-25 |
+| [nwpackageversions](https://github.com/numbworks/nwpackageversions) | 39 h | <ul><li>[README](https://github.com/numbworks/nwpackageversions/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwpackageversions/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwpackageversions/blob/master/docs/docs-nwpackageversions.md)</li> <li>[Issues](https://github.com/numbworks/nwpackageversions/issues)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwpackageversions/master/codecoverage.svg) | [1.2.0](https://pypi.org/project/nwpackageversions/1.2.0/) | 2024-10-25 |
 
 #### Jupyter Notebooks (Python)
 
@@ -62,7 +62,7 @@ Pieces of logic shared among my libraries. These might not be feature-rich enoug
 
 | Repository | Effort | Quick Links | License | Tests | Version | Last Update |
 |---|---|---|---|---|---|---|
-| [nwshared](https://github.com/numbworks/nwshared) | 23 h | <ul><li>[README](https://github.com/numbworks/nwshared/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwshared/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwshared/blob/master/docs/docs-nwshared.md)</li> <li>[Issues](https://github.com/numbworks/nwshared/issues)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwshared/master/codecoverage.svg) | 1.5.0 | 2024-10-22 |
+| [nwshared](https://github.com/numbworks/nwshared) | 24 h | <ul><li>[README](https://github.com/numbworks/nwshared/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwshared/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwshared/blob/master/docs/docs-nwshared.md)</li> <li>[Issues](https://github.com/numbworks/nwshared/issues)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwshared/master/codecoverage.svg) | 1.6.0 | 2024-10-28 |
 
 #### Other Projects
 
