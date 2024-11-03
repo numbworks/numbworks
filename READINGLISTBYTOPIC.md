@@ -3,7 +3,7 @@
 |Date|Author|Description|
 |---|---|---|
 |2020-12-22|numbworks|Created.|
-|2024-08-12|numbworks|Last update.|
+|2024-11-03|numbworks|Last update.|
 
 ## Reading List By Topic
 
@@ -11,7 +11,7 @@
 |:--------------------------------|--------:|--------:|
 | Software Engineering            |      79 |   22279 |
 | C#                              |      56 |   16449 |
-| Python                          |      36 |   11232 |
+| Python                          |      37 |   11500 |
 | Data Analysis, Data Science, ML |      34 |    8631 |
 | BI, Data Warehousing, PowerBI   |      23 |    6805 |
 | Development Tools               |      14 |    3477 |
@@ -21,9 +21,9 @@
 | Entrepreneurship, Learning      |       6 |    1079 |
 | AI                              |       5 |    1332 |
 | MariaDB                         |       4 |    1177 |
-| Powershell                      |       4 |    1683 |
 | Electronics, IoT                |       4 |     454 |
+| Powershell                      |       4 |    1683 |
 | Linux                           |       3 |     382 |
 | Cloud Vendors                   |       3 |     342 |
-| Regular Expressions             |       2 |     400 |
 | Javascript                      |       2 |     258 |
+| Regular Expressions             |       2 |     400 |

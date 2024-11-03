@@ -3,7 +3,7 @@
 |Date|Author|Description|
 |---|---|---|
 |2020-12-22|numbworks|Created.|
-|2024-08-12|numbworks|Last update.|
+|2024-11-03|numbworks|Last update.|
 
 ## Reading List Topic Trend
 
@@ -23,7 +23,7 @@
 | MariaDB                         | [0, 0, 4, 0, 0, 0, 0, 0, 0]    | ▁▁▂▁▁▁▁▁▁ |
 | Powershell                      | [0, 1, 0, 0, 3, 0, 0, 0, 0]    | ▁▁▁▁▂▁▁▁▁ |
 | Product Management              | [0, 0, 0, 0, 1, 0, 0, 0, 9]    | ▁▁▁▁▁▁▁▁▃ |
-| Python                          | [1, 1, 0, 0, 1, 2, 0, 13, 18]  | ▁▁▁▁▁▂▁▄▆ |
+| Python                          | [1, 1, 0, 0, 1, 2, 0, 13, 19]  | ▁▁▁▁▁▂▁▄▆ |
 | Regular Expressions             | [0, 2, 0, 0, 0, 0, 0, 0, 0]    | ▁▂▁▁▁▁▁▁▁ |
 | SQL Server                      | [0, 2, 2, 2, 0, 1, 0, 0, 0]    | ▁▂▂▂▁▁▁▁▁ |
 | Software Engineering            | [21, 27, 12, 5, 2, 0, 0, 4, 8] | ▆█▄▂▂▁▁▂▃ |

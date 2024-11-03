@@ -82,17 +82,17 @@ The following table summarizes how many technical books I studied since I starte
 
 |   Years |   Books |   Pages | TotalSpend   | LastUpdate   |
 |--------:|--------:|--------:|:-------------|:-------------|
-|       9 |     304 |   83104 | $8581.65     | 2024-08-12   |
+|       9 |     305 |   83372 | $8641.64     | 2024-11-03   |
 
 #### Related Pages
 
-- [READINGLISTBYMONTH.md](READINGLISTBYMONTH.md) <small>(2024-08-12)</small>
-- [READINGLISTBYPUBLISHER.md](READINGLISTBYPUBLISHER.md) <small>(2024-08-12)</small>
-- [READINGLISTBYRATING.md](READINGLISTBYRATING.md) <small>(2024-08-12)</small>
-- [READINGLISTBYTOPIC.md](READINGLISTBYTOPIC.md) <small>(2024-08-12)</small>
-- [READINGLISTTOPICTREND.md](READINGLISTTOPICTREND.md) <small>(2024-08-12)</small>
-- [READINGLIST.md](READINGLIST.md) <small>(2024-08-12)</small>
-- [TIMETRACKINGBYMONTH.md](TIMETRACKINGBYMONTH.md) <small>(2024-10-18)</small>
+- [READINGLISTBYMONTH.md](READINGLISTBYMONTH.md) <small>(2024-11-03)</small>
+- [READINGLISTBYPUBLISHER.md](READINGLISTBYPUBLISHER.md) <small>(2024-11-03)</small>
+- [READINGLISTBYRATING.md](READINGLISTBYRATING.md) <small>(2024-11-03)</small>
+- [READINGLISTBYTOPIC.md](READINGLISTBYTOPIC.md) <small>(2024-11-03)</small>
+- [READINGLISTTOPICTREND.md](READINGLISTTOPICTREND.md) <small>(2024-11-03)</small>
+- [READINGLIST.md](READINGLIST.md) <small>(2024-11-03)</small>
+- [TIMETRACKINGBYMONTH.md](TIMETRACKINGBYMONTH.md) <small>(2024-11-03)</small>
 
 ## Self-Improvement Status
 

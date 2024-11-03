@@ -3,7 +3,7 @@
 |Date|Author|Description|
 |---|---|---|
 |2020-12-22|numbworks|Created.|
-|2024-08-12|numbworks|Last update.|
+|2024-11-03|numbworks|Last update.|
 
 ## Reading List By Rating
 
@@ -13,4 +13,4 @@
 | ★★★★☆    |      22 |
 | ★★★☆☆    |      87 |
 | ★★☆☆☆    |     102 |
-| ★☆☆☆☆    |      84 |
+| ★☆☆☆☆    |      85 |
