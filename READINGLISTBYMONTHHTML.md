@@ -7,7 +7,7 @@
 
 ## Reading List By Month
 
-<table border="0" class="dataframe">
+<table border="0" class="dataframe" style="width:100%">
   <thead>
     <tr style="text-align: left; font-size: 9px">
       <th>Month</th>
