@@ -9,7 +9,7 @@
 
 <table border="0" class="dataframe">
   <thead>
-    <tr style="text-align: left; font-size: 11px; background-color: lightgrey;">
+    <tr style="text-align: left; font-size: 9px">
       <th>Month</th>
       <th>2016</th>
       <th>↕</th>
@@ -31,7 +31,7 @@
     </tr>
   </thead>
   <tbody>
-    <tr style="text-align: left; font-size: 11px;">
+    <tr style="text-align: left; font-size: 9px;">
       <td>1</td>
       <td>0 (0)</td>
       <td>↑</td>
@@ -51,7 +51,7 @@
       <td>↑</td>
       <td>3 (855)</td>
     </tr>
-    <tr style="text-align: left; font-size: 11px;">
+    <tr style="text-align: left; font-size: 9px;">
       <td>2</td>
       <td>0 (0)</td>
       <td>↑</td>
@@ -71,7 +71,7 @@
       <td>↑</td>
       <td>15 (5841)</td>
     </tr>
-    <tr style="text-align: left; font-size: 11px;">
+    <tr style="text-align: left; font-size: 9px;">
       <td>3</td>
       <td>0 (0)</td>
       <td>↑</td>
@@ -91,7 +91,7 @@
       <td>↓</td>
       <td>0 (0)</td>
     </tr>
-    <tr style="text-align: left; font-size: 11px;">
+    <tr style="text-align: left; font-size: 9px;">
       <td>4</td>
       <td>0 (0)</td>
       <td>↑</td>
@@ -111,7 +111,7 @@
       <td>=</td>
       <td>0 (0)</td>
     </tr>
-    <tr style="text-align: left; font-size: 11px;">
+    <tr style="text-align: left; font-size: 9px;">
       <td>5</td>
       <td>1 (288)</td>
       <td>↑</td>
@@ -131,7 +131,7 @@
       <td>↑</td>
       <td>2 (590)</td>
     </tr>
-    <tr style="text-align: left; font-size: 11px;">
+    <tr style="text-align: left; font-size: 9px;">
       <td>6</td>
       <td>8 (1734)</td>
       <td>↓</td>
@@ -151,7 +151,7 @@
       <td>↓</td>
       <td>4 (2572)</td>
     </tr>
-    <tr style="text-align: left; font-size: 11px;">
+    <tr style="text-align: left; font-size: 9px;">
       <td>7</td>
       <td>4 (1758)</td>
       <td>↓</td>
@@ -171,7 +171,7 @@
       <td>↑</td>
       <td>22 (6366)</td>
     </tr>
-    <tr style="text-align: left; font-size: 11px;">
+    <tr style="text-align: left; font-size: 9px;">
       <td>8</td>
       <td>2 (334)</td>
       <td>↓</td>
@@ -191,7 +191,7 @@
       <td>↓</td>
       <td>2 (491)</td>
     </tr>
-    <tr style="text-align: left; font-size: 11px;">
+    <tr style="text-align: left; font-size: 9px;">
       <td>9</td>
       <td>4 (881)</td>
       <td>↓</td>
@@ -211,7 +211,7 @@
       <td>↓</td>
       <td>0 (0)</td>
     </tr>
-    <tr style="text-align: left; font-size: 11px;">
+    <tr style="text-align: left; font-size: 9px;">
       <td>10</td>
       <td>2 (275)</td>
       <td>↓</td>
@@ -231,7 +231,7 @@
       <td>=</td>
       <td>0 (0)</td>
     </tr>
-    <tr style="text-align: left; font-size: 11px;">
+    <tr style="text-align: left; font-size: 9px;">
       <td>11</td>
       <td>11 (4033)</td>
       <td>↓</td>
@@ -251,7 +251,7 @@
       <td>=</td>
       <td>0 (0)</td>
     </tr>
-    <tr style="text-align: left; font-size: 11px;">
+    <tr style="text-align: left; font-size: 9px;">
       <td>12</td>
       <td>11 (3019)</td>
       <td>↓</td>
@@ -276,7 +276,7 @@
 
 <table border="0" class="dataframe">
   <thead>
-    <tr style="text-align: left; font-size: 11px; background-color: lightgrey;">
+    <tr style="text-align: left; font-size: 9px;">
       <th>2016</th>
       <th>↕</th>
       <th>2017</th>
@@ -297,7 +297,7 @@
     </tr>
   </thead>
   <tbody>
-    <tr style="text-align: left; font-size: 11px;">
+    <tr style="text-align: left; font-size: 9px;">
       <td>43 (12322)</td>
       <td>↑</td>
       <td>62 (18366)</td>
@@ -316,7 +316,7 @@
       <td>↑</td>
       <td>48 (16715)</td>
     </tr>
-    <tr style="text-align: left; font-size: 11px;">
+    <tr style="text-align: left; font-size: 9px;">
       <td>$1447.14</td>
       <td>↑</td>
       <td>$2093.14</td>
