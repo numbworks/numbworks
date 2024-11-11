@@ -3,7 +3,7 @@
 |Date|Author|Description|
 |---|---|---|
 |2020-12-22|numbworks|Created.|
-|2024-11-03|numbworks|Last update.|
+|2024-11-11|numbworks|Last update.|
 
 ## Reading List
 
@@ -314,3 +314,5 @@
 |  303 | NixOS & Flakes Book v0.4.3                                                                      |   2024 | EN         |     179 | 2024-07-26 | Self-Published                   | ★★★☆☆    | Linux                           |
 |  304 | NixOS in Production                                                                             |   2024 | EN         |     123 | 2024-08-01 | Self-Published                   | ★☆☆☆☆    | Linux                           |
 |  305 | Building Data-Driven Applications with LLamaIndex                                               |   2024 | EN         |     368 | 2024-08-11 | Packt                            | ★★★★☆    | AI                              |
+|  306 | Crafting Test-Driven Software with Python                                                       |   2021 | EN         |     323 | 2024-11-05 | Packt                            | ★★★☆☆    | Python                          |
+|  307 | Data-Oriented Programming                                                                       |   2022 | EN         |     426 | 2024-11-05 | Manning                          | ★★★☆☆    | Software Engineering            |
