@@ -53,7 +53,7 @@ Intended to showcase my approach to solve specific data analysis problems:
 
 | Repository | Effort | Quick Links | License | Tests | Version | Last Update |
 |---|---|---|---|---|---|---|
-| [nwreadinglist](https://github.com/numbworks/nwreadinglist) | 141 h | <ul><li>[README](https://github.com/numbworks/nwreadinglist/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwreadinglist/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwreadinglist/blob/master/docs/docs-nwreadinglist.md)</li> <li>[Issues](https://github.com/numbworks/nwreadinglist/issues)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwreadinglist/master/codecoverage.svg) | 4.0.0 | 2024-11-11 |
+| [nwreadinglist](https://github.com/numbworks/nwreadinglist) | 142 h | <ul><li>[README](https://github.com/numbworks/nwreadinglist/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwreadinglist/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwreadinglist/blob/master/docs/docs-nwreadinglist.md)</li> <li>[Issues](https://github.com/numbworks/nwreadinglist/issues)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwreadinglist/master/codecoverage.svg) | 4.0.0 | 2024-11-11 |
 | [nwtimetracking](https://github.com/numbworks/nwtimetracking) | 85 h | <ul><li>[README](https://github.com/numbworks/nwtimetracking/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwtimetracking/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwtimetracking/blob/master/docs/docs-nwtimetracking.md)</li> <li>[Issues](https://github.com/numbworks/nwtimetracking/issues)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwtimetracking/master/codecoverage.svg) | 3.8.0 | 2024-10-28 |
 
 #### Shared Packages (Python)
@@ -91,7 +91,7 @@ The following table summarizes how many technical books I studied since I starte
 - [STUDYINGACTIVITYBYPUBLISHER.md](STUDYINGACTIVITYBYPUBLISHER.md) <small>(2024-11-11)</small>
 - [STUDYINGACTIVITYBYRATING.md](STUDYINGACTIVITYBYRATING.md) <small>(2024-11-11)</small>
 - [STUDYINGACTIVITYBYTOPIC.md](STUDYINGACTIVITYBYTOPIC.md) <small>(2024-11-11)</small>
-- [TIMETRACKINGBYMONTH.md](TIMETRACKINGBYMONTH.md) <small>(2024-11-03)</small>
+- [TIMETRACKINGBYMONTH.md](TIMETRACKINGBYMONTH.md) <small>(2024-11-11)</small>
 
 ## Self-Improvement Status
 
