@@ -3,7 +3,7 @@
 |Date|Author|Description|
 |---|---|---|
 |2020-12-22|numbworks|Created.|
-|2024-11-11|numbworks|Last update.|
+|2024-11-19|numbworks|Last update.|
 
 ## Reading List
 
@@ -316,3 +316,11 @@
 |  305 | Building Data-Driven Applications with LLamaIndex                                               |   2024 | EN         |     368 | 2024-08-11 | Packt                            | ★★★★☆    | AI                              |
 |  306 | Crafting Test-Driven Software with Python                                                       |   2021 | EN         |     323 | 2024-11-05 | Packt                            | ★★★☆☆    | Python                          |
 |  307 | Data-Oriented Programming                                                                       |   2022 | EN         |     426 | 2024-11-05 | Manning                          | ★★★☆☆    | Software Engineering            |
+|  308 | Mastering Python Design Patterns (3rd Edition)                                                  |   2024 | EN         |     296 | 2024-11-12 | Packt                            | ★★☆☆☆    | Python                          |
+|  309 | Hacking APIs                                                                                    |   2022 | EN         |     363 | 2024-11-17 | No Starch Press                  | ★★☆☆☆    | Cybersecurity                   |
+|  310 | API Management (2nd Edition)                                                                    |   2023 | EN         |     434 | 2024-11-17 | Apress                           | ★★☆☆☆    | Software Engineering            |
+|  311 | Architecture Modernization                                                                      |   2024 | EN         |     490 | 2024-11-18 | Manning                          | ★★★★☆    | Product Management              |
+|  312 | DevOps: A Journey From Microservices to Cloud-based Containerization                            |   2023 | EN         |     195 | 2024-11-18 | River Publishers                 | ★☆☆☆☆    | Development Tools               |
+|  313 | Docker Deep Dive (2024 Edition)                                                                 |   2024 | EN         |     280 | 2024-11-18 | Self-Published                   | ★★☆☆☆    | Docker                          |
+|  314 | The Self-Taught Cloud Computing Engineer (1st Edition)                                          |   2023 | EN         |     472 | 2024-11-18 | Packt                            | ★☆☆☆☆    | Cloud Vendors                   |
+|  315 | Product Roadmaps                                                                                |   2016 | EN         |      68 | 2024-11-19 | Self-Published                   | ★★★★★    | Product Management              |
