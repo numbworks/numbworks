@@ -8,22 +8,7 @@
 
 This document collects in one place all the useful commands that I (unfortunately) need to type often.
 
-#### Disable Powerhell's auto-completion
-
-```powershell
-if (-not (Test-Path $PROFILE)) { $null = New-Item -Force $PROFILE }
-Invoke-Item $PROFILE
-Set-PSReadLineOption -PredictionSource None
-```
-
-#### Add username and email to Git configs
-
-```sh
-git config --global user.name "numbworks"
-git config --global user.email "numbworks@gmail.com"
-```
-
-#### Install RustDesk on Debian 12
+#### Debian 12: install RustDesk
 
 ```sh
 # Download the .deb from https://rustdesk.com/download
@@ -32,7 +17,7 @@ sudo apt install -f
 rustdesk
 ```
 
-#### Install Dropbox on Debian 12
+#### Debian 12: install Dropbox
 
 ```sh
 # Download the .deb from https://linux.dropboxstatic.com/packages/debian/
@@ -40,38 +25,23 @@ sudo dpkg -i dropbox-*.deb
 sudo apt install -f
 ```
 
-#### Install OpenRTC2 on Debian 12
+#### Windows 10: disable Powerhell's auto-completion
 
-```sh
-cd /home/ruben/Documents/
-wget https://archive.org/download/OpenRCT2Assets/RCT.zip
-unzip RCT.zip
-sudo geany /etc/apt/sources.list
-```
-Verify that the "contrib" repositories are there. If not, add them:
-
-```
-deb http://deb.debian.org/debian bookworm main contrib non-free non-free-firmware
-deb-src http://deb.debian.org/debian bookworm main contrib non-free non-free-firmware
+```powershell
+if (-not (Test-Path $PROFILE)) { $null = New-Item -Force $PROFILE }
+Invoke-Item $PROFILE
+Set-PSReadLineOption -PredictionSource None
 ```
 
-```sh
-sudo apt update
-sudo apt upgrade
-sudo apt install openrct2
-openrct2 set-rct2 /home/ruben/Documents/RCT/
-openrct2
-```
-
-#### Reduce the size of Docker's VHDX file(s) on Windows 10
+#### Windows 10: reduce the size of Docker's VHDX file(s)
 
 ```powershell
 Optimize-VHD -Path "C:\Users\Rubèn\AppData\Local\Docker\wsl\disk\docker_data.vhdx" -Mode Full
 ```
 
-#### Solve the "Failed to Attach Disk ext4.vhdx to WSL2" issue on Windows 10
+#### Windows 10: solve the "Failed to Attach Disk ext4.vhdx to WSL2" issue
 
-```powershell
+```
 # Open Windows Terminal as Administrator
 wsl -l -v
 wsl --unregister Ubuntu-24.04
@@ -80,8 +50,49 @@ wsl --unregister Ubuntu-24.04
 # New password ...
 ```
 
-#### Search for specific commands inside Dockerfiles on Github
+#### Windows 10: shutdown WSL
+
+```
+wsl --shutdown
+net stop LxssManager
+net start LxssManager 
+```
+
+#### Windows 10: remove/restore hyberfil.sys
+
+```
+# Run Terminal as Administrator
+powercfg -h off
+powercfg -h on
+```
+
+#### Git: add username and email to global configs
+
+```sh
+git config --global user.name "numbworks"
+git config --global user.email "numbworks@gmail.com"
+```
+
+#### Git: push code to a repository created afterwards
+
+```sh
+git push --set-upstream origin master -f
+```
+
+#### Git: set the name of the default branch
+
+```sh
+git config --global init.defaultBranch master
+```
+
+#### Github Search: specific commands inside Dockerfiles
 
 ```
 ollama serve path:**/Dockerfile
+```
+
+#### Github Search: specific file names by repository language
+
+```
+language:python path:**/Makefile
 ```
