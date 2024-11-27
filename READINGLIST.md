@@ -3,7 +3,7 @@
 |Date|Author|Description|
 |---|---|---|
 |2020-12-22|numbworks|Created.|
-|2024-11-19|numbworks|Last update.|
+|2024-11-27|numbworks|Last update.|
 
 ## Reading List
 
@@ -324,3 +324,10 @@
 |  313 | Docker Deep Dive (2024 Edition)                                                                 |   2024 | EN         |     280 | 2024-11-18 | Self-Published                   | ★★☆☆☆    | Docker                          |
 |  314 | The Self-Taught Cloud Computing Engineer (1st Edition)                                          |   2023 | EN         |     472 | 2024-11-18 | Packt                            | ★☆☆☆☆    | Cloud Vendors                   |
 |  315 | Product Roadmaps                                                                                |   2016 | EN         |      68 | 2024-11-19 | Self-Published                   | ★★★★★    | Product Management              |
+|  316 | Pandas for Everyone (2nd Edition)                                                               |   2023 | EN         |     512 | 2024-11-24 | Pearson Education                | ★★★☆☆    | Python                          |
+|  317 | Pandas Workout                                                                                  |   2024 | EN         |     442 | 2024-11-24 | Manning                          | ★☆☆☆☆    | Python                          |
+|  318 | Powerful Python                                                                                 |   2024 | EN         |     265 | 2024-11-24 | O'Reilly                         | ★☆☆☆☆    | Python                          |
+|  319 | Practical Python Backend Programming                                                            |   2024 | EN         |     333 | 2024-11-24 | GitforGits                       | ★☆☆☆☆    | Python                          |
+|  320 | Hypermodern Python Tooling                                                                      |   2024 | EN         |     386 | 2024-11-24 | O'Reilly                         | ★☆☆☆☆    | Python                          |
+|  321 | Testing in Python: Robust Automation for Professionals                                          |   2020 | EN         |     213 | 2024-11-24 | Self-Published                   | ★★★★☆    | Python                          |
+|  322 | Modern Software Testing Techniques                                                              |   2024 | EN         |     277 | 2024-11-24 | Apress                           | ★★★☆☆    | Software Engineering            |

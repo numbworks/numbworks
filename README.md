@@ -82,15 +82,15 @@ The following table summarizes how many technical books I studied since I starte
 
 |   Years |   Books |   Pages | TotalSpend   | LastUpdate   |
 |--------:|--------:|--------:|:-------------|:-------------|
-|       9 |     315 |   86719 | $9188.34     | 2024-11-19   |
+|       9 |     322 |   89147 | $9541.18     | 2024-11-27   |
 
 #### Related Pages
 
-- [READINGLIST.md](READINGLIST.md) <small>(2024-11-19)</small>
-- [STUDYINGACTIVITY.md](STUDYINGACTIVITY.md) <small>(2024-11-19)</small>
-- [STUDYINGACTIVITYBYPUBLISHER.md](STUDYINGACTIVITYBYPUBLISHER.md) <small>(2024-11-19)</small>
-- [STUDYINGACTIVITYBYRATING.md](STUDYINGACTIVITYBYRATING.md) <small>(2024-11-19)</small>
-- [STUDYINGACTIVITYBYTOPIC.md](STUDYINGACTIVITYBYTOPIC.md) <small>(2024-11-19)</small>
+- [READINGLIST.md](READINGLIST.md) <small>(2024-11-27)</small>
+- [STUDYINGACTIVITY.md](STUDYINGACTIVITY.md) <small>(2024-11-27)</small>
+- [STUDYINGACTIVITYBYPUBLISHER.md](STUDYINGACTIVITYBYPUBLISHER.md) <small>(2024-11-27)</small>
+- [STUDYINGACTIVITYBYRATING.md](STUDYINGACTIVITYBYRATING.md) <small>(2024-11-27)</small>
+- [STUDYINGACTIVITYBYTOPIC.md](STUDYINGACTIVITYBYTOPIC.md) <small>(2024-11-27)</small>
 - [TIMETRACKINGBYMONTH.md](TIMETRACKINGBYMONTH.md) <small>(2024-11-19)</small>
 
 ## Self-Improvement Status

@@ -3,15 +3,15 @@
 |Date|Author|Description|
 |---|---|---|
 |2020-12-22|numbworks|Created.|
-|2024-11-19|numbworks|Last update.|
+|2024-11-27|numbworks|Last update.|
 
 ## Studying Activity By Topic
 
 | Topic                           |   Books |   Pages |   A4Sheets |
 |:--------------------------------|--------:|--------:|-----------:|
-| Software Engineering            |      81 |   23139 |         65 |
+| Software Engineering            |      82 |   23416 |         65 |
 | C#                              |      56 |   16449 |         47 |
-| Python                          |      39 |   12119 |         16 |
+| Python                          |      45 |   14270 |         16 |
 | Data Analysis, Data Science, ML |      34 |    8631 |         37 |
 | BI, Data Warehousing, PowerBI   |      23 |    6805 |         21 |
 | Development Tools               |      15 |    3672 |         10 |
@@ -46,7 +46,7 @@
 | MariaDB                         | [0, 0, 4, 0, 0, 0, 0, 0, 0]     | ▁▁█▁▁▁▁▁▁ |
 | Powershell                      | [0, 1, 0, 0, 3, 0, 0, 0, 0]     | ▁▃▁▁█▁▁▁▁ |
 | Product Management              | [0, 0, 0, 0, 1, 0, 0, 0, 11]    | ▁▁▁▁▂▁▁▁█ |
-| Python                          | [1, 1, 0, 0, 1, 2, 0, 13, 21]   | ▁▁▁▁▁▂▁▅█ |
+| Python                          | [1, 1, 0, 0, 1, 2, 0, 13, 27]   | ▁▁▁▁▁▂▁▄█ |
 | Regular Expressions             | [0, 2, 0, 0, 0, 0, 0, 0, 0]     | ▁█▁▁▁▁▁▁▁ |
 | SQL Server                      | [0, 2, 2, 2, 0, 1, 0, 0, 0]     | ▁███▁▄▁▁▁ |
-| Software Engineering            | [21, 27, 12, 5, 2, 0, 0, 4, 10] | ▆█▄▂▂▁▁▂▄ |
+| Software Engineering            | [21, 27, 12, 5, 2, 0, 0, 4, 11] | ▆█▄▂▂▁▁▂▄ |
