@@ -91,7 +91,7 @@ The following table summarizes how many technical books I studied since I starte
 - [STUDYINGACTIVITYBYPUBLISHER.md](STUDYINGACTIVITYBYPUBLISHER.md) <small>(2024-11-27)</small>
 - [STUDYINGACTIVITYBYRATING.md](STUDYINGACTIVITYBYRATING.md) <small>(2024-11-27)</small>
 - [STUDYINGACTIVITYBYTOPIC.md](STUDYINGACTIVITYBYTOPIC.md) <small>(2024-11-27)</small>
-- [TIMETRACKINGBYMONTH.md](TIMETRACKINGBYMONTH.md) <small>(2024-11-19)</small>
+- [TIMETRACKINGBYMONTH.md](TIMETRACKINGBYMONTH.md) <small>(2024-11-30)</small>
 
 ## Self-Improvement Status
 
