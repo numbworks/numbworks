@@ -14,7 +14,7 @@ Contact: [Email](mailto:numbworks@gmail.com) | [Facebook](https://www.facebook.c
 
 Intended for other developers who want to integrate my software in their own software.
 
-| Repository | Effort | Quick Links | License | Tests | Release | Last Update |
+| Repository | Effort | Quick Links | License | Tests | Download | Last Update |
 |---|---|---|---|---|---|---|
 | [NW.UnivariateForecasting](https://github.com/numbworks/NW.UnivariateForecasting) | 208 h | <ul><li>[README](https://github.com/numbworks/NW.UnivariateForecasting/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/NW.UnivariateForecasting/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/NW.UnivariateForecasting/blob/main/docs/Documentation-NW.UnivariateForecasting.md)</li> <li>[Issues](https://github.com/numbworks/NW.UnivariateForecasting/issues)</li> <li>[Releases](https://github.com/numbworks/NW.UnivariateForecasting/releases)</li></ul> | MIT | ![codecoverage_library.svg](https://raw.githubusercontent.com/numbworks/NW.UnivariateForecasting/main/codecoverage_library.svg) | [4.2.0](https://www.nuget.org/packages/NW.UnivariateForecasting/4.2.0) | 2024-02-15 |
 | [NW.NGramTextClassification](https://github.com/numbworks/NW.NGramTextClassification) | 207 h | <ul><li>[README](https://github.com/numbworks/NW.NGramTextClassification/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/NW.NGramTextClassification/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/NW.NGramTextClassification/blob/master/docs/Documentation-NW.NGramTextClassification.md)</li> <li>[Issues](https://github.com/numbworks/NW.NGramTextClassification/issues)</li> <li>[Releases](https://github.com/numbworks/NW.NGramTextClassification/releases)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/NW.NGramTextClassification/master/codecoverage_library.svg) | [4.2.0](https://www.nuget.org/packages/NW.NGramTextClassification/4.2.0) | 2024-02-14 |
@@ -24,7 +24,7 @@ Intended for other developers who want to integrate my software in their own sof
 
 Intended for data analysts who want to use my libraries thru a command-line interface.
 
-| Repository | Quick Links | License | Tests | Binaries |
+| Repository | Quick Links | License | Tests | Download |
 |---|---|---|---|---|
 | [NW.UnivariateForecastingClient](https://github.com/numbworks/NW.UnivariateForecasting) | [Documentation](https://github.com/numbworks/NW.UnivariateForecasting/blob/master/docs/Documentation-NW.UnivariateForecastingClient.md)| MIT | ![codecoverage_client.svg](https://raw.githubusercontent.com/numbworks/NW.UnivariateForecasting/master/codecoverage_client.svg) | [4.2.0](https://github.com/numbworks/NW.UnivariateForecasting/releases/tag/v4.2.0) |
 | [NW.NGramTextClassificationClient](https://github.com/numbworks/NW.NGramTextClassification) | [Documentation](https://github.com/numbworks/NW.NGramTextClassification/blob/master/docs/Documentation-NW.NGramTextClassificationClient.md)| MIT | ![codecoverage_client.svg](https://raw.githubusercontent.com/numbworks/NW.NGramTextClassification/master/codecoverage_client.svg) | [4.2.0](https://github.com/numbworks/NW.NGramTextClassification/releases/tag/v4.2.0) |
@@ -33,7 +33,7 @@ Intended for data analysts who want to use my libraries thru a command-line inte
 
 Pieces of logic shared among my libraries. These might not be feature-rich enough to be useful for the general audience.
 
-| Repository | Effort | Quick Links | License | Tests | Release | Last Update |
+| Repository | Effort | Quick Links | License | Tests | Download | Last Update |
 |---|---|---|---|---|---|---|
 | [NW.Shared.Files](https://github.com/numbworks/NW.Shared.Files) | 5 h | <ul><li>[README](https://github.com/numbworks/NW.Shared.Files/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/NW.Shared.Files/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/NW.Shared.Files/blob/master/docs/Documentation-NW.Shared.Files.md)</li> <li>[Issues](https://github.com/numbworks/NW.Shared.Files/issues)</li> <li>[Releases](https://github.com/numbworks/NW.Shared.Files/releases)</li></ul> | MIT | ![codecoverage_library.svg](https://raw.githubusercontent.com/numbworks/NW.Shared.Files/master/codecoverage_library.svg) | [1.0.0](https://www.nuget.org/packages/NW.Shared.Files/1.0.0) | 2024-02-11 |
 | [NW.Shared.Serialization](https://github.com/numbworks/NW.Shared.Serialization) | 4 h | <ul><li>[README](https://github.com/numbworks/NW.Shared.Serialization/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/NW.Shared.Serialization/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/NW.Shared.Serialization/blob/master/docs/Documentation-NW.Shared.Serialization.md)</li> <li>[Issues](https://github.com/numbworks/NW.Shared.Serialization/issues)</li> <li>[Releases](https://github.com/numbworks/NW.Shared.Serialization/releases)</li></ul> | MIT | ![codecoverage_library.svg](https://raw.githubusercontent.com/numbworks/NW.Shared.Serialization/master/codecoverage_library.svg) | [1.0.0](https://www.nuget.org/packages/NW.Shared.Serialization/1.0.0) | 2024-02-13 |
@@ -43,7 +43,7 @@ Pieces of logic shared among my libraries. These might not be feature-rich enoug
 
 Intended for other developers who want to integrate my software in their own software.
 
-| Repository | Effort | Quick Links | License | Tests | Release | Last Update |
+| Repository | Effort | Quick Links | License | Tests | Download | Last Update |
 |---|---|---|---|---|---|---|
 | [nwpackageversions](https://github.com/numbworks/nwpackageversions) | 50 h | <ul><li>[README](https://github.com/numbworks/nwpackageversions/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwpackageversions/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwpackageversions/blob/master/docs/docs-nwpackageversions.md)</li> <li>[Issues](https://github.com/numbworks/nwpackageversions/issues)</li> <li>[Releases](https://github.com/numbworks/nwpackageversions/releases)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwpackageversions/master/codecoverage.svg) | [1.8.0](https://github.com/numbworks/nwpackageversions/releases/tag/v1.8.0) | 2024-12-01 |
 
@@ -51,7 +51,7 @@ Intended for other developers who want to integrate my software in their own sof
 
 Intended to showcase my approach to solve specific data analysis problems: 
 
-| Repository | Effort | Quick Links | License | Tests | Release | Last Update |
+| Repository | Effort | Quick Links | License | Tests | Download | Last Update |
 |---|---|---|---|---|---|---|
 | [nwreadinglist](https://github.com/numbworks/nwreadinglist) | 143 h | <ul><li>[README](https://github.com/numbworks/nwreadinglist/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwreadinglist/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwreadinglist/blob/master/docs/docs-nwreadinglist.md)</li> <li>[Issues](https://github.com/numbworks/nwreadinglist/issues)</li> <li>[Releases](https://github.com/numbworks/nwreadinglist/releases)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwreadinglist/master/codecoverage.svg) | [4.1.0](https://github.com/numbworks/nwreadinglist/releases/tag/v4.1.0) | 2024-12-01 |
 | [nwtimetracking](https://github.com/numbworks/nwtimetracking) | 120 h | <ul><li>[README](https://github.com/numbworks/nwtimetracking/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwtimetracking/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwtimetracking/blob/master/docs/docs-nwtimetracking.md)</li> <li>[Issues](https://github.com/numbworks/nwtimetracking/issues)</li> <li>[Releases](https://github.com/numbworks/nwtimetracking/releases)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwtimetracking/master/codecoverage.svg) | [4.0.0](https://github.com/numbworks/nwtimetracking/releases/tag/v4.0.0) | 2024-12-08 |
@@ -60,7 +60,7 @@ Intended to showcase my approach to solve specific data analysis problems:
 
 Pieces of logic shared among my libraries. These might not be feature-rich enough to be useful for the general audience.
 
-| Repository | Effort | Quick Links | License | Tests | Release | Last Update |
+| Repository | Effort | Quick Links | License | Tests | Download | Last Update |
 |---|---|---|---|---|---|---|
 | [nwshared](https://github.com/numbworks/nwshared) | 42 h | <ul><li>[README](https://github.com/numbworks/nwshared/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwshared/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwshared/blob/master/docs/docs-nwshared.md)</li> <li>[Issues](https://github.com/numbworks/nwshared/issues)</li> <li>[Releases](https://github.com/numbworks/nwshared/releases)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwshared/master/codecoverage.svg) | [1.8.0](https://github.com/numbworks/nwshared/releases/tag/v1.8.0) | 2024-12-01 |
 
