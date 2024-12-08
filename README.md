@@ -2,11 +2,11 @@
 
 I am a Back-End Developer (C# and Python) with over 10 years of professional experience, currently serving as a Technical Product Manager in my 9-to-5 job. I have a strong interest in the Product Lifecycle and in data-driven applications, which I cultivate both during and outside of work hours.
 
-Additionally, I actively develop and maintain open-source software packages (C# and Python) under my "numbworks" brand. I also engage in regular upskilling sessions through my favorite learning medium: books. Recently, I achieved the significant milestone of studying over three hundreds technical books.
+Additionally, I actively develop and maintain open-source software packages under my "numbworks" brand. I also engage in regular upskilling sessions through my favorite learning medium: books. Recently, I achieved the significant milestone of studying over three hundreds technical books.
 
 Detailed information about my tech stack and my continuous learning activity is meticulously kept up to date on my GitHub account, alongside my open-source software releases.
 
-Contact: [Email](mailto:numbworks@gmail.com) | [Twitter / X](http://www.x.com/numbworks) | [Github Threads](https://github.com/search?q=is%3Aissue+commenter%3Anumbworks&type=issues&s=created&o=desc)
+Contact: [Email](mailto:numbworks@gmail.com) | [Facebook](https://www.facebook.com/numbworks) | [Twitter / X](http://www.x.com/numbworks) | [Github Threads](https://github.com/search?q=is%3Aissue+commenter%3Anumbworks&type=issues&s=created&o=desc)
 
 ## Development
 
@@ -54,7 +54,7 @@ Intended to showcase my approach to solve specific data analysis problems:
 | Repository | Effort | Quick Links | License | Tests | Version | Last Update |
 |---|---|---|---|---|---|---|
 | [nwreadinglist](https://github.com/numbworks/nwreadinglist) | 143 h | <ul><li>[README](https://github.com/numbworks/nwreadinglist/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwreadinglist/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwreadinglist/blob/master/docs/docs-nwreadinglist.md)</li> <li>[Issues](https://github.com/numbworks/nwreadinglist/issues)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwreadinglist/master/codecoverage.svg) | 4.1.0 | 2024-12-01 |
-| [nwtimetracking](https://github.com/numbworks/nwtimetracking) | 86 h | <ul><li>[README](https://github.com/numbworks/nwtimetracking/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwtimetracking/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwtimetracking/blob/master/docs/docs-nwtimetracking.md)</li> <li>[Issues](https://github.com/numbworks/nwtimetracking/issues)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwtimetracking/master/codecoverage.svg) | 3.9.0 | 2024-12-01 |
+| [nwtimetracking](https://github.com/numbworks/nwtimetracking) | 120 h | <ul><li>[README](https://github.com/numbworks/nwtimetracking/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwtimetracking/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwtimetracking/blob/master/docs/docs-nwtimetracking.md)</li> <li>[Issues](https://github.com/numbworks/nwtimetracking/issues)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwtimetracking/master/codecoverage.svg) | 4.0.0 | 2024-12-08 |
 
 #### Shared Packages (Python)
 
