@@ -3,9 +3,9 @@
 |Date|Author|Description|
 |---|---|---|
 |2020-12-22|numbworks|Created.|
-|2024-11-27|numbworks|Last update.|
+|2024-12-09|numbworks|Last update.|
 
-## Studying Activity By Publisher
+## Reading List By Publisher
 
 | Publisher       |   Books |   A4Sheets |    AB% |   AvgRating | IsWorth   |
 |:----------------|--------:|-----------:|-------:|------------:|:----------|

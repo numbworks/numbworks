@@ -53,7 +53,7 @@ Intended to showcase my approach to solve specific data analysis problems:
 
 | Repository | Effort | Quick Links | License | Tests | Download | Last Update |
 |---|---|---|---|---|---|---|
-| [nwreadinglist](https://github.com/numbworks/nwreadinglist) | 143 h | <ul><li>[README](https://github.com/numbworks/nwreadinglist/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwreadinglist/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwreadinglist/blob/master/docs/docs-nwreadinglist.md)</li> <li>[Issues](https://github.com/numbworks/nwreadinglist/issues)</li> <li>[Releases](https://github.com/numbworks/nwreadinglist/releases)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwreadinglist/master/codecoverage.svg) | [4.1.0](https://github.com/numbworks/nwreadinglist/releases/tag/v4.1.0) | 2024-12-01 |
+| [nwreadinglist](https://github.com/numbworks/nwreadinglist) | 151 h | <ul><li>[README](https://github.com/numbworks/nwreadinglist/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwreadinglist/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwreadinglist/blob/master/docs/docs-nwreadinglist.md)</li> <li>[Issues](https://github.com/numbworks/nwreadinglist/issues)</li> <li>[Releases](https://github.com/numbworks/nwreadinglist/releases)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwreadinglist/master/codecoverage.svg) | [4.2.0](https://github.com/numbworks/nwreadinglist/releases/tag/v4.2.0) | 2024-12-09 |
 | [nwtimetracking](https://github.com/numbworks/nwtimetracking) | 116 h | <ul><li>[README](https://github.com/numbworks/nwtimetracking/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwtimetracking/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwtimetracking/blob/master/docs/docs-nwtimetracking.md)</li> <li>[Issues](https://github.com/numbworks/nwtimetracking/issues)</li> <li>[Releases](https://github.com/numbworks/nwtimetracking/releases)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwtimetracking/master/codecoverage.svg) | [4.0.0](https://github.com/numbworks/nwtimetracking/releases/tag/v4.0.0) | 2024-12-08 |
 
 #### Shared Packages (Python)
@@ -82,15 +82,15 @@ The following table summarizes how many technical books I studied since I starte
 
 |   Years |   Books |   Pages | TotalSpend   | LastUpdate   |
 |--------:|--------:|--------:|:-------------|:-------------|
-|       9 |     322 |   89147 | $9541.18     | 2024-11-27   |
+|       9 |     322 |   89147 | $9541.18     | 2024-12-09   |
 
 #### Related Pages
 
-- [READINGLIST.md](READINGLIST.md) <small>(2024-11-27)</small>
-- [STUDYINGACTIVITY.md](STUDYINGACTIVITY.md) <small>(2024-11-27)</small>
-- [STUDYINGACTIVITYBYPUBLISHER.md](STUDYINGACTIVITYBYPUBLISHER.md) <small>(2024-11-27)</small>
-- [STUDYINGACTIVITYBYRATING.md](STUDYINGACTIVITYBYRATING.md) <small>(2024-11-27)</small>
-- [STUDYINGACTIVITYBYTOPIC.md](STUDYINGACTIVITYBYTOPIC.md) <small>(2024-11-27)</small>
+- [READINGLIST.md](READINGLIST.md) <small>(2024-12-09)</small>
+- [READINGLISTBYMONTH.md](READINGLISTBYMONTH.md) <small>(2024-12-09)</small>
+- [READINGLISTBYPUBLISHER.md](READINGLISTBYPUBLISHER.md) <small>(2024-12-09)</small>
+- [READINGLISTBYRATING.md](READINGLISTBYRATING.md) <small>(2024-12-09)</small>
+- [READINGLISTBYTOPIC.md](READINGLISTBYTOPIC.md) <small>(2024-12-09)</small>
 - [TIMETRACKINGBYMONTH.md](TIMETRACKINGBYMONTH.md) <small>(2024-12-08)</small>
 
 ## Self-Improvement Status
