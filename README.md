@@ -45,7 +45,7 @@ Intended for other developers who want to integrate my software in their own sof
 
 | Repository | Effort | Quick Links | License | Tests | Download | Last Update |
 |---|---|---|---|---|---|---|
-| [nwpackageversions](https://github.com/numbworks/nwpackageversions) | 50 h | <ul><li>[README](https://github.com/numbworks/nwpackageversions/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwpackageversions/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwpackageversions/blob/master/docs/docs-nwpackageversions.md)</li> <li>[Issues](https://github.com/numbworks/nwpackageversions/issues)</li> <li>[Releases](https://github.com/numbworks/nwpackageversions/releases)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwpackageversions/master/codecoverage.svg) | [1.8.0](https://github.com/numbworks/nwpackageversions/releases/tag/v1.8.0) | 2024-12-01 |
+| [nwpackageversions](https://github.com/numbworks/nwpackageversions) | 52 h | <ul><li>[README](https://github.com/numbworks/nwpackageversions/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwpackageversions/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwpackageversions/blob/master/docs/docs-nwpackageversions.md)</li> <li>[Issues](https://github.com/numbworks/nwpackageversions/issues)</li> <li>[Releases](https://github.com/numbworks/nwpackageversions/releases)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwpackageversions/master/codecoverage.svg) | [1.8.1](https://github.com/numbworks/nwpackageversions/releases/tag/v1.8.1) | 2024-12-27 |
 
 #### Jupyter Notebooks (Python)
 
