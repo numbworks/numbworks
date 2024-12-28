@@ -55,7 +55,7 @@ Intended to showcase my approach to solve specific data analysis problems:
 | [nwreadinglist](https://github.com/numbworks/nwreadinglist) | 151 h | <ul><li>[README](https://github.com/numbworks/nwreadinglist/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwreadinglist/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwreadinglist/blob/master/docs/docs-nwreadinglist.md)</li> <li>[Issues](https://github.com/numbworks/nwreadinglist/issues)</li> <li>[Releases](https://github.com/numbworks/nwreadinglist/releases)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwreadinglist/master/codecoverage.svg) | [4.2.0](https://github.com/numbworks/nwreadinglist/releases/tag/v4.2.0) | 2024-12-09 |
 | nwtraderaanalytics ** | 255 h | | MIT | | 4.5.0 | 2024-12-15 |
 
-[**] Private repository.
+[**] Projects that are not public yet.
 
 #### Other Projects
 
