@@ -51,7 +51,7 @@ Intended to showcase my approach to solve specific data analysis problems:
 
 | Repository | Effort | Quick Links | License | Tests | Download | Last Update |
 |---|---|---|---|---|---|---|
-| [nwtimetracking](https://github.com/numbworks/nwtimetracking) | 198 h | <ul><li>[README](https://github.com/numbworks/nwtimetracking/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwtimetracking/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwtimetracking/blob/master/docs/docs-nwtimetracking.md)</li> <li>[Issues](https://github.com/numbworks/nwtimetracking/issues)</li> <li>[Releases](https://github.com/numbworks/nwtimetracking/releases)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwtimetracking/master/codecoverage.svg) | [4.8.0](https://github.com/numbworks/nwtimetracking/releases/tag/v4.8.0) | 2024-12-26 |
+| [nwtimetracking](https://github.com/numbworks/nwtimetracking) | 215 h | <ul><li>[README](https://github.com/numbworks/nwtimetracking/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwtimetracking/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwtimetracking/blob/master/docs/docs-nwtimetracking.md)</li> <li>[Issues](https://github.com/numbworks/nwtimetracking/issues)</li> <li>[Releases](https://github.com/numbworks/nwtimetracking/releases)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwtimetracking/master/codecoverage.svg) | [5.0.0](https://github.com/numbworks/nwtimetracking/releases/tag/v5.0.0) | 2024-12-30 |
 | [nwreadinglist](https://github.com/numbworks/nwreadinglist) | 151 h | <ul><li>[README](https://github.com/numbworks/nwreadinglist/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwreadinglist/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwreadinglist/blob/master/docs/docs-nwreadinglist.md)</li> <li>[Issues](https://github.com/numbworks/nwreadinglist/issues)</li> <li>[Releases](https://github.com/numbworks/nwreadinglist/releases)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwreadinglist/master/codecoverage.svg) | [4.2.0](https://github.com/numbworks/nwreadinglist/releases/tag/v4.2.0) | 2024-12-09 |
 | nwtraderaanalytics ** | 255 h | | MIT | | 4.5.0 | 2024-12-15 |
 
@@ -84,7 +84,7 @@ The following table summarizes how many technical books I studied since I starte
 - [READINGLISTBYPUBLISHER.md](READINGLISTBYPUBLISHER.md) <small>(2024-12-09)</small>
 - [READINGLISTBYRATING.md](READINGLISTBYRATING.md) <small>(2024-12-09)</small>
 - [READINGLISTBYTOPIC.md](READINGLISTBYTOPIC.md) <small>(2024-12-09)</small>
-- [TIMETRACKINGBYMONTH.md](TIMETRACKINGBYMONTH.md) <small>(2024-12-26)</small>
+- [TIMETRACKINGBYMONTH.md](TIMETRACKINGBYMONTH.md) <small>(2024-12-30)</small>
 
 ## Self-Improvement Status
 
