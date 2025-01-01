@@ -3,7 +3,7 @@
 |Date|Author|Description|
 |---|---|---|
 |2020-12-22|numbworks|Created.|
-|2024-12-30|numbworks|Last update.|
+|2025-01-01|numbworks|Last update.|
 
 ## Time Tracking By Month
 
@@ -50,4 +50,19 @@
 |       9 | 43h 30m  | ↑   | 69h 00m | ↓   | 50h 15m | ↓   | 48h 00m                                                 |
 |      10 | 35h 30m  | ↑   | 38h 30m | ↓   | 20h 00m | ↑   | 101h 30m                                                |
 |      11 | 13h 15m  | ↑   | 58h 15m | ↓   | 14h 30m | ↑   | 88h 00m                                                 |
-|      12 | 01h 00m  | ↑   | 54h 15m | ↓   | 22h 30m | ↑   | <mark style='background-color: skyblue'>197h 45m</mark> |
+|      12 | 01h 00m  | ↑   | 54h 15m | ↓   | 22h 30m | ↑   | <mark style='background-color: skyblue'>203h 30m</mark> |
+
+|   Month | 2024     | ↕   | 2025    |
+|--------:|:---------|:----|:--------|
+|       1 | 45h 45m  | ↓   | 03h 30m |
+|       2 | 77h 45m  |     |         |
+|       3 | 77h 45m  |     |         |
+|       4 | 29h 30m  |     |         |
+|       5 | 43h 00m  |     |         |
+|       6 | 48h 00m  |     |         |
+|       7 | 67h 00m  |     |         |
+|       8 | 32h 45m  |     |         |
+|       9 | 48h 00m  |     |         |
+|      10 | 101h 30m |     |         |
+|      11 | 88h 00m  |     |         |
+|      12 | 203h 30m |     |         |

@@ -3,7 +3,7 @@
 |Date|Author|Description|
 |---|---|---|
 |2020-12-22|numbworks|Created.|
-|2024-12-09|numbworks|Last update.|
+|2025-01-01|numbworks|Last update.|
 
 ## Reading List
 
@@ -331,3 +331,8 @@
 |  320 | Hypermodern Python Tooling                                                                      |   2024 | EN         |     386 | 2024-11-24 | O'Reilly                         | ★☆☆☆☆    | Python                          |
 |  321 | Testing in Python: Robust Automation for Professionals                                          |   2020 | EN         |     213 | 2024-11-24 | Self-Published                   | ★★★★☆    | Python                          |
 |  322 | Modern Software Testing Techniques                                                              |   2024 | EN         |     277 | 2024-11-24 | Apress                           | ★★★☆☆    | Software Engineering            |
+|  323 | Better APIs: Quality, Stability, Observability                                                  |   2024 | EN         |     132 | 2024-12-31 | Self-Published                   | ★★☆☆☆    | Software Engineering            |
+|  324 | Mastering API Architecture                                                                      |   2023 | EN         |     289 | 2024-12-31 | O'Reilly                         | ★★☆☆☆    | Software Engineering            |
+|  325 | GitHub Actions in Action                                                                        |   2024 | EN         |     257 | 2024-12-31 | Manning                          | ★★★☆☆    | Development Tools               |
+|  326 | Learning GitHub Actions                                                                         |   2023 | EN         |     573 | 2025-01-01 | O'Reilly                         | ★☆☆☆☆    | Development Tools               |
+|  327 | Gray Hat Python                                                                                 |   2009 | EN         |     220 | 2025-01-01 | No Starch Press                  | ★★★☆☆    | Cybersecurity                   |

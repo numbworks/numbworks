@@ -3,34 +3,34 @@
 |Date|Author|Description|
 |---|---|---|
 |2020-12-22|numbworks|Created.|
-|2024-12-09|numbworks|Last update.|
+|2025-01-01|numbworks|Last update.|
 
 ## Reading List By Publisher
 
 | Publisher       |   Books |   A4Sheets |    AB% |   AvgRating | IsWorth   |
 |:----------------|--------:|-----------:|-------:|------------:|:----------|
 | Syncfusion      |      38 |         24 |  63.16 |        2.55 | Yes       |
-| Manning         |      18 |         21 | 116.67 |        2.56 | Yes       |
+| Manning         |      19 |         21 | 110.53 |        2.58 | Yes       |
 | Wiley           |      12 |         23 | 191.67 |        2.33 | Yes       |
 | Microsoft Press |       9 |         11 | 122.22 |        2.22 | Yes       |
 
 | Publisher                        |   Books |   A4Sheets |    AB% |   AvgRating | IsWorth   |
 |:---------------------------------|--------:|-----------:|-------:|------------:|:----------|
 | Packt                            |      47 |         27 |  57.45 |        2.13 | No        |
-| O'Reilly                         |      43 |         33 |  76.74 |        2.12 | No        |
+| O'Reilly                         |      45 |         33 |  73.33 |        2.09 | No        |
 | Syncfusion                       |      38 |         24 |  63.16 |        2.55 | Yes       |
-| Self-Published                   |      37 |         19 |  51.35 |        2.3  | No        |
+| Self-Published                   |      38 |         19 |  50    |        2.29 | No        |
 | Apress                           |      28 |         23 |  82.14 |        2.21 | No        |
 | Addison-Wesley                   |      19 |         14 |  73.68 |        2.11 | No        |
-| Manning                          |      18 |         21 | 116.67 |        2.56 | Yes       |
+| Manning                          |      19 |         21 | 110.53 |        2.58 | Yes       |
 | Wiley                            |      12 |         23 | 191.67 |        2.33 | Yes       |
 | Microsoft Press                  |       9 |         11 | 122.22 |        2.22 | Yes       |
 | Pearson Education                |       5 |          5 | 100    |        3    | No        |
+| No Starch Press                  |       4 |          1 |  25    |        2.25 | No        |
 | Prentice Hall                    |       4 |          3 |  75    |        2.25 | No        |
-| Pragmatic Bookshelf              |       3 |          1 |  33.33 |        2.33 | No        |
 | Wrox                             |       3 |          5 | 166.67 |        2.33 | No        |
 | Nordic APIs                      |       3 |          2 |  66.67 |        3    | No        |
-| No Starch Press                  |       3 |          1 |  33.33 |        2    | No        |
+| Pragmatic Bookshelf              |       3 |          1 |  33.33 |        2.33 | No        |
 | Cambridge University Press       |       3 |          2 |  66.67 |        2.33 | No        |
 | Oxford University Press          |       2 |          0 |   0    |        1.5  | No        |
 | MLI                              |       2 |          1 |  50    |        1.5  | No        |
