@@ -96,3 +96,9 @@ ollama serve path:**/Dockerfile
 ```
 language:python path:**/Makefile
 ```
+
+#### Docker: create a container and login into it
+
+```
+docker run -it python:3.12.5-bookworm /bin/bash
+```
