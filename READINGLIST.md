@@ -3,7 +3,7 @@
 |Date|Author|Description|
 |---|---|---|
 |2020-12-22|numbworks|Created.|
-|2025-01-01|numbworks|Last update.|
+|2025-03-11|numbworks|Last update.|
 
 ## Reading List
 
@@ -336,3 +336,5 @@
 |  325 | GitHub Actions in Action                                                                        |   2024 | EN         |     257 | 2024-12-31 | Manning                          | ★★★☆☆    | Development Tools               |
 |  326 | Learning GitHub Actions                                                                         |   2023 | EN         |     573 | 2025-01-01 | O'Reilly                         | ★☆☆☆☆    | Development Tools               |
 |  327 | Gray Hat Python                                                                                 |   2009 | EN         |     220 | 2025-01-01 | No Starch Press                  | ★★★☆☆    | Cybersecurity                   |
+|  328 | DuckDB In Action                                                                                |   2024 | EN         |     314 | 2025-01-21 | Manning                          | ★★★★☆    | Data Analysis, Data Science, ML |
+|  329 | DuckDB Up and Running                                                                           |   2025 | EN         |     308 | 2025-02-23 | O'Reilly                         | ★★☆☆☆    | Data Analysis, Data Science, ML |

@@ -3,7 +3,7 @@
 |Date|Author|Description|
 |---|---|---|
 |2020-12-22|numbworks|Created.|
-|2025-01-01|numbworks|Last update.|
+|2025-03-11|numbworks|Last update.|
 
 ## Reading List By Topic
 
@@ -12,7 +12,7 @@
 | Software Engineering            |      84 |   23837 |         65 |
 | C#                              |      56 |   16449 |         47 |
 | Python                          |      45 |   14270 |         16 |
-| Data Analysis, Data Science, ML |      34 |    8631 |         37 |
+| Data Analysis, Data Science, ML |      36 |    9253 |         37 |
 | BI, Data Warehousing, PowerBI   |      23 |    6805 |         21 |
 | Development Tools               |      17 |    4502 |         10 |
 | Docker                          |      13 |    2004 |          7 |
@@ -36,7 +36,7 @@
 | C#                              | [10, 14, 4, 17, 8, 3, 0, 0, 0, 0]  | ▅▇▃█▄▂▁▁▁▁ |
 | Cloud Vendors                   | [0, 0, 0, 0, 0, 2, 0, 1, 1, 0]     | ▁▁▁▁▁█▁▄▄▁ |
 | Cybersecurity                   | [0, 0, 0, 0, 0, 0, 0, 0, 1, 1]     | ▁▁▁▁▁▁▁▁██ |
-| Data Analysis, Data Science, ML | [5, 5, 8, 5, 2, 0, 1, 6, 2, 0]     | ▅▅█▅▃▁▂▆▃▁ |
+| Data Analysis, Data Science, ML | [5, 5, 8, 5, 2, 0, 1, 6, 2, 2]     | ▅▅█▅▃▁▂▆▃▃ |
 | Development Tools               | [6, 1, 0, 1, 2, 3, 0, 0, 3, 1]     | █▂▁▂▃▄▁▁▄▂ |
 | Docker                          | [0, 1, 9, 0, 0, 2, 0, 0, 1, 0]     | ▁▂█▁▁▃▁▁▂▁ |
 | Electronics, IoT                | [0, 4, 0, 0, 0, 0, 0, 0, 0, 0]     | ▁█▁▁▁▁▁▁▁▁ |

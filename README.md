@@ -77,16 +77,16 @@ The following table summarizes how many technical books I studied since I starte
 
 |   Years |   Books |   Pages | TotalSpend   | LastUpdate   |
 |--------:|--------:|--------:|:-------------|:-------------|
-|      10 |     327 |   90618 | $9773.10     | 2025-01-01   |
+|      10 |     329 |   91240 | $9891.08     | 2025-03-11   |
 
 #### Related Pages
 
-- [READINGLIST.md](READINGLIST.md) <small>(2025-01-01)</small>
-- [READINGLISTBYMONTH.md](READINGLISTBYMONTH.md) <small>(2025-01-01)</small>
-- [READINGLISTBYPUBLISHER.md](READINGLISTBYPUBLISHER.md) <small>(2025-01-01)</small>
-- [READINGLISTBYRATING.md](READINGLISTBYRATING.md) <small>(2025-01-01)</small>
-- [READINGLISTBYTOPIC.md](READINGLISTBYTOPIC.md) <small>(2025-01-01)</small>
-- [TIMETRACKINGBYMONTH.md](TIMETRACKINGBYMONTH.md) <small>(2025-01-01)</small>
+- [READINGLIST.md](READINGLIST.md) <small>(2025-03-11)</small>
+- [READINGLISTBYMONTH.md](READINGLISTBYMONTH.md) <small>(2025-03-11)</small>
+- [READINGLISTBYPUBLISHER.md](READINGLISTBYPUBLISHER.md) <small>(2025-03-11)</small>
+- [READINGLISTBYRATING.md](READINGLISTBYRATING.md) <small>(2025-03-11)</small>
+- [READINGLISTBYTOPIC.md](READINGLISTBYTOPIC.md) <small>(2025-03-11)</small>
+- [TIMETRACKINGBYMONTH.md](TIMETRACKINGBYMONTH.md) <small>(2025-03-11)</small>
 
 ## Self-Improvement Status
 
@@ -96,7 +96,7 @@ The following table summarizes how many technical books I studied since I starte
 
 #### Tech Stack
 
-`C#`, `NET Core`, `NET Standard`, `NUNit`,`SQL Server`, `PowerBi`, `TeamCity`, `Azure DevOps`, `Excel`, `VBA`, `Powershell`, `Ubuntu Server`, `Docker`, `MariaDB`, `NuGet Packages`, `SQLite`, `Proxmox VE`, `Jupyter Notebooks`, `Python 3.x`, `Pandas`, `ollama`, `LLM`, `RAG`.
+`C#`, `NET Core`, `NET Standard`, `NUNit`,`SQL Server`, `PowerBi`, `TeamCity`, `Azure DevOps`, `Excel`, `VBA`, `Powershell`, `Ubuntu Server`, `Docker`, `MariaDB`, `NuGet Packages`, `SQLite`, `Proxmox VE`, `Jupyter Notebooks`, `Python 3.x`, `Pandas`, `ollama`, `LLM`, `RAG`, `DuckDB`.
 
 #### Incoming
 

@@ -3,26 +3,26 @@
 |Date|Author|Description|
 |---|---|---|
 |2020-12-22|numbworks|Created.|
-|2025-01-01|numbworks|Last update.|
+|2025-03-11|numbworks|Last update.|
 
 ## Reading List By Publisher
 
 | Publisher       |   Books |   A4Sheets |    AB% |   AvgRating | IsWorth   |
 |:----------------|--------:|-----------:|-------:|------------:|:----------|
 | Syncfusion      |      38 |         24 |  63.16 |        2.55 | Yes       |
-| Manning         |      19 |         21 | 110.53 |        2.58 | Yes       |
+| Manning         |      20 |         21 | 105    |        2.65 | Yes       |
 | Wiley           |      12 |         23 | 191.67 |        2.33 | Yes       |
 | Microsoft Press |       9 |         11 | 122.22 |        2.22 | Yes       |
 
 | Publisher                        |   Books |   A4Sheets |    AB% |   AvgRating | IsWorth   |
 |:---------------------------------|--------:|-----------:|-------:|------------:|:----------|
 | Packt                            |      47 |         27 |  57.45 |        2.13 | No        |
-| O'Reilly                         |      45 |         33 |  73.33 |        2.09 | No        |
+| O'Reilly                         |      46 |         33 |  71.74 |        2.09 | No        |
 | Syncfusion                       |      38 |         24 |  63.16 |        2.55 | Yes       |
 | Self-Published                   |      38 |         19 |  50    |        2.29 | No        |
 | Apress                           |      28 |         23 |  82.14 |        2.21 | No        |
+| Manning                          |      20 |         21 | 105    |        2.65 | Yes       |
 | Addison-Wesley                   |      19 |         14 |  73.68 |        2.11 | No        |
-| Manning                          |      19 |         21 | 110.53 |        2.58 | Yes       |
 | Wiley                            |      12 |         23 | 191.67 |        2.33 | Yes       |
 | Microsoft Press                  |       9 |         11 | 122.22 |        2.22 | Yes       |
 | Pearson Education                |       5 |          5 | 100    |        3    | No        |
