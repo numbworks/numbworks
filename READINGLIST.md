@@ -3,7 +3,7 @@
 |Date|Author|Description|
 |---|---|---|
 |2020-12-22|numbworks|Created.|
-|2025-03-11|numbworks|Last update.|
+|2025-04-29|numbworks|Last update.|
 
 ## Reading List
 
@@ -338,3 +338,7 @@
 |  327 | Gray Hat Python                                                                                 |   2009 | EN         |     220 | 2025-01-01 | No Starch Press                  | ★★★☆☆    | Cybersecurity                   |
 |  328 | DuckDB In Action                                                                                |   2024 | EN         |     314 | 2025-01-21 | Manning                          | ★★★★☆    | Data Analysis, Data Science, ML |
 |  329 | DuckDB Up and Running                                                                           |   2025 | EN         |     308 | 2025-02-23 | O'Reilly                         | ★★☆☆☆    | Data Analysis, Data Science, ML |
+|  330 | Getting Started with DuckDB                                                                     |   2024 | EN         |     382 | 2025-03-17 | Packt                            | ★★★☆☆    | Data Analysis, Data Science, ML |
+|  331 | RESTful Web API Patterns & Practices Cookbook                                                   |   2023 | EN         |     469 | 2025-03-17 | O'Reilly                         | ★☆☆☆☆    | Software Engineering            |
+|  332 | Getting Real                                                                                    |   2012 | EN         |     135 | 2025-03-18 | Self-Published                   | ★★★★☆    | Software Engineering            |
+|  333 | Practical UI (2nd Edition)                                                                      |   2024 | EN         |     373 | 2025-03-18 | Self-Published                   | ★★★☆☆    | UX/UI                           |

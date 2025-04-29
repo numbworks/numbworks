@@ -3,14 +3,14 @@
 |Date|Author|Description|
 |---|---|---|
 |2020-12-22|numbworks|Created.|
-|2025-03-11|numbworks|Last update.|
+|2025-04-29|numbworks|Last update.|
 
 ## Reading List By Rating
 
 | Rating   |   Books |
 |:---------|--------:|
 | ★★★★★    |      10 |
-| ★★★★☆    |      25 |
-| ★★★☆☆    |      93 |
+| ★★★★☆    |      26 |
+| ★★★☆☆    |      95 |
 | ★★☆☆☆    |     109 |
-| ★☆☆☆☆    |      92 |
+| ★☆☆☆☆    |      93 |
