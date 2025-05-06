@@ -3,7 +3,7 @@
 |Date|Author|Description|
 |---|---|---|
 |2020-12-22|numbworks|Created.|
-|2025-04-29|numbworks|Last update.|
+|2025-05-06|numbworks|Last update.|
 
 ## Reading List
 
@@ -342,3 +342,9 @@
 |  331 | RESTful Web API Patterns & Practices Cookbook                                                   |   2023 | EN         |     469 | 2025-03-17 | O'Reilly                         | ★☆☆☆☆    | Software Engineering            |
 |  332 | Getting Real                                                                                    |   2012 | EN         |     135 | 2025-03-18 | Self-Published                   | ★★★★☆    | Software Engineering            |
 |  333 | Practical UI (2nd Edition)                                                                      |   2024 | EN         |     373 | 2025-03-18 | Self-Published                   | ★★★☆☆    | UX/UI                           |
+|  334 | Software Architecture and Decision-Making                                                       |   2024 | EN         |     286 | 2025-05-05 | Addison-Wesley                   | ★★☆☆☆    | Software Engineering            |
+|  335 | Kickstart Software Design Architecture                                                          |   2024 | EN         |     418 | 2025-05-05 | Orange Education                 | ★★☆☆☆    | Software Engineering            |
+|  336 | Principles of Software Architecture Modernization                                               |   2024 | EN         |     611 | 2025-05-05 | BPB Publications                 | ★★☆☆☆    | Software Engineering            |
+|  337 | Product Management 101 Playbook                                                                 |   2024 | EN         |      55 | 2025-05-05 | Self-Published                   | ★★☆☆☆    | Product Management              |
+|  338 | Software Engineering At Google                                                                  |   2020 | EN         |     602 | 2025-05-06 | O'Reilly                         | ★☆☆☆☆    | Software Engineering            |
+|  339 | Why Programs Fail (2nd Edition)                                                                 |   2009 | EN         |     388 | 2025-05-06 | Morgan Kaufmann                  | ★☆☆☆☆    | Software Engineering            |

@@ -3,20 +3,20 @@
 |Date|Author|Description|
 |---|---|---|
 |2020-12-22|numbworks|Created.|
-|2025-04-29|numbworks|Last update.|
+|2025-05-06|numbworks|Last update.|
 
 ## Reading List By Topic
 
 | Topic                           |   Books |   Pages |   A4Sheets |
 |:--------------------------------|--------:|--------:|-----------:|
-| Software Engineering            |      86 |   24441 |         70 |
+| Software Engineering            |      91 |   26746 |         71 |
 | C#                              |      56 |   16449 |         44 |
 | Python                          |      45 |   14270 |         20 |
 | Data Analysis, Data Science, ML |      37 |    9635 |         39 |
 | BI, Data Warehousing, PowerBI   |      23 |    6805 |         21 |
 | Development Tools               |      17 |    4502 |         11 |
 | Docker                          |      13 |    2004 |          7 |
-| Product Management              |      12 |    4003 |          8 |
+| Product Management              |      13 |    4058 |          8 |
 | SQL Server                      |       7 |    1955 |          4 |
 | Entrepreneurship, Learning      |       6 |    1079 |          3 |
 | AI                              |       5 |    1332 |          5 |
@@ -46,9 +46,9 @@
 | Linux                           | [0, 0, 0, 1, 0, 0, 0, 0, 2, 0]     | ▁▁▁▄▁▁▁▁█▁ |
 | MariaDB                         | [0, 0, 4, 0, 0, 0, 0, 0, 0, 0]     | ▁▁█▁▁▁▁▁▁▁ |
 | Powershell                      | [0, 1, 0, 0, 3, 0, 0, 0, 0, 0]     | ▁▃▁▁█▁▁▁▁▁ |
-| Product Management              | [0, 0, 0, 0, 1, 0, 0, 0, 11, 0]    | ▁▁▁▁▂▁▁▁█▁ |
+| Product Management              | [0, 0, 0, 0, 1, 0, 0, 0, 11, 1]    | ▁▁▁▁▂▁▁▁█▂ |
 | Python                          | [1, 1, 0, 0, 1, 2, 0, 13, 27, 0]   | ▁▁▁▁▁▂▁▄█▁ |
 | Regular Expressions             | [0, 2, 0, 0, 0, 0, 0, 0, 0, 0]     | ▁█▁▁▁▁▁▁▁▁ |
 | SQL Server                      | [0, 2, 2, 2, 0, 1, 0, 0, 0, 0]     | ▁███▁▄▁▁▁▁ |
-| Software Engineering            | [21, 27, 12, 5, 2, 0, 0, 4, 13, 2] | ▆█▄▂▂▁▁▂▄▂ |
+| Software Engineering            | [21, 27, 12, 5, 2, 0, 0, 4, 13, 7] | ▆█▄▂▂▁▁▂▄▃ |
 | UX/UI                           | [0, 0, 0, 0, 0, 0, 0, 0, 0, 1]     | ▁▁▁▁▁▁▁▁▁█ |

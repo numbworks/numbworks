@@ -55,15 +55,20 @@ Intended to showcase my approach to solve specific data analysis problems:
 |---|---|---|---|---|---|---|
 | [nwtimetracking](https://github.com/numbworks/nwtimetracking) | 223 h | <ul><li>[README](https://github.com/numbworks/nwtimetracking/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwtimetracking/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwtimetracking/blob/master/docs/docs-nwtimetracking.md)</li> <li>[Issues](https://github.com/numbworks/nwtimetracking/issues)</li> <li>[Releases](https://github.com/numbworks/nwtimetracking/releases)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwtimetracking/master/codecoverage.svg) | [5.0.1](https://github.com/numbworks/nwtimetracking/releases/tag/v5.0.1) | 2025-01-06 |
 | [nwreadinglist](https://github.com/numbworks/nwreadinglist) | 151 h | <ul><li>[README](https://github.com/numbworks/nwreadinglist/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwreadinglist/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwreadinglist/blob/master/docs/docs-nwreadinglist.md)</li> <li>[Issues](https://github.com/numbworks/nwreadinglist/issues)</li> <li>[Releases](https://github.com/numbworks/nwreadinglist/releases)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwreadinglist/master/codecoverage.svg) | [4.2.0](https://github.com/numbworks/nwreadinglist/releases/tag/v4.2.0) | 2024-12-09 |
-| nwtraderaanalytics ** | 255 h | | MIT | | 4.5.0 | 2024-12-15 |
-
-[**] Projects that are not public yet.
 
 #### Other Projects
 
 | Repository | Type | Quick Links | License | Last Update |
 |---|---|---|---|---|
 | [i3_eink_config](https://github.com/numbworks/i3_eink_config) | Configuration File | [README](https://github.com/numbworks/i3_eink_config/blob/master/README.md) | MIT | 2020-12-22 |
+
+#### Projects that are not public yet
+
+| Repository | Tech Stack | Effort |
+|---|---|---|
+| nwtraderaanalytics | Python | 255 h |
+| nwapolloanalytics | DuckDb | 173 h |
+| nwknowledgebase | Asciidoc | 40 h |
 
 #### Related Pages
 
@@ -77,16 +82,16 @@ The following table summarizes how many technical books I studied since I starte
 
 |   Years |   Books |   Pages | TotalSpend   | LastUpdate   |
 |--------:|--------:|--------:|:-------------|:-------------|
-|      10 |     333 |   92599 | $10091.06    | 2025-04-29   |
+|      10 |     339 |   94959 | $10344.89    | 2025-05-06   |
 
 #### Related Pages
 
-- [READINGLIST.md](READINGLIST.md) <small>(2025-04-29)</small>
-- [READINGLISTBYMONTH.md](READINGLISTBYMONTH.md) <small>(2025-04-29)</small>
-- [READINGLISTBYPUBLISHER.md](READINGLISTBYPUBLISHER.md) <small>(2025-04-29)</small>
-- [READINGLISTBYRATING.md](READINGLISTBYRATING.md) <small>(2025-04-29)</small>
-- [READINGLISTBYTOPIC.md](READINGLISTBYTOPIC.md) <small>(2025-04-29)</small>
-- [TIMETRACKINGBYMONTH.md](TIMETRACKINGBYMONTH.md) <small>(2025-04-29)</small>
+- [READINGLIST.md](READINGLIST.md) <small>(2025-05-06)</small>
+- [READINGLISTBYMONTH.md](READINGLISTBYMONTH.md) <small>(2025-05-06)</small>
+- [READINGLISTBYPUBLISHER.md](READINGLISTBYPUBLISHER.md) <small>(2025-05-06)</small>
+- [READINGLISTBYRATING.md](READINGLISTBYRATING.md) <small>(2025-05-06)</small>
+- [READINGLISTBYTOPIC.md](READINGLISTBYTOPIC.md) <small>(2025-05-06)</small>
+- [TIMETRACKINGBYMONTH.md](TIMETRACKINGBYMONTH.md) <small>(2025-05-06)</small>
 
 ## Self-Improvement Status
 
