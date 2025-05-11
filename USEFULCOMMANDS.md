@@ -25,6 +25,69 @@ sudo dpkg -i dropbox-*.deb
 sudo apt install -f
 ```
 
+#### Devcontainer.json mount points
+
+Windows:
+```json
+...
+"mounts": [
+        "source=${localEnv:USERPROFILE}/Desktop/nwtimetracking/,target=/home/nwtimetracking/,type=bind,consistency=cached"
+    ]
+...
+```
+
+Linux:
+```json
+...
+"mounts": [
+        "source=${localEnv:HOME}/Documents/nwtimetracking,target=/home/nwtimetracking/,type=bind,consistency=cached"
+    ]
+...
+```
+
+#### Docker: create a container and login into it
+
+```
+docker run -it python:3.12.5-bookworm /bin/bash
+```
+
+Alternative approach:
+
+1. create a Dockerfile with the following content: `FROM python:3.12.5-bookworm`
+2. `docker build -t python3125 .`
+3. `docker run -i -t python3125 bash`
+
+#### Git: add username and email to global configs
+
+```sh
+git config --global user.name "numbworks"
+git config --global user.email "numbworks@gmail.com"
+```
+
+#### Git: push code to a repository created afterwards
+
+```sh
+git push --set-upstream origin master -f
+```
+
+#### Git: set the name of the default branch
+
+```sh
+git config --global init.defaultBranch master
+```
+
+#### Github Search: specific commands inside Dockerfiles
+
+```
+ollama serve path:**/Dockerfile
+```
+
+#### Github Search: specific file names by repository language
+
+```
+language:python path:**/Makefile
+```
+
 #### Windows 10: disable Powerhell's auto-completion
 
 ```powershell
@@ -65,46 +128,3 @@ net start LxssManager
 powercfg -h off
 powercfg -h on
 ```
-
-#### Git: add username and email to global configs
-
-```sh
-git config --global user.name "numbworks"
-git config --global user.email "numbworks@gmail.com"
-```
-
-#### Git: push code to a repository created afterwards
-
-```sh
-git push --set-upstream origin master -f
-```
-
-#### Git: set the name of the default branch
-
-```sh
-git config --global init.defaultBranch master
-```
-
-#### Github Search: specific commands inside Dockerfiles
-
-```
-ollama serve path:**/Dockerfile
-```
-
-#### Github Search: specific file names by repository language
-
-```
-language:python path:**/Makefile
-```
-
-#### Docker: create a container and login into it
-
-```
-docker run -it python:3.12.5-bookworm /bin/bash
-```
-
-Alternative approach:
-
-1. create a Dockerfile with the following content: `FROM python:3.12.5-bookworm`
-2. `docker build -t python3125 .`
-3. `docker run -i -t python3125 bash`
