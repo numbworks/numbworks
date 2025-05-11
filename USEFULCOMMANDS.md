@@ -102,3 +102,9 @@ language:python path:**/Makefile
 ```
 docker run -it python:3.12.5-bookworm /bin/bash
 ```
+
+Alternative approach:
+
+1. create a Dockerfile with the following content: `FROM python:3.12.5-bookworm`
+2. `docker build -t python3125 .`
+3. `docker run -i -t python3125 bash`
