@@ -28,30 +28,30 @@ sudo apt install -f
 #### Devcontainer.json mount points
 
 Windows:
-```json
-# ...
+```
+...
 "mounts": [
         "source=${localEnv:USERPROFILE}/Desktop/nwtimetracking/,target=/home/nwtimetracking/,type=bind,consistency=cached"
     ]
-# ...
+...
 ```
 
 Linux:
-```json
-# ...
+```
+...
 "mounts": [
         "source=${localEnv:HOME}/Documents/nwtimetracking,target=/home/nwtimetracking/,type=bind,consistency=cached"
     ]
-# ...
+...
 ```
 
 Windows/Linux:
-```json
-# ...
+```
+...
 "mounts": [
         "source=${localEnv:USERPROFILE}{localEnv:HOME}/Desktop/nwtimetracking/,target=/home/nwtimetracking/,type=bind,consistency=cached"
     ]
-# ...
+...
 ```
 
 #### Docker: create a container and login into it
