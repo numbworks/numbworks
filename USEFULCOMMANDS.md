@@ -29,23 +29,34 @@ sudo apt install -f
 
 Windows:
 ```json
-...
+# ...
 "mounts": [
         "source=${localEnv:USERPROFILE}/Desktop/nwtimetracking/,target=/home/nwtimetracking/,type=bind,consistency=cached"
     ]
-...
+# ...
 ```
 
 Linux:
 ```json
-...
+# ...
 "mounts": [
         "source=${localEnv:HOME}/Documents/nwtimetracking,target=/home/nwtimetracking/,type=bind,consistency=cached"
     ]
-...
+# ...
+```
+
+Windows/Linux:
+```json
+# ...
+"mounts": [
+        "source=${localEnv:USERPROFILE}{localEnv:HOME}/Desktop/nwtimetracking/,target=/home/nwtimetracking/,type=bind,consistency=cached"
+    ]
+# ...
 ```
 
 #### Docker: create a container and login into it
+
+One-liner:
 
 ```
 docker run -it python:3.12.5-bookworm /bin/bash
@@ -53,9 +64,21 @@ docker run -it python:3.12.5-bookworm /bin/bash
 
 Alternative approach:
 
-1. create a Dockerfile with the following content: `FROM python:3.12.5-bookworm`
+1. create a Dockerfile with the following content: 
+    
+```
+FROM python:3.12.5-bookworm
+
+# additional stuff
+```
+
 2. `docker build -t python3125 .`
 3. `docker run -i -t python3125 bash`
+
+To mount the host machine's `Desktop` folder in the container:
+
+- Linux: `docker run -i -t -v ~/Desktop:/Desktop python3125 bash`
+- Windows: `docker run -i -t -v "$env:USERPROFILE\Desktop:/Desktop" python3125 bash`
 
 #### Git: add username and email to global configs
 
