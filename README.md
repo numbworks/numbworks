@@ -66,7 +66,7 @@ Intended to showcase my approach to solve specific data analysis problems:
 
 | Repository | Tech Stack | Effort |
 |---|---|---|
-| nwtraderaanalytics | Python | 255 h |
+| nwtraderaanalytics | Python | 261 h |
 | nwapolloanalytics | DuckDb | 173 h |
 | nwknowledgebase | Asciidoc | 40 h |
 
