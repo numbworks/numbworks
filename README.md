@@ -45,7 +45,7 @@ Intended for multiple use cases.
 | [nwdocstringchecking (**)](https://github.com/numbworks/nwdocstringchecking) | 5 h | <ul><li>[README](https://github.com/numbworks/nwdocstringchecking/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwdocstringchecking/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwdocstringchecking/blob/master/docs/docs-nwdocstringchecking.md)</li> <li>[Issues](https://github.com/numbworks/nwdocstringchecking/issues)</li> <li>[Releases](https://github.com/numbworks/nwdocstringchecking/releases)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwdocstringchecking/master/codecoverage.svg) | [1.0.0](https://github.com/numbworks/nwdocstringchecking/releases/tag/v1.0.0) | 2025-05-19 |
 
 (*) This library encapsulates logic shared by other libraries and may not be immediately useful to a general audience in its current form.
-(**) To install this package, you can use `pip install` against [numbworks.github.io](https://numbworks.github.io) (my own Python Package Index).
+(**) To install this package, you can also use `pip install` against [numbworks.github.io](https://numbworks.github.io) (my own Python Package Index).
 
 ### Other Projects
 
