@@ -10,7 +10,7 @@ Contact: [Email](mailto:numbworks@gmail.com) | [Facebook](https://www.facebook.c
 
 ## Development
 
-#### C# → Libraries
+### C# → Libraries
 
 Intended for other developers who want to integrate my software in their own software.
 
@@ -23,7 +23,7 @@ Intended for other developers who want to integrate my software in their own sof
 | [NW.Shared.Serialization (*)](https://github.com/numbworks/NW.Shared.Serialization) | 4 h | <ul><li>[README](https://github.com/numbworks/NW.Shared.Serialization/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/NW.Shared.Serialization/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/NW.Shared.Serialization/blob/master/docs/Documentation-NW.Shared.Serialization.md)</li> <li>[Issues](https://github.com/numbworks/NW.Shared.Serialization/issues)</li> <li>[Releases](https://github.com/numbworks/NW.Shared.Serialization/releases)</li></ul> | MIT | ![codecoverage_library.svg](https://raw.githubusercontent.com/numbworks/NW.Shared.Serialization/master/codecoverage_library.svg) | [1.0.0](https://www.nuget.org/packages/NW.Shared.Serialization/1.0.0) | 2024-02-13 |
 | [NW.Shared.Validation (*)](https://github.com/numbworks/NW.Shared.Validation) | 3 h | <ul><li>[README](https://github.com/numbworks/NW.Shared.Validation/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/NW.Shared.Validation/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/NW.Shared.Validation/blob/master/docs/Documentation-NW.Shared.Validation.md)</li> <li>[Issues](https://github.com/numbworks/NW.Shared.Validation/issues)</li> <li>[Releases](https://github.com/numbworks/NW.Shared.Validation/releases)</li></ul> | MIT | ![codecoverage_library.svg](https://raw.githubusercontent.com/numbworks/NW.Shared.Validation/master/codecoverage_library.svg) | [1.0.0](https://www.nuget.org/packages/NW.Shared.Validation/1.0.0) | 2024-02-10 |
 
-#### C# → CLI Applications
+### C# → CLI Applications
 
 Intended for data analysts who want to use my libraries thru a command-line interface.
 
@@ -32,7 +32,7 @@ Intended for data analysts who want to use my libraries thru a command-line inte
 | [NW.UnivariateForecastingClient](https://github.com/numbworks/NW.UnivariateForecasting) | [Documentation](https://github.com/numbworks/NW.UnivariateForecasting/blob/master/docs/Documentation-NW.UnivariateForecastingClient.md)| MIT | ![codecoverage_client.svg](https://raw.githubusercontent.com/numbworks/NW.UnivariateForecasting/master/codecoverage_client.svg) | [4.2.0](https://github.com/numbworks/NW.UnivariateForecasting/releases/tag/v4.2.0) |
 | [NW.NGramTextClassificationClient](https://github.com/numbworks/NW.NGramTextClassification) | [Documentation](https://github.com/numbworks/NW.NGramTextClassification/blob/master/docs/Documentation-NW.NGramTextClassificationClient.md)| MIT | ![codecoverage_client.svg](https://raw.githubusercontent.com/numbworks/NW.NGramTextClassification/master/codecoverage_client.svg) | [4.2.0](https://github.com/numbworks/NW.NGramTextClassification/releases/tag/v4.2.0) |
 
-#### Python → Libraries / CLI Applications / Jupyter Notebooks
+### Python → Libraries / CLI Applications / Jupyter Notebooks
 
 Intended for multiple use cases.
 
@@ -47,13 +47,13 @@ Intended for multiple use cases.
 (*) This library encapsulates logic shared by other libraries and may not be immediately useful to a general audience in its current form.
 (**) To install this package, you can use `pip install` against [numbworks.github.io](https://numbworks.github.io) (my own Python Package Index).
 
-## Other Projects
+### Other Projects
 
 | Repository | Type | Quick Links | License | Last Update |
 |---|---|---|---|---|
 | [i3_eink_config](https://github.com/numbworks/i3_eink_config) | Configuration File | [README](https://github.com/numbworks/i3_eink_config/blob/master/README.md) | MIT | 2020-12-22 |
 
-## Projects that are not public yet
+### Projects that are not public yet
 
 | Repository | Tech Stack | Effort |
 |---|---|---|
