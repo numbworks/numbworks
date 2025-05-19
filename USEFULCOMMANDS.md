@@ -90,6 +90,7 @@ git config --global user.email "numbworks@gmail.com"
 #### Git: push code to a repository created afterwards
 
 ```sh
+git remote add origin <url>
 git push --set-upstream origin master -f
 ```
 
