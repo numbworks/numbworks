@@ -58,7 +58,7 @@ Windows/Linux:
 
 One-liner:
 
-```
+```sh
 docker run -it python:3.12.5-bookworm /bin/bash
 ```
 
@@ -79,6 +79,13 @@ To mount the host machine's `Desktop` folder in the container:
 
 - Linux: `docker run -i -t -v ~/Desktop:/Desktop python3125 bash`
 - Windows: `docker run -i -t -v "$env:USERPROFILE\Desktop:/Desktop" python3125 bash`
+
+#### Docker: copy file out of a container
+
+```sh
+docker ps
+docker cp 3b5bed64efea:/home/nwcommitaverages/nwcommitaverages_1.0.0_all.deb "C:\Users\Rubèn\Desktop\"
+```
 
 #### Git: add username and email to global configs
 
