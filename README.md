@@ -56,11 +56,11 @@ Intended for multiple use cases.
 
 ### Projects that are not public yet
 
-| Repository | Tech Stack | Effort |
-|---|---|---|
-| nwtraderaanalytics | Python | 261 h |
-| nwapolloanalytics | DuckDb | 173 h |
-| nwknowledgebase | Asciidoc | 40 h |
+| Repository | Version | Tech Stack | Effort |
+|---|---|---|---|
+| nwtraderaanalytics | v4.5.2 | Python | 262 h |
+| nwapolloanalytics | v1.0.0 | DuckDb | 173 h |
+| nwknowledgebase | v1.0.0 | Asciidoc | 40 h |
 
 ## Related Pages
 
