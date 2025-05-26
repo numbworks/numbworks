@@ -3,7 +3,7 @@
 |Date|Author|Description|
 |---|---|---|
 |2020-12-22|numbworks|Created.|
-|2025-05-06|numbworks|Last update.|
+|2025-05-26|numbworks|Last update.|
 
 ## Time Tracking By Month
 
@@ -58,7 +58,7 @@
 |       2 | 77h 45m  | ↓   | 74h 00m  |
 |       3 | 77h 45m  | ↓   | 38h 15m  |
 |       4 | 29h 30m  | ↑   | 103h 00m |
-|       5 | 43h 00m  | ↓   | 07h 00m  |
+|       5 | 43h 00m  | ↑   | 81h 45m  |
 |       6 | 48h 00m  |     |          |
 |       7 | 67h 00m  |     |          |
 |       8 | 32h 45m  |     |          |

@@ -3,7 +3,7 @@
 |Date|Author|Description|
 |---|---|---|
 |2020-12-22|numbworks|Created.|
-|2025-05-06|numbworks|Last update.|
+|2025-05-26|numbworks|Last update.|
 
 ## Reading List By Publisher
 
@@ -16,9 +16,9 @@
 
 | Publisher                        |   Books |   A4Sheets |    AB% |   AvgRating | IsWorth   |
 |:---------------------------------|--------:|-----------:|-------:|------------:|:----------|
-| Packt                            |      48 |         33 |  68.75 |        2.15 | No        |
+| Packt                            |      49 |         33 |  67.35 |        2.12 | No        |
 | O'Reilly                         |      48 |         35 |  72.92 |        2.04 | No        |
-| Self-Published                   |      41 |         24 |  58.54 |        2.34 | No        |
+| Self-Published                   |      42 |         24 |  57.14 |        2.31 | No        |
 | Syncfusion                       |      38 |         24 |  63.16 |        2.55 | Yes       |
 | Apress                           |      28 |         24 |  85.71 |        2.21 | No        |
 | Addison-Wesley                   |      20 |         15 |  75    |        2.1  | No        |
@@ -30,7 +30,7 @@
 | Prentice Hall                    |       4 |          3 |  75    |        2.25 | No        |
 | Pragmatic Bookshelf              |       3 |          1 |  33.33 |        2.33 | No        |
 | Nordic APIs                      |       3 |          2 |  66.67 |        3    | No        |
-| Morgan Kaufmann                  |       3 |          2 |  66.67 |        2.33 | No        |
+| Morgan Kaufmann                  |       3 |          3 | 100    |        2.33 | No        |
 | BPB Publications                 |       3 |          2 |  66.67 |        2.33 | No        |
 | Cambridge University Press       |       3 |          2 |  66.67 |        2.33 | No        |
 | Wrox                             |       3 |          2 |  66.67 |        2.33 | No        |

@@ -3,7 +3,7 @@
 |Date|Author|Description|
 |---|---|---|
 |2020-12-22|numbworks|Created.|
-|2025-05-06|numbworks|Last update.|
+|2025-05-26|numbworks|Last update.|
 
 ## Reading List
 
@@ -348,3 +348,5 @@
 |  337 | Product Management 101 Playbook                                                                 |   2024 | EN         |      55 | 2025-05-05 | Self-Published                   | ★★☆☆☆    | Product Management              |
 |  338 | Software Engineering At Google                                                                  |   2020 | EN         |     602 | 2025-05-06 | O'Reilly                         | ★☆☆☆☆    | Software Engineering            |
 |  339 | Why Programs Fail (2nd Edition)                                                                 |   2009 | EN         |     388 | 2025-05-06 | Morgan Kaufmann                  | ★☆☆☆☆    | Software Engineering            |
+|  340 | Getting Started with an Antinet Zettelkasten                                                    |   2023 | EN         |      63 | 2025-05-15 | Self-Published                   | ★☆☆☆☆    | Entrepreneurship, Learning      |
+|  341 | Web App Development Made Simple with Streamlit                                                  |   2024 | EN         |     350 | 2025-05-16 | Packt                            | ★☆☆☆☆    | Python                          |
