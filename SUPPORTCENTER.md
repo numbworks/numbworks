@@ -4,9 +4,13 @@
 |---|---|---|
 | 2024-08-12 | numbworks | Created. |
 
-## Useful Commands
+## Overview
 
-This document collects in one place all the useful commands that I (unfortunately) need to type often.
+This document helps me streamlining my daily operations.
+
+## Commands
+
+This paragraph collects in one place all the useful commands that I (unfortunately) need to type often.
 
 #### Debian 12: install RustDesk
 

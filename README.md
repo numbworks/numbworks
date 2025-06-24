@@ -38,9 +38,9 @@ Intended for multiple use cases.
 
 | Repository | Effort | Quick Links | License | Tests | Download | Last Update |
 |---|---|---|---|---|---|---|
-| [nwtimetracking (**)](https://github.com/numbworks/nwtimetracking) | 225 h | <ul><li>[README](https://github.com/numbworks/nwtimetracking/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwtimetracking/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwtimetracking/blob/master/docs/docs-nwtimetracking.md)</li> <li>[Issues](https://github.com/numbworks/nwtimetracking/issues)</li> <li>[Releases](https://github.com/numbworks/nwtimetracking/releases)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwtimetracking/master/codecoverage.svg) | [5.0.2](https://github.com/numbworks/nwtimetracking/releases/tag/v5.0.2) | 2025-05-26 |
-| [nwreadinglist (**)](https://github.com/numbworks/nwreadinglist) | 158 h | <ul><li>[README](https://github.com/numbworks/nwreadinglist/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwreadinglist/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwreadinglist/blob/master/docs/docs-nwreadinglist.md)</li> <li>[Issues](https://github.com/numbworks/nwreadinglist/issues)</li> <li>[Releases](https://github.com/numbworks/nwreadinglist/releases)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwreadinglist/master/codecoverage.svg) | [4.3.2](https://github.com/numbworks/nwreadinglist/releases/tag/v4.3.2) | 2025-05-26 |
-| [nwpackageversions (**)](https://github.com/numbworks/nwpackageversions) | 53 h | <ul><li>[README](https://github.com/numbworks/nwpackageversions/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwpackageversions/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwpackageversions/blob/master/docs/docs-nwpackageversions.md)</li> <li>[Issues](https://github.com/numbworks/nwpackageversions/issues)</li> <li>[Releases](https://github.com/numbworks/nwpackageversions/releases)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwpackageversions/master/codecoverage.svg) | [1.8.2](https://github.com/numbworks/nwpackageversions/releases/tag/v1.8.2) | 2025-05-26 |
+| [nwtimetracking (**)](https://github.com/numbworks/nwtimetracking) | 226 h | <ul><li>[README](https://github.com/numbworks/nwtimetracking/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwtimetracking/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwtimetracking/blob/master/docs/docs-nwtimetracking.md)</li> <li>[Issues](https://github.com/numbworks/nwtimetracking/issues)</li> <li>[Releases](https://github.com/numbworks/nwtimetracking/releases)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwtimetracking/master/codecoverage.svg) | [5.0.2](https://github.com/numbworks/nwtimetracking/releases/tag/v5.0.2) | 2025-05-26 |
+| [nwreadinglist (**)](https://github.com/numbworks/nwreadinglist) | 159 h | <ul><li>[README](https://github.com/numbworks/nwreadinglist/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwreadinglist/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwreadinglist/blob/master/docs/docs-nwreadinglist.md)</li> <li>[Issues](https://github.com/numbworks/nwreadinglist/issues)</li> <li>[Releases](https://github.com/numbworks/nwreadinglist/releases)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwreadinglist/master/codecoverage.svg) | [4.3.2](https://github.com/numbworks/nwreadinglist/releases/tag/v4.3.2) | 2025-05-26 |
+| [nwpackageversions (**)](https://github.com/numbworks/nwpackageversions) | 56 h | <ul><li>[README](https://github.com/numbworks/nwpackageversions/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwpackageversions/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwpackageversions/blob/master/docs/docs-nwpackageversions.md)</li> <li>[Issues](https://github.com/numbworks/nwpackageversions/issues)</li> <li>[Releases](https://github.com/numbworks/nwpackageversions/releases)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwpackageversions/master/codecoverage.svg) | [1.8.2](https://github.com/numbworks/nwpackageversions/releases/tag/v1.8.2) | 2025-05-26 |
 | [nwshared (*)(**)](https://github.com/numbworks/nwshared) | 47 h | <ul><li>[README](https://github.com/numbworks/nwshared/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwshared/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwshared/blob/master/docs/docs-nwshared.md)</li> <li>[Issues](https://github.com/numbworks/nwshared/issues)</li> <li>[Releases](https://github.com/numbworks/nwshared/releases)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwshared/master/codecoverage.svg) | [1.8.2](https://github.com/numbworks/nwshared/releases/tag/v1.8.2) | 2025-05-26 |
 | [nwcommitaverages (**)](https://github.com/numbworks/nwcommitaverages) | 10 h | <ul><li>[README](https://github.com/numbworks/nwcommitaverages/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwcommitaverages/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwcommitaverages/blob/master/docs/docs-nwcommitaverages.md)</li> <li>[Issues](https://github.com/numbworks/nwcommitaverages/issues)</li> <li>[Releases](https://github.com/numbworks/nwcommitaverages/releases)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwcommitaverages/master/codecoverage.svg) | [1.0.0](https://github.com/numbworks/nwcommitaverages/releases/tag/v1.0.0) | 2025-05-20 |
 | [nwdocstringchecking (**)](https://github.com/numbworks/nwdocstringchecking) | 5 h | <ul><li>[README](https://github.com/numbworks/nwdocstringchecking/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwdocstringchecking/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwdocstringchecking/blob/master/docs/docs-nwdocstringchecking.md)</li> <li>[Issues](https://github.com/numbworks/nwdocstringchecking/issues)</li> <li>[Releases](https://github.com/numbworks/nwdocstringchecking/releases)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwdocstringchecking/master/codecoverage.svg) | [1.0.0](https://github.com/numbworks/nwdocstringchecking/releases/tag/v1.0.0) | 2025-05-19 |
@@ -59,14 +59,16 @@ Intended for multiple use cases.
 | Repository | Version | Tech Stack | Effort |
 |---|---|---|---|
 | nwtraderaanalytics | v4.5.2 | Python | 262 h |
-| nwapolloanalytics | v1.0.0 | DuckDb | 173 h |
+| nwapolloanalytics | v1.0.0 | DuckDb | 192 h |
+| nwdatamarkadanalytics | v1.0.0 | Python | 41 h |
 | nwknowledgebase | v1.0.0 | Asciidoc | 40 h |
+| nwbuild | v1.0.0 | Python | 26 h |
 
 ## Related Pages
 
 - [CONTRIBUTIONGUIDEFORCSHARP.md](CONTRIBUTIONGUIDEFORCSHARP.md)
 - [FRAMEWORKFREEZE.md](FRAMEWORKFREEZE.md)
-- [USEFULCOMMANDS.md](USEFULCOMMANDS.md)
+- [SUPPORTCENTER.md](SUPPORTCENTER.md)
 
 ## Continuous Learning
 
@@ -74,27 +76,27 @@ The following table summarizes how many technical books I studied since I starte
 
 |   Years |   Books |   Pages | TotalSpend   | LastUpdate   |
 |--------:|--------:|--------:|:-------------|:-------------|
-|      10 |     341 |   95372 | $10384.88    | 2025-05-26   |
+|      10 |     347 |   96868 | $10656.74    | 2025-06-24   |
 
 ## Related Pages
 
-- [READINGLIST.md](READINGLIST.md) <small>(2025-05-26)</small>
-- [READINGLISTBYMONTH.md](READINGLISTBYMONTH.md) <small>(2025-05-26)</small>
-- [READINGLISTBYPUBLISHER.md](READINGLISTBYPUBLISHER.md) <small>(2025-05-26)</small>
-- [READINGLISTBYRATING.md](READINGLISTBYRATING.md) <small>(2025-05-26)</small>
-- [READINGLISTBYTOPIC.md](READINGLISTBYTOPIC.md) <small>(2025-05-26)</small>
-- [TIMETRACKINGBYMONTH.md](TIMETRACKINGBYMONTH.md) <small>(2025-05-26)</small>
+- [READINGLIST.md](READINGLIST.md) <small>(2025-06-24)</small>
+- [READINGLISTBYMONTH.md](READINGLISTBYMONTH.md) <small>(2025-06-24)</small>
+- [READINGLISTBYPUBLISHER.md](READINGLISTBYPUBLISHER.md) <small>(2025-06-24)</small>
+- [READINGLISTBYRATING.md](READINGLISTBYRATING.md) <small>(2025-06-24)</small>
+- [READINGLISTBYTOPIC.md](READINGLISTBYTOPIC.md) <small>(2025-06-24)</small>
+- [TIMETRACKINGBYMONTH.md](TIMETRACKINGBYMONTH.md) <small>(2025-06-24)</small>
 
 ## Self-Improvement Status
 
 #### Areas of Expertise
 
-`Data`, `Databases`, `Development`, `Software Usability`, `Clean Software Architecture`, `Clean Code`, `Design Patterns`, `(Parametric) Unit Testing`, `OOP`, `Dependency Injection`, `Single Responsability Principle`, `Console Applications`, `Services`, `CLIs`,`CI/CD`, `(Web) Scraping`, `REST APIs`, `Business Analysis`, `ETL Process`, `Star Schema`, `Data Warehouses`, `Product Management`, `Prompt Engineering`, `Automated documentation workflows`.
+`Data`, `Data Analytics`, `Data Science`, `Machine Learning`, `Databases`, `Development`, `Software Usability`, `Clean Software Architecture`, `Clean Code`, `Design Patterns`, `(Parametric) Unit Testing`, `OOP`, `Dependency Injection`, `Single Responsability Principle`, `Console Applications`, `Services`, `CLIs`,`CI/CD`, `(Web) Scraping`, `REST APIs`, `Business Analysis`, `ETL Process`, `Star Schema`, `Data Warehouses`, `Product Management`, `Prompt Engineering`, `Automated documentation workflows`.
 
 #### Tech Stack
 
-`C#`, `NET Core`, `NET Standard`, `NUNit`,`SQL Server`, `PowerBi`, `TeamCity`, `Azure DevOps`, `Excel`, `VBA`, `Powershell`, `Ubuntu Server`, `Docker`, `MariaDB`, `NuGet Packages`, `SQLite`, `Proxmox VE`, `Jupyter Notebooks`, `Python 3.x`, `Pandas`, `ollama`, `LLM`, `RAG`, `DuckDB`, `AsciiDoc`.
+`C#`, `NET Core`, `NET Standard`, `NUNit`,`SQL Server`, `PowerBi`, `TeamCity`, `Azure DevOps`, `Excel`, `VBA`, `Powershell`, `Ubuntu Server`, `Docker`, `MariaDB`, `NuGet Packages`, `SQLite`, `Proxmox VE`, `Jupyter Notebooks`, `Python 3.x`, `Pandas`, `ollama`, `LLM`, `RAG`, `DuckDB`, `AsciiDoc`, `Python Packages`.
 
 #### Incoming
 
-`Python Packages`, `Data Science`, `Machine Learning`, `Postgresql`, `Time-Series Analysis`, `Sensor Data`, `AWS Architecture`.
+`Postgresql`, `Time-Series Analysis`, `AWS Architecture`, `Dotfiles`.

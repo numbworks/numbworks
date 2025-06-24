@@ -3,7 +3,7 @@
 |Date|Author|Description|
 |---|---|---|
 |2020-12-22|numbworks|Created.|
-|2025-05-26|numbworks|Last update.|
+|2025-06-24|numbworks|Last update.|
 
 ## Reading List
 
@@ -350,3 +350,9 @@
 |  339 | Why Programs Fail (2nd Edition)                                                                 |   2009 | EN         |     388 | 2025-05-06 | Morgan Kaufmann                  | ★☆☆☆☆    | Software Engineering            |
 |  340 | Getting Started with an Antinet Zettelkasten                                                    |   2023 | EN         |      63 | 2025-05-15 | Self-Published                   | ★☆☆☆☆    | Entrepreneurship, Learning      |
 |  341 | Web App Development Made Simple with Streamlit                                                  |   2024 | EN         |     350 | 2025-05-16 | Packt                            | ★☆☆☆☆    | Python                          |
+|  342 | UX Fundamentals for Non-UX Professionals                                                        |   2018 | EN         |     331 | 2025-05-29 | Apress                           | ★★☆☆☆    | UX/UI                           |
+|  343 | Web Automation Testing Using Playwright                                                         |   2025 | EN         |     433 | 2025-05-30 | BPB Publications                 | ★★☆☆☆    | Software Engineering            |
+|  344 | Colorwise                                                                                       |   2023 | EN         |     168 | 2025-05-30 | O'Reilly                         | ★★☆☆☆    | UX/UI                           |
+|  345 | Ultimate Figma For UI/UX Design                                                                 |   2025 | EN         |     345 | 2025-06-06 | Orange Education                 | ★★☆☆☆    | UX/UI                           |
+|  346 | English For Programmers                                                                         |   2024 | EN         |      59 | 2025-06-12 | Self-Published                   | ★★★☆☆    | Entrepreneurship, Learning      |
+|  347 | Power Up Product Management                                                                     |   2025 | EN         |     160 | 2025-06-12 | Routledge                        | ★★★☆☆    | Product Management              |
