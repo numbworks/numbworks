@@ -3,7 +3,7 @@
 |Date|Author|Description|
 |---|---|---|
 |2020-12-22|numbworks|Created.|
-|2025-06-24|numbworks|Last update.|
+|2025-07-14|numbworks|Last update.|
 
 ## Reading List
 
@@ -356,3 +356,8 @@
 |  345 | Ultimate Figma For UI/UX Design                                                                 |   2025 | EN         |     345 | 2025-06-06 | Orange Education                 | ★★☆☆☆    | UX/UI                           |
 |  346 | English For Programmers                                                                         |   2024 | EN         |      59 | 2025-06-12 | Self-Published                   | ★★★☆☆    | Entrepreneurship, Learning      |
 |  347 | Power Up Product Management                                                                     |   2025 | EN         |     160 | 2025-06-12 | Routledge                        | ★★★☆☆    | Product Management              |
+|  348 | Safe 5.0 Distilled                                                                              |   2020 | EN         |     321 | 2025-06-26 | Addison-Wesley                   | ★★★☆☆    | Product Management              |
+|  349 | Command Line Handbook                                                                           |   2025 | EN         |     123 | 2025-06-27 | Self-Published                   | ★★☆☆☆    | Linux                           |
+|  350 | Competing With Unicorns                                                                         |   2020 | EN         |     131 | 2025-07-03 | Pragmatic Bookshelf              | ★★★☆☆    | Product Management              |
+|  351 | Developer Experience Unleashed                                                                  |   2025 | EN         |     485 | 2025-07-03 | Apress                           | ★★☆☆☆    | Product Management              |
+|  352 | Building LLMs for Production                                                                    |   2024 | EN         |     569 | 2025-07-11 | Self-Published                   | ★★☆☆☆    | AI                              |

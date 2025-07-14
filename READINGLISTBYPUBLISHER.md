@@ -3,7 +3,7 @@
 |Date|Author|Description|
 |---|---|---|
 |2020-12-22|numbworks|Created.|
-|2025-06-24|numbworks|Last update.|
+|2025-07-14|numbworks|Last update.|
 
 ## Reading List By Publisher
 
@@ -18,18 +18,18 @@
 |:---------------------------------|--------:|-----------:|-------:|------------:|:----------|
 | O'Reilly                         |      49 |         35 |  71.43 |        2.04 | No        |
 | Packt                            |      49 |         33 |  67.35 |        2.12 | No        |
-| Self-Published                   |      43 |         24 |  55.81 |        2.33 | No        |
+| Self-Published                   |      45 |         24 |  53.33 |        2.31 | No        |
 | Syncfusion                       |      38 |         24 |  63.16 |        2.55 | Yes       |
-| Apress                           |      29 |         24 |  82.76 |        2.21 | No        |
-| Addison-Wesley                   |      20 |         15 |  75    |        2.1  | No        |
+| Apress                           |      30 |         24 |  80    |        2.2  | No        |
+| Addison-Wesley                   |      21 |         15 |  71.43 |        2.14 | No        |
 | Manning                          |      20 |         25 | 125    |        2.65 | Yes       |
 | Wiley                            |      12 |         23 | 191.67 |        2.33 | Yes       |
 | Microsoft Press                  |       9 |         11 | 122.22 |        2.22 | Yes       |
 | Pearson Education                |       5 |          6 | 120    |        3    | No        |
-| Prentice Hall                    |       4 |          3 |  75    |        2.25 | No        |
+| Pragmatic Bookshelf              |       4 |          1 |  25    |        2.5  | No        |
 | No Starch Press                  |       4 |          4 | 100    |        2.25 | No        |
 | BPB Publications                 |       4 |          2 |  50    |        2.25 | No        |
-| Pragmatic Bookshelf              |       3 |          1 |  33.33 |        2.33 | No        |
+| Prentice Hall                    |       4 |          3 |  75    |        2.25 | No        |
 | Wrox                             |       3 |          2 |  66.67 |        2.33 | No        |
 | Morgan Kaufmann                  |       3 |          3 | 100    |        2.33 | No        |
 | Nordic APIs                      |       3 |          2 |  66.67 |        3    | No        |

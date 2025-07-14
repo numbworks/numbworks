@@ -60,7 +60,7 @@ Intended for multiple use cases.
 |---|---|---|---|
 | nwtraderaanalytics | v4.5.2 | Python | 262 h |
 | nwapolloanalytics | v1.0.0 | DuckDb | 192 h |
-| nwdatamarkadanalytics | v1.0.0 | Python | 41 h |
+| nwrefurbishedanalytics | v1.0.0 | Python | 128 h |
 | nwknowledgebase | v1.0.0 | Asciidoc | 40 h |
 | nwbuild | v1.0.0 | Python | 26 h |
 
@@ -76,16 +76,16 @@ The following table summarizes how many technical books I studied since I starte
 
 |   Years |   Books |   Pages | TotalSpend   | LastUpdate   |
 |--------:|--------:|--------:|:-------------|:-------------|
-|      10 |     347 |   96868 | $10656.74    | 2025-06-24   |
+|      10 |     352 |   98497 | $10820.15    | 2025-07-14   |
 
 ## Related Pages
 
-- [READINGLIST.md](READINGLIST.md) <small>(2025-06-24)</small>
-- [READINGLISTBYMONTH.md](READINGLISTBYMONTH.md) <small>(2025-06-24)</small>
-- [READINGLISTBYPUBLISHER.md](READINGLISTBYPUBLISHER.md) <small>(2025-06-24)</small>
-- [READINGLISTBYRATING.md](READINGLISTBYRATING.md) <small>(2025-06-24)</small>
-- [READINGLISTBYTOPIC.md](READINGLISTBYTOPIC.md) <small>(2025-06-24)</small>
-- [TIMETRACKINGBYMONTH.md](TIMETRACKINGBYMONTH.md) <small>(2025-06-24)</small>
+- [READINGLIST.md](READINGLIST.md) <small>(2025-07-14)</small>
+- [READINGLISTBYMONTH.md](READINGLISTBYMONTH.md) <small>(2025-07-14)</small>
+- [READINGLISTBYPUBLISHER.md](READINGLISTBYPUBLISHER.md) <small>(2025-07-14)</small>
+- [READINGLISTBYRATING.md](READINGLISTBYRATING.md) <small>(2025-07-14)</small>
+- [READINGLISTBYTOPIC.md](READINGLISTBYTOPIC.md) <small>(2025-07-14)</small>
+- [TIMETRACKINGBYMONTH.md](TIMETRACKINGBYMONTH.md) <small>(2025-07-14)</small>
 
 ## Self-Improvement Status
 
