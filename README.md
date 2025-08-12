@@ -50,11 +50,13 @@ Intended for multiple use cases.
 
 ### Other Projects
 
+#### Non-Development
+
 | Repository | Type | Quick Links | License | Last Update |
 |---|---|---|---|---|
 | [i3_eink_config](https://github.com/numbworks/i3_eink_config) | Configuration File | [README](https://github.com/numbworks/i3_eink_config/blob/master/README.md) | MIT | 2020-12-22 |
 
-### Projects that are not public yet
+#### Non-Public
 
 | Repository | Version | Tech Stack | Effort |
 |---|---|---|---|
@@ -64,7 +66,7 @@ Intended for multiple use cases.
 | nwknowledgebase | v1.0.0 | Asciidoc | 40 h |
 | nwbuild | v1.0.0 | Python | 26 h |
 
-## Related Pages
+#### Pages
 
 - [CONTRIBUTIONGUIDEFORCSHARP.md](CONTRIBUTIONGUIDEFORCSHARP.md)
 - [FRAMEWORKFREEZE.md](FRAMEWORKFREEZE.md)
@@ -92,14 +94,14 @@ Since 2016, I've embarked on a continuous learning journey, supported by a metri
 
 ## Self-Improvement Status
 
-#### Areas of Expertise
+### Areas of Expertise
 
 `Data`, `Data Analytics`, `Data Science`, `Machine Learning`, `Databases`, `Development`, `Software Usability`, `Clean Software Architecture`, `Clean Code`, `Design Patterns`, `(Parametric) Unit Testing`, `OOP`, `Dependency Injection`, `Single Responsability Principle`, `Console Applications`, `Services`, `CLIs`,`CI/CD`, `(Web) Scraping`, `REST APIs`, `Business Analysis`, `ETL Process`, `Star Schema`, `Data Warehouses`, `Product Management`, `Prompt Engineering`, `Automated documentation workflows`, `Debian Preseeding`.
 
-#### Tech Stack
+### Tech Stack
 
 `C#`, `NET Core`, `NET Standard`, `NUNit`,`SQL Server`, `PowerBi`, `TeamCity`, `Azure DevOps`, `Excel`, `VBA`, `Powershell`, `Ubuntu Server`, `Docker`, `MariaDB`, `NuGet Packages`, `SQLite`, `Proxmox VE`, `Jupyter Notebooks`, `Python 3.x`, `Pandas`, `ollama`, `LLM`, `RAG`, `DuckDB`, `AsciiDoc`, `Python Packages`.
 
-#### Incoming
+### Incoming
 
 `Postgresql`, `Time-Series Analysis`, `AWS Architecture`, `Dotfiles`.
