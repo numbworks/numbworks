@@ -77,13 +77,13 @@ Intended for multiple use cases.
 
 Since 2016, I've embarked on a continuous learning journey, supported by a metric-driven and software-aided methodology that has been developed by me from the ground up. I regularly publish the key analytics of this process below.
 
-**Key metrics**:
+**Key Metrics**:
 
 |   Years |   Books |   Pages | TotalSpend   | LastUpdate   |
 |--------:|--------:|--------:|:-------------|:-------------|
 |      10 |     352 |   98497 | $10820.15    | 2025-07-14   |
 
-**In-depth analytics**:
+**In-Depth Analytics**:
 
 - [READINGLIST.md](ContinuousLearning/READINGLIST.md) <small>(2025-07-14)</small>
 - [READINGLISTBYMONTH.md](ContinuousLearning/READINGLISTBYMONTH.md) <small>(2025-07-14)</small>
