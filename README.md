@@ -85,12 +85,12 @@ Since 2016, I've embarked on a continuous learning journey, supported by a metri
 
 **In-depth analytics**:
 
-- [READINGLIST.md](READINGLIST.md) <small>(2025-07-14)</small>
-- [READINGLISTBYMONTH.md](READINGLISTBYMONTH.md) <small>(2025-07-14)</small>
-- [READINGLISTBYPUBLISHER.md](READINGLISTBYPUBLISHER.md) <small>(2025-07-14)</small>
-- [READINGLISTBYRATING.md](READINGLISTBYRATING.md) <small>(2025-07-14)</small>
-- [READINGLISTBYTOPIC.md](READINGLISTBYTOPIC.md) <small>(2025-07-14)</small>
-- [TIMETRACKINGBYMONTH.md](TIMETRACKINGBYMONTH.md) <small>(2025-07-14)</small>
+- [READINGLIST.md](ContinuousLearning/READINGLIST.md) <small>(2025-07-14)</small>
+- [READINGLISTBYMONTH.md](ContinuousLearning/READINGLISTBYMONTH.md) <small>(2025-07-14)</small>
+- [READINGLISTBYPUBLISHER.md](ContinuousLearning/READINGLISTBYPUBLISHER.md) <small>(2025-07-14)</small>
+- [READINGLISTBYRATING.md](ContinuousLearning/READINGLISTBYRATING.md) <small>(2025-07-14)</small>
+- [READINGLISTBYTOPIC.md](ContinuousLearning/READINGLISTBYTOPIC.md) <small>(2025-07-14)</small>
+- [TIMETRACKINGBYMONTH.md](ContinuousLearning/TIMETRACKINGBYMONTH.md) <small>(2025-07-14)</small>
 
 ## Self-Improvement Status
 
