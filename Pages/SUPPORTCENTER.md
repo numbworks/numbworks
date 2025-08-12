@@ -3,6 +3,7 @@
 | Date | Author | Description |
 |---|---|---|
 | 2024-08-12 | numbworks | Created. |
+| 2025-08-12 | numbworks | Last update. |
 
 ## Overview
 
@@ -12,21 +13,62 @@ This document helps me streamlining my daily operations.
 
 This paragraph collects in one place all the useful commands that I (unfortunately) need to type often.
 
-#### Debian 12: install RustDesk
+#### Debian 12+: install Brave
 
 ```sh
-# Download the .deb from https://rustdesk.com/download
-sudo dpkg -i rustdesk-*.deb
-sudo apt install -f
-rustdesk
+curl -fsS https://dl.brave.com/install.sh | sh
 ```
 
-#### Debian 12: install Dropbox
+#### Debian 12+: install DBeaver
 
 ```sh
-# Download the .deb from https://linux.dropboxstatic.com/packages/debian/
-sudo dpkg -i dropbox-*.deb
-sudo apt install -f
+curl -L https://dbeaver.io/files/dbeaver-ce_latest_amd64.deb
+sudo apt install -y ./dbeaver-ce_latest_amd64.deb
+dbeaver-ce
+```
+
+#### Debian 12+: install Dropbox
+
+```sh
+curl -L https://www.dropbox.com/download?dl=packages/ubuntu/dropbox_2025.05.20_amd64.deb
+sudo apt install -y ./dropbox_2025.05.20_amd64.deb
+dropbox
+
+# Download page: https://linux.dropboxstatic.com/packages/debian/
+```
+
+#### Debian 12+: install Ollama
+
+```sh
+curl -fsSL https://ollama.com/install.sh | sh
+```
+
+#### Debian 12+: install RustDesk
+
+```sh
+curl -L https://github.com/rustdesk/rustdesk/releases/download/1.4.1/rustdesk-1.4.1-x86_64.deb
+sudo apt install -y ./rustdesk-1.4.1-x86_64.deb
+rustdesk
+
+# Download page: https://github.com/rustdesk/rustdesk/releases.
+```
+
+#### Debian 12+: install VSCode and Microsoft Edge
+
+```sh
+curl https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > microsoft.gpg
+sudo install -o root -g root -m 644 microsoft.gpg /etc/apt/keyrings/microsoft-archive-keyring.gpg
+sudo sh -c 'echo "deb [arch=amd64,arm64,armhf signed-by=/etc/apt/keyrings/microsoft-archive-keyring.gpg] https://packages.microsoft.com/repos/code stable main" > /etc/apt/sources.list.d/vscode.list'
+sudo apt-get update
+sudo apt-get install code
+```
+
+```sh
+sudo sh -c 'echo "deb [arch=amd64 signed-by=/usr/share/keyrings/microsoft.gpg] https://packages.microsoft.com/repos/edge stable main" > /etc/apt/sources.list.d/microsoft-edge-beta.list'
+sudo apt update
+sudo apt install microsoft-edge-stable
+
+# Download page: https://www.microsoft.com/en-us/edge/download/insider?cc=1&platform=linux&ch=1&cs=3182488620
 ```
 
 #### Devcontainer.json mount points
