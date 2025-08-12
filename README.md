@@ -82,15 +82,15 @@ Since 2016, I've embarked on a continuous learning journey, supported by a metri
 
 |   Years |   Books |   Pages | TotalSpend   | LastUpdate   |
 |--------:|--------:|--------:|:-------------|:-------------|
-|      10 |     352 |   98497 | $10820.15    | 2025-07-14   |
+|      10 |     355 |   99360 | $10994.14    | 2025-08-12   |
 
 **In-Depth Analytics**:
 
-- [READINGLIST.md](ContinuousLearning/READINGLIST.md) <small>(2025-07-14)</small>
-- [READINGLISTBYMONTH.md](ContinuousLearning/READINGLISTBYMONTH.md) <small>(2025-07-14)</small>
-- [READINGLISTBYPUBLISHER.md](ContinuousLearning/READINGLISTBYPUBLISHER.md) <small>(2025-07-14)</small>
-- [READINGLISTBYRATING.md](ContinuousLearning/READINGLISTBYRATING.md) <small>(2025-07-14)</small>
-- [READINGLISTBYTOPIC.md](ContinuousLearning/READINGLISTBYTOPIC.md) <small>(2025-07-14)</small>
+- [READINGLIST.md](ContinuousLearning/READINGLIST.md) <small>(2025-08-12)</small>
+- [READINGLISTBYMONTH.md](ContinuousLearning/READINGLISTBYMONTH.md) <small>(2025-08-12)</small>
+- [READINGLISTBYPUBLISHER.md](ContinuousLearning/READINGLISTBYPUBLISHER.md) <small>(2025-08-12)</small>
+- [READINGLISTBYRATING.md](ContinuousLearning/READINGLISTBYRATING.md) <small>(2025-08-12)</small>
+- [READINGLISTBYTOPIC.md](ContinuousLearning/READINGLISTBYTOPIC.md) <small>(2025-08-12)</small>
 - [TIMETRACKINGBYMONTH.md](ContinuousLearning/TIMETRACKINGBYMONTH.md) <small>(2025-07-14)</small>
 
 ## Self-Improvement Status

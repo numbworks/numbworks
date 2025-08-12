@@ -3,7 +3,7 @@
 |Date|Author|Description|
 |---|---|---|
 |2020-12-22|numbworks|Created.|
-|2025-07-14|numbworks|Last update.|
+|2025-08-12|numbworks|Last update.|
 
 ## Reading List By Topic
 
@@ -11,8 +11,8 @@
 |:--------------------------------|--------:|--------:|-----------:|
 | Software Engineering            |      92 |   27179 |         72 |
 | C#                              |      56 |   16449 |         44 |
-| Python                          |      46 |   14620 |         20 |
-| Data Analysis, Data Science, ML |      37 |    9635 |         39 |
+| Python                          |      47 |   14982 |         20 |
+| Data Analysis, Data Science, ML |      39 |   10136 |         39 |
 | BI, Data Warehousing, PowerBI   |      23 |    6805 |         21 |
 | Development Tools               |      17 |    4502 |         11 |
 | Product Management              |      17 |    5155 |          8 |
@@ -37,7 +37,7 @@
 | C#                              | [10, 14, 4, 17, 8, 3, 0, 0, 0, 0]  | ▅▇▃█▄▂▁▁▁▁ |
 | Cloud Vendors                   | [0, 0, 0, 0, 0, 2, 0, 1, 1, 0]     | ▁▁▁▁▁█▁▄▄▁ |
 | Cybersecurity                   | [0, 0, 0, 0, 0, 0, 0, 0, 1, 1]     | ▁▁▁▁▁▁▁▁██ |
-| Data Analysis, Data Science, ML | [5, 5, 8, 5, 2, 0, 1, 6, 2, 3]     | ▅▅█▅▃▁▂▆▃▄ |
+| Data Analysis, Data Science, ML | [5, 5, 8, 5, 2, 0, 1, 6, 2, 5]     | ▅▅█▅▃▁▂▆▃▅ |
 | Development Tools               | [6, 1, 0, 1, 2, 3, 0, 0, 3, 1]     | █▂▁▂▃▄▁▁▄▂ |
 | Docker                          | [0, 1, 9, 0, 0, 2, 0, 0, 1, 0]     | ▁▂█▁▁▃▁▁▂▁ |
 | Electronics, IoT                | [0, 4, 0, 0, 0, 0, 0, 0, 0, 0]     | ▁█▁▁▁▁▁▁▁▁ |
@@ -47,7 +47,7 @@
 | MariaDB                         | [0, 0, 4, 0, 0, 0, 0, 0, 0, 0]     | ▁▁█▁▁▁▁▁▁▁ |
 | Powershell                      | [0, 1, 0, 0, 3, 0, 0, 0, 0, 0]     | ▁▃▁▁█▁▁▁▁▁ |
 | Product Management              | [0, 0, 0, 0, 1, 0, 0, 0, 11, 5]    | ▁▁▁▁▂▁▁▁█▄ |
-| Python                          | [1, 1, 0, 0, 1, 2, 0, 13, 27, 1]   | ▁▁▁▁▁▂▁▄█▁ |
+| Python                          | [1, 1, 0, 0, 1, 2, 0, 13, 27, 2]   | ▁▁▁▁▁▂▁▄█▂ |
 | Regular Expressions             | [0, 2, 0, 0, 0, 0, 0, 0, 0, 0]     | ▁█▁▁▁▁▁▁▁▁ |
 | SQL Server                      | [0, 2, 2, 2, 0, 1, 0, 0, 0, 0]     | ▁███▁▄▁▁▁▁ |
 | Software Engineering            | [21, 27, 12, 5, 2, 0, 0, 4, 13, 8] | ▆█▄▂▂▁▁▂▄▃ |

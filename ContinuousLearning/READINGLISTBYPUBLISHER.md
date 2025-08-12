@@ -3,7 +3,7 @@
 |Date|Author|Description|
 |---|---|---|
 |2020-12-22|numbworks|Created.|
-|2025-07-14|numbworks|Last update.|
+|2025-08-12|numbworks|Last update.|
 
 ## Reading List By Publisher
 
@@ -16,9 +16,9 @@
 
 | Publisher                        |   Books |   A4Sheets |    AB% |   AvgRating | IsWorth   |
 |:---------------------------------|--------:|-----------:|-------:|------------:|:----------|
+| Packt                            |      50 |         33 |  66    |        2.14 | No        |
 | O'Reilly                         |      49 |         35 |  71.43 |        2.04 | No        |
-| Packt                            |      49 |         33 |  67.35 |        2.12 | No        |
-| Self-Published                   |      45 |         24 |  53.33 |        2.31 | No        |
+| Self-Published                   |      47 |         24 |  51.06 |        2.34 | No        |
 | Syncfusion                       |      38 |         24 |  63.16 |        2.55 | Yes       |
 | Apress                           |      30 |         24 |  80    |        2.2  | No        |
 | Addison-Wesley                   |      21 |         15 |  71.43 |        2.14 | No        |
