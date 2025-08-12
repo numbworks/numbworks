@@ -1,19 +1,20 @@
+# Framework Freeze
+Contact: numbworks@gmail.com
+
 ## Revision History
 
 | Date | Author | Description |
 |---|---|---|
 | 2022-10-27 | numbworks | Created. |
-| 2024-01-21 | numbworks | Re-organized, added Python. |
-| 2024-07-07 | numbworks | Re-organized, added pip commands. |
-| 2024-10-22 | numbworks | Re-organized, added support for devcontainers. |
+| 2024-10-22 | numbworks | Last update. |
 
-## Introduction
+## Overview
 
-A *framework freeze* is a strategy that advocates the usage of the same version of frameworks and dependencies among several projects by creating a reference document. The scope of this strategy is to simplify planned updates by reducing the possible issues and by centralizing their resolution.
+A *framework freeze* is a strategy that advocates the usage of the same version of frameworks and dependencies among several projects by creating a reference document. 
 
-For frameworks, and when possible, only Long Term Support (LTS) versions should be used.
+The scope of this strategy is to simplify planned updates by reducing the possible issues and by centralizing their resolution. For frameworks, and when possible, only Long Term Support (LTS) versions should be used.
 
-To streamline the controlled updates of the Python dependencies, I created the `nwpackageversions` package.
+
 
 ## C#
 
@@ -48,3 +49,5 @@ To streamline the controlled updates of the Python dependencies, I created the `
 |nwreadinglist|[Dockerfile](https://github.com/numbworks/nwreadinglist/blob/master/.devcontainer/Dockerfile)|
 |nwtimetracking|[Dockerfile](https://github.com/numbworks/nwtimetracking/blob/master/.devcontainer/Dockerfile)|
 |nwshared|[Dockerfile](https://github.com/numbworks/nwshared/blob/master/.devcontainer/Dockerfile)|
+
+To streamline the controlled updates of the Python dependencies, I created the `nwpackageversions` package.

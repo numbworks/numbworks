@@ -1,4 +1,4 @@
-# CLI Reference Guide
+# CLI Reference
 Contact: numbworks@gmail.com
 
 ## Last Update
@@ -6,6 +6,7 @@ Contact: numbworks@gmail.com
 | Date | Author | Description |
 |---|---|---|
 | 2025-05-27 | numbworks | Created. |
+| 2025-07-14 | numbworks | Last update. |
 
 ### Introduction
 
