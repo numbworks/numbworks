@@ -62,7 +62,7 @@ Intended for multiple use cases.
 |---|---|---|---|
 | nwtraderaanalytics | v4.5.2 | Python | 262 h |
 | nwapolloanalytics | v1.0.0 | DuckDb | 192 h |
-| nwrefurbishedanalytics | v1.0.0 | Python | 128 h |
+| nwrefurbishedanalytics | v1.0.0 | Python | 178 h |
 | nwknowledgebase | v1.0.0 | Asciidoc | 40 h |
 | nwbuild | v1.0.0 | Python | 26 h |
 
@@ -91,7 +91,7 @@ Since 2016, I've embarked on a continuous learning journey, supported by a metri
 - [READINGLISTBYPUBLISHER.md](ContinuousLearning/READINGLISTBYPUBLISHER.md) <small>(2025-08-12)</small>
 - [READINGLISTBYRATING.md](ContinuousLearning/READINGLISTBYRATING.md) <small>(2025-08-12)</small>
 - [READINGLISTBYTOPIC.md](ContinuousLearning/READINGLISTBYTOPIC.md) <small>(2025-08-12)</small>
-- [TIMETRACKINGBYMONTH.md](ContinuousLearning/TIMETRACKINGBYMONTH.md) <small>(2025-07-14)</small>
+- [TIMETRACKINGBYMONTH.md](ContinuousLearning/TIMETRACKINGBYMONTH.md) <small>(2025-08-12)</small>
 
 ## Self-Improvement Status
 
