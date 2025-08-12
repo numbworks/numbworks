@@ -73,13 +73,15 @@ Intended for multiple use cases.
 
 ## Continuous Learning
 
-The following table summarizes how many technical books I studied since I started a continuous learning path (2016): 
+Since 2016, I've embarked on a continuous learning journey, supported by a metric-driven and software-aided methodology that has been developed by me from the ground up. I regularly publish the key analytics of this process below.
+
+**Key metrics**:
 
 |   Years |   Books |   Pages | TotalSpend   | LastUpdate   |
 |--------:|--------:|--------:|:-------------|:-------------|
 |      10 |     352 |   98497 | $10820.15    | 2025-07-14   |
 
-## Related Pages
+**In-depth analytics**:
 
 - [READINGLIST.md](READINGLIST.md) <small>(2025-07-14)</small>
 - [READINGLISTBYMONTH.md](READINGLISTBYMONTH.md) <small>(2025-07-14)</small>
