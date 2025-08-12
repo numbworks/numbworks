@@ -94,7 +94,7 @@ Since 2016, I've embarked on a continuous learning journey, supported by a metri
 
 #### Areas of Expertise
 
-`Data`, `Data Analytics`, `Data Science`, `Machine Learning`, `Databases`, `Development`, `Software Usability`, `Clean Software Architecture`, `Clean Code`, `Design Patterns`, `(Parametric) Unit Testing`, `OOP`, `Dependency Injection`, `Single Responsability Principle`, `Console Applications`, `Services`, `CLIs`,`CI/CD`, `(Web) Scraping`, `REST APIs`, `Business Analysis`, `ETL Process`, `Star Schema`, `Data Warehouses`, `Product Management`, `Prompt Engineering`, `Automated documentation workflows`.
+`Data`, `Data Analytics`, `Data Science`, `Machine Learning`, `Databases`, `Development`, `Software Usability`, `Clean Software Architecture`, `Clean Code`, `Design Patterns`, `(Parametric) Unit Testing`, `OOP`, `Dependency Injection`, `Single Responsability Principle`, `Console Applications`, `Services`, `CLIs`,`CI/CD`, `(Web) Scraping`, `REST APIs`, `Business Analysis`, `ETL Process`, `Star Schema`, `Data Warehouses`, `Product Management`, `Prompt Engineering`, `Automated documentation workflows`, `Debian Preseeding`.
 
 #### Tech Stack
 
