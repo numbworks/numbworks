@@ -6,11 +6,19 @@ Contact: numbworks@gmail.com
 | Date | Author | Description |
 |---|---|---|
 | 2024-08-12 | numbworks | Created. |
-| 2025-08-12 | numbworks | Last update. |
+| 2025-08-24 | numbworks | Last update. |
 
 ## Overview
 
 This document helps me streamlining my daily operations.
+
+## NW-related
+
+#### Generate a makefile via nwmakefiler
+
+```sh
+bash <(curl -fsSL https://raw.githubusercontent.com/numbworks/nwmakefiler/refs/heads/master/src/nwmakefiler.sh)
+```
 
 ## Commands
 

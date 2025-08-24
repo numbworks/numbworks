@@ -50,11 +50,12 @@ Intended for multiple use cases.
 
 ### Other Projects
 
-#### Non-Development
+#### Linux-related
 
-| Repository | Type | Quick Links | License | Last Update |
-|---|---|---|---|---|
-| [i3_eink_config](https://github.com/numbworks/i3_eink_config) | Configuration File | [README](https://github.com/numbworks/i3_eink_config/blob/master/README.md) | MIT | 2020-12-22 |
+| Repository | Effort | Type | Quick Links | License | Last Update |
+|---|---|---|---|---|---|
+| [i3_eink_config](https://github.com/numbworks/i3_eink_config) | - | Configuration File | [README](https://github.com/numbworks/i3_eink_config/blob/master/README.md) | MIT | 2020-12-22 |
+| [nwmakefiler](https://github.com/numbworks/nwmakefiler) | 18 h | Bash Script | [README](https://github.com/numbworks/nwmakefiler/blob/master/README.md) | MIT | 2025-08-24 |
 
 #### Non-Public
 
