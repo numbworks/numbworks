@@ -3,52 +3,48 @@
 |Date|Author|Description|
 |---|---|---|
 |2020-12-22|numbworks|Created.|
-|2025-08-12|numbworks|Last update.|
+|2025-11-17|numbworks|Last update.|
 
 ## Reading List By Topic
 
 | Topic                           |   Books |   Pages |   A4Sheets |
 |:--------------------------------|--------:|--------:|-----------:|
-| Software Engineering            |      92 |   27179 |         72 |
-| C#                              |      56 |   16449 |         44 |
-| Python                          |      47 |   14982 |         20 |
-| Data Analysis, Data Science, ML |      39 |   10136 |         39 |
+| Software Engineering            |      95 |   28210 |         82 |
+| C#                              |      55 |   16124 |         56 |
+| Python                          |      48 |   15323 |         21 |
+| Data Analysis, Data Science, ML |      36 |    9132 |         38 |
+| Development Tools               |      33 |    7607 |         18 |
 | BI, Data Warehousing, PowerBI   |      23 |    6805 |         21 |
-| Development Tools               |      17 |    4502 |         11 |
-| Product Management              |      17 |    5155 |          8 |
-| Docker                          |      13 |    2004 |          7 |
-| Entrepreneurship, Learning      |       8 |    1201 |          3 |
-| SQL Server                      |       7 |    1955 |          4 |
-| AI                              |       6 |    1901 |          5 |
-| Cloud Vendors                   |       4 |     814 |          2 |
-| MariaDB                         |       4 |    1177 |          5 |
+| Product Management              |      16 |    4665 |          6 |
+| SQL Databases                   |      16 |    4735 |         11 |
+| AI                              |       9 |    2471 |          5 |
+| Entrepreneurship, Learning      |       8 |    1201 |          4 |
+| UX/UI                           |       6 |    1664 |          2 |
 | Powershell                      |       4 |    1683 |          2 |
+| Cloud Vendors                   |       4 |     814 |          2 |
 | Electronics, IoT                |       4 |     454 |          4 |
 | Linux                           |       4 |     505 |          3 |
-| UX/UI                           |       4 |    1217 |          2 |
 | Cybersecurity                   |       2 |     583 |          3 |
 | Javascript                      |       2 |     258 |          3 |
 | Regular Expressions             |       2 |     400 |          1 |
 
 | Topic                           | Books                              | Trend      |
 |:--------------------------------|:-----------------------------------|:-----------|
-| AI                              | [0, 0, 0, 0, 0, 0, 0, 0, 5, 1]     | ▁▁▁▁▁▁▁▁█▂ |
+| AI                              | [0, 0, 0, 0, 0, 0, 0, 0, 5, 4]     | ▁▁▁▁▁▁▁▁█▇ |
 | BI, Data Warehousing, PowerBI   | [0, 1, 9, 11, 0, 0, 0, 0, 2, 0]    | ▁▂▇█▁▁▁▁▂▁ |
-| C#                              | [10, 14, 4, 17, 8, 3, 0, 0, 0, 0]  | ▅▇▃█▄▂▁▁▁▁ |
+| C#                              | [10, 14, 4, 17, 7, 3, 0, 0, 0, 0]  | ▅▇▃█▄▂▁▁▁▁ |
 | Cloud Vendors                   | [0, 0, 0, 0, 0, 2, 0, 1, 1, 0]     | ▁▁▁▁▁█▁▄▄▁ |
 | Cybersecurity                   | [0, 0, 0, 0, 0, 0, 0, 0, 1, 1]     | ▁▁▁▁▁▁▁▁██ |
-| Data Analysis, Data Science, ML | [5, 5, 8, 5, 2, 0, 1, 6, 2, 5]     | ▅▅█▅▃▁▂▆▃▅ |
-| Development Tools               | [6, 1, 0, 1, 2, 3, 0, 0, 3, 1]     | █▂▁▂▃▄▁▁▄▂ |
-| Docker                          | [0, 1, 9, 0, 0, 2, 0, 0, 1, 0]     | ▁▂█▁▁▃▁▁▂▁ |
+| Data Analysis, Data Science, ML | [5, 5, 8, 5, 2, 0, 1, 6, 2, 2]     | ▅▅█▅▃▁▂▆▃▃ |
+| Development Tools               | [6, 2, 11, 1, 2, 5, 0, 0, 4, 2]    | ▅▂█▂▂▄▁▁▄▂ |
 | Electronics, IoT                | [0, 4, 0, 0, 0, 0, 0, 0, 0, 0]     | ▁█▁▁▁▁▁▁▁▁ |
 | Entrepreneurship, Learning      | [0, 1, 0, 0, 4, 0, 0, 1, 0, 2]     | ▁▃▁▁█▁▁▃▁▄ |
 | Javascript                      | [0, 2, 0, 0, 0, 0, 0, 0, 0, 0]     | ▁█▁▁▁▁▁▁▁▁ |
 | Linux                           | [0, 0, 0, 1, 0, 0, 0, 0, 2, 1]     | ▁▁▁▄▁▁▁▁█▄ |
-| MariaDB                         | [0, 0, 4, 0, 0, 0, 0, 0, 0, 0]     | ▁▁█▁▁▁▁▁▁▁ |
 | Powershell                      | [0, 1, 0, 0, 3, 0, 0, 0, 0, 0]     | ▁▃▁▁█▁▁▁▁▁ |
-| Product Management              | [0, 0, 0, 0, 1, 0, 0, 0, 11, 5]    | ▁▁▁▁▂▁▁▁█▄ |
-| Python                          | [1, 1, 0, 0, 1, 2, 0, 13, 27, 2]   | ▁▁▁▁▁▂▁▄█▂ |
+| Product Management              | [0, 0, 0, 0, 1, 0, 0, 0, 10, 5]    | ▁▁▁▁▂▁▁▁█▄ |
+| Python                          | [1, 1, 1, 0, 1, 2, 0, 13, 27, 2]   | ▁▁▁▁▁▂▁▄█▂ |
 | Regular Expressions             | [0, 2, 0, 0, 0, 0, 0, 0, 0, 0]     | ▁█▁▁▁▁▁▁▁▁ |
-| SQL Server                      | [0, 2, 2, 2, 0, 1, 0, 0, 0, 0]     | ▁███▁▄▁▁▁▁ |
-| Software Engineering            | [21, 27, 12, 5, 2, 0, 0, 4, 13, 8] | ▆█▄▂▂▁▁▂▄▃ |
-| UX/UI                           | [0, 0, 0, 0, 0, 0, 0, 0, 0, 4]     | ▁▁▁▁▁▁▁▁▁█ |
+| SQL Databases                   | [0, 2, 6, 2, 0, 1, 0, 0, 0, 5]     | ▁▃█▃▁▂▁▁▁▇ |
+| Software Engineering            | [21, 28, 12, 5, 2, 1, 0, 4, 14, 8] | ▆█▄▂▂▁▁▂▄▃ |
+| UX/UI                           | [0, 0, 0, 0, 0, 0, 0, 0, 0, 6]     | ▁▁▁▁▁▁▁▁▁█ |

@@ -62,9 +62,9 @@ Intended for multiple use cases.
 | Repository | Version | Tech Stack | Effort |
 |---|---|---|---|
 | nwtraderaanalytics | v4.5.2 | Python | 262 h |
+| nwknowledgebase | v1.0.0 | Asciidoc | 203 h |
 | nwapolloanalytics | v1.0.0 | DuckDb | 192 h |
 | nwrefurbishedanalytics | v1.0.0 | Python | 178 h |
-| nwknowledgebase | v1.0.0 | Asciidoc | 40 h |
 | nwbuild | v1.0.0 | Python | 26 h |
 
 #### Pages
@@ -83,7 +83,7 @@ Since 2016, I've embarked on a continuous learning journey, supported by a metri
 
 |   Years |   Books |   Pages | TotalSpend   | LastUpdate   |
 |--------:|--------:|--------:|:-------------|:-------------|
-|      10 |     355 |   99360 | $10994.14    | 2025-08-12   |
+|      10 |     367 |  102634 | $11532.75    | 2025-11-17   |
 
 **In-Depth Analytics**:
 
