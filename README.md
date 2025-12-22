@@ -6,8 +6,8 @@ Additionally, I actively develop and maintain open-source data-related applicati
 
 Detailed information about my tech stack and my continuous learning activity is meticulously kept up to date on my GitHub account, alongside my open-source software releases.
 
-Contact: [Email](mailto:numbworks@gmail.com) | [Facebook](https://www.facebook.com/numbworks) | [X](http://www.x.com/numbworks) | [Reddit](https://www.reddit.com/r/numbworks/)
-LInks: [NW Python Package Index](https://numbworks.github.io) | [Github Threads](https://github.com/search?q=is%3Aissue+commenter%3Anumbworks&type=issues&s=created&o=desc)
+Contact: [Email](mailto:numbworks@gmail.com) | [Facebook](https://www.facebook.com/numbworks) | [X](http://www.x.com/numbworks) | [Reddit](https://www.reddit.com/r/numbworks/)<br/>
+Links: [NW Python Package Index](https://numbworks.github.io) | [Github Threads](https://github.com/search?q=is%3Aissue+commenter%3Anumbworks&type=issues&s=created&o=desc)
 
 ## Development
 
