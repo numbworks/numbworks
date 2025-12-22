@@ -2,11 +2,12 @@
 
 I am a Back-End Developer (C# and Python) with over 10 years of professional experience, currently serving as a Technical Product Manager in my 9-to-5 job. I have a strong interest in Product Lifecycle and Data Analytics, which I cultivate both during and outside of work hours.
 
-Additionally, I actively develop and maintain open-source data-related applications under my "numbworks" brand. I also engage in regular upskilling sessions through my favorite learning medium: books. Recently, I achieved the significant milestone of studying over 350 technical books.
+Additionally, I actively develop and maintain open-source data-related applications under my "numbworks" brand. I also engage in regular upskilling sessions through my favorite learning medium: books. Recently, I achieved the significant milestone of studying over 370 technical books.
 
 Detailed information about my tech stack and my continuous learning activity is meticulously kept up to date on my GitHub account, alongside my open-source software releases.
 
-Contact: [Email](mailto:numbworks@gmail.com) | [Facebook](https://www.facebook.com/numbworks) | [Twitter / X](http://www.x.com/numbworks) | [Github Threads](https://github.com/search?q=is%3Aissue+commenter%3Anumbworks&type=issues&s=created&o=desc)
+Contact: [Email](mailto:numbworks@gmail.com) | [Facebook](https://www.facebook.com/numbworks) | [X](http://www.x.com/numbworks) | [Reddit](https://www.reddit.com/r/numbworks/)
+LInks: [NW Python Package Index](https://numbworks.github.io) | [Github Threads](https://github.com/search?q=is%3Aissue+commenter%3Anumbworks&type=issues&s=created&o=desc)
 
 ## Development
 
@@ -39,7 +40,7 @@ Intended for multiple use cases.
 | Repository | Effort | Quick Links | License | Tests | Download | Last Update |
 |---|---|---|---|---|---|---|
 | [nwtimetracking (**)](https://github.com/numbworks/nwtimetracking) | 226 h | <ul><li>[README](https://github.com/numbworks/nwtimetracking/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwtimetracking/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwtimetracking/blob/master/docs/docs-nwtimetracking.md)</li> <li>[Issues](https://github.com/numbworks/nwtimetracking/issues)</li> <li>[Releases](https://github.com/numbworks/nwtimetracking/releases)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwtimetracking/master/codecoverage.svg) | [5.0.2](https://github.com/numbworks/nwtimetracking/releases/tag/v5.0.2) | 2025-05-26 |
-| [nwreadinglist (**)](https://github.com/numbworks/nwreadinglist) | 159 h | <ul><li>[README](https://github.com/numbworks/nwreadinglist/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwreadinglist/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwreadinglist/blob/master/docs/docs-nwreadinglist.md)</li> <li>[Issues](https://github.com/numbworks/nwreadinglist/issues)</li> <li>[Releases](https://github.com/numbworks/nwreadinglist/releases)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwreadinglist/master/codecoverage.svg) | [4.3.2](https://github.com/numbworks/nwreadinglist/releases/tag/v4.3.2) | 2025-05-26 |
+| [nwreadinglist (**)](https://github.com/numbworks/nwreadinglist) | 185 h | <ul><li>[README](https://github.com/numbworks/nwreadinglist/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwreadinglist/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwreadinglist/blob/master/docs/docs-nwreadinglist.md)</li> <li>[Issues](https://github.com/numbworks/nwreadinglist/issues)</li> <li>[Releases](https://github.com/numbworks/nwreadinglist/releases)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwreadinglist/master/codecoverage.svg) | [4.4.0](https://github.com/numbworks/nwreadinglist/releases/tag/v4.3.2) | 2025-12-22 |
 | [nwpackageversions (**)](https://github.com/numbworks/nwpackageversions) | 56 h | <ul><li>[README](https://github.com/numbworks/nwpackageversions/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwpackageversions/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwpackageversions/blob/master/docs/docs-nwpackageversions.md)</li> <li>[Issues](https://github.com/numbworks/nwpackageversions/issues)</li> <li>[Releases](https://github.com/numbworks/nwpackageversions/releases)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwpackageversions/master/codecoverage.svg) | [1.8.2](https://github.com/numbworks/nwpackageversions/releases/tag/v1.8.2) | 2025-05-26 |
 | [nwshared (*)(**)](https://github.com/numbworks/nwshared) | 47 h | <ul><li>[README](https://github.com/numbworks/nwshared/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwshared/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwshared/blob/master/docs/docs-nwshared.md)</li> <li>[Issues](https://github.com/numbworks/nwshared/issues)</li> <li>[Releases](https://github.com/numbworks/nwshared/releases)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwshared/master/codecoverage.svg) | [1.8.2](https://github.com/numbworks/nwshared/releases/tag/v1.8.2) | 2025-05-26 |
 | [nwcommitaverages (**)](https://github.com/numbworks/nwcommitaverages) | 10 h | <ul><li>[README](https://github.com/numbworks/nwcommitaverages/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwcommitaverages/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwcommitaverages/blob/master/docs/docs-nwcommitaverages.md)</li> <li>[Issues](https://github.com/numbworks/nwcommitaverages/issues)</li> <li>[Releases](https://github.com/numbworks/nwcommitaverages/releases)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwcommitaverages/master/codecoverage.svg) | [1.0.0](https://github.com/numbworks/nwcommitaverages/releases/tag/v1.0.0) | 2025-05-20 |
@@ -75,24 +76,14 @@ Intended for multiple use cases.
 - [FRAMEWORKFREEZE.md](Pages/FRAMEWORKFREEZE.md) <small>(2024-10-22)</small>
 - [SUPPORTCENTER.md](Pages/SUPPORTCENTER.md) <small>(2025-08-12)</small>
 
-## Continuous Learning
+## Data-Driven Continuous Learning
 
-Since 2016, I've embarked on a continuous learning journey, supported by a metric-driven and software-aided methodology that has been developed by me from the ground up. I regularly publish the key analytics of this process below.
+Since 2016, I've embarked on a continuous learning journey, supported by a data-driven and software-aided methodology that has been developed by me from the ground up. 
 
-**Key Metrics**:
+I regularly publish the key analytics of this process in the reports below:
 
-|   Years |   Books |   Pages | TotalSpend   | LastUpdate   |
-|--------:|--------:|--------:|:-------------|:-------------|
-|      10 |     367 |  102634 | $11532.75    | 2025-11-17   |
-
-**In-Depth Analytics**:
-
-- [READINGLIST.md](ContinuousLearning/READINGLIST.md) <small>(2025-08-12)</small>
-- [READINGLISTBYMONTH.md](ContinuousLearning/READINGLISTBYMONTH.md) <small>(2025-08-12)</small>
-- [READINGLISTBYPUBLISHER.md](ContinuousLearning/READINGLISTBYPUBLISHER.md) <small>(2025-08-12)</small>
-- [READINGLISTBYRATING.md](ContinuousLearning/READINGLISTBYRATING.md) <small>(2025-08-12)</small>
-- [READINGLISTBYTOPIC.md](ContinuousLearning/READINGLISTBYTOPIC.md) <small>(2025-08-12)</small>
-- [TIMETRACKINGBYMONTH.md](ContinuousLearning/TIMETRACKINGBYMONTH.md) <small>(2025-08-12)</small>
+- [READINGLISTREPORT20251222.pdf](ContinuousLearning/READINGLISTREPORT20251222.pdf) <small>(2025-12-22)</small>
+- *TIMETRACKINGREPORTxxxxyyzz.pdf <small>(planned)</small>*
 
 ## Self-Improvement Status
 
