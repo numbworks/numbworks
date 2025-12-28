@@ -39,8 +39,8 @@ Intended for multiple use cases.
 
 | Repository | Effort | Quick Links | License | Tests | Download | Last Update |
 |---|---|---|---|---|---|---|
-| [nwtimetracking (**)](https://github.com/numbworks/nwtimetracking) | 226 h | <ul><li>[README](https://github.com/numbworks/nwtimetracking/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwtimetracking/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwtimetracking/blob/master/docs/docs-nwtimetracking.md)</li> <li>[Issues](https://github.com/numbworks/nwtimetracking/issues)</li> <li>[Releases](https://github.com/numbworks/nwtimetracking/releases)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwtimetracking/master/codecoverage.svg) | [5.0.2](https://github.com/numbworks/nwtimetracking/releases/tag/v5.0.2) | 2025-05-26 |
-| [nwreadinglist (**)](https://github.com/numbworks/nwreadinglist) | 185 h | <ul><li>[README](https://github.com/numbworks/nwreadinglist/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwreadinglist/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwreadinglist/blob/master/docs/docs-nwreadinglist.md)</li> <li>[Issues](https://github.com/numbworks/nwreadinglist/issues)</li> <li>[Releases](https://github.com/numbworks/nwreadinglist/releases)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwreadinglist/master/codecoverage.svg) | [4.4.0](https://github.com/numbworks/nwreadinglist/releases/tag/v4.4.0) | 2025-12-22 |
+| [nwtimetracking (**)](https://github.com/numbworks/nwtimetracking) | 258 h | <ul><li>[README](https://github.com/numbworks/nwtimetracking/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwtimetracking/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwtimetracking/blob/master/docs/docs-nwtimetracking.md)</li> <li>[Issues](https://github.com/numbworks/nwtimetracking/issues)</li> <li>[Releases](https://github.com/numbworks/nwtimetracking/releases)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwtimetracking/master/codecoverage.svg) | [5.1.0](https://github.com/numbworks/nwtimetracking/releases/tag/v5.1.0) | 2025-12-28 |
+| [nwreadinglist (**)](https://github.com/numbworks/nwreadinglist) | 186 h | <ul><li>[README](https://github.com/numbworks/nwreadinglist/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwreadinglist/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwreadinglist/blob/master/docs/docs-nwreadinglist.md)</li> <li>[Issues](https://github.com/numbworks/nwreadinglist/issues)</li> <li>[Releases](https://github.com/numbworks/nwreadinglist/releases)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwreadinglist/master/codecoverage.svg) | [4.4.0](https://github.com/numbworks/nwreadinglist/releases/tag/v4.4.0) | 2025-12-22 |
 | [nwpackageversions (**)](https://github.com/numbworks/nwpackageversions) | 56 h | <ul><li>[README](https://github.com/numbworks/nwpackageversions/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwpackageversions/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwpackageversions/blob/master/docs/docs-nwpackageversions.md)</li> <li>[Issues](https://github.com/numbworks/nwpackageversions/issues)</li> <li>[Releases](https://github.com/numbworks/nwpackageversions/releases)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwpackageversions/master/codecoverage.svg) | [1.8.2](https://github.com/numbworks/nwpackageversions/releases/tag/v1.8.2) | 2025-05-26 |
 | [nwshared (*)(**)](https://github.com/numbworks/nwshared) | 47 h | <ul><li>[README](https://github.com/numbworks/nwshared/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwshared/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwshared/blob/master/docs/docs-nwshared.md)</li> <li>[Issues](https://github.com/numbworks/nwshared/issues)</li> <li>[Releases](https://github.com/numbworks/nwshared/releases)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwshared/master/codecoverage.svg) | [1.8.2](https://github.com/numbworks/nwshared/releases/tag/v1.8.2) | 2025-05-26 |
 | [nwcommitaverages (**)](https://github.com/numbworks/nwcommitaverages) | 10 h | <ul><li>[README](https://github.com/numbworks/nwcommitaverages/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwcommitaverages/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwcommitaverages/blob/master/docs/docs-nwcommitaverages.md)</li> <li>[Issues](https://github.com/numbworks/nwcommitaverages/issues)</li> <li>[Releases](https://github.com/numbworks/nwcommitaverages/releases)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwcommitaverages/master/codecoverage.svg) | [1.0.0](https://github.com/numbworks/nwcommitaverages/releases/tag/v1.0.0) | 2025-05-20 |
@@ -62,9 +62,9 @@ Intended for multiple use cases.
 
 | Repository | Version | Tech Stack | Effort |
 |---|---|---|---|
-| nwtraderaanalytics | v4.5.2 | Python | 262 h |
-| nwknowledgebase | v1.0.0 | Asciidoc | 203 h |
-| nwapolloanalytics | v1.0.0 | DuckDb | 192 h |
+| nwknowledgebase | v1.0.0 | Asciidoc | 337 h |
+| nwtraderaanalytics | v4.5.2 | Python | 263 h |
+| nwapolloanalytics | v1.0.0 | DuckDb | 194 h |
 | nwrefurbishedanalytics | v1.0.0 | Python | 178 h |
 | nwbuild | v1.0.0 | Python | 26 h |
 
@@ -83,7 +83,7 @@ Since 2016, I've embarked on a continuous learning journey, supported by a data-
 I regularly publish the key analytics of this process in the reports below:
 
 - [READINGLISTREPORT20251222.pdf](ContinuousLearning/READINGLISTREPORT20251222.pdf) <small>(2025-12-22)</small>
-- *TIMETRACKINGREPORTxxxxyyzz.pdf <small>(planned)</small>*
+- [TIMETRACKINGREPORT20251228.pdf](ContinuousLearning/TIMETRACKINGREPORT20251228.pdf) <small>(2025-12-28)</small>
 
 ## Self-Improvement Status
 
