@@ -26,7 +26,9 @@ Intended for multiple use cases.
 
 ### C# → Libraries / CLI Applications
 
-Intended for other developers who want to integrate my software in their own software and for data analysts who want to use my libraries thru a command-line interface..
+Intended for:
+- other developers who want to integrate my software in their own software
+- data analysts who want to use my libraries thru a command-line interface
 
 | Repository | Effort | Tests | Latest Release | Download |
 |---|---|---|---|---|
