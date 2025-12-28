@@ -43,10 +43,10 @@ Intended for other developers who want to integrate my software in their own sof
 
 #### Linux-related
 
-| Repository | Effort | Type | Quick Links | License | Last Update |
-|---|---|---|---|---|---|
-| [i3_eink_config](https://github.com/numbworks/i3_eink_config) | - | Configuration File | [README](https://github.com/numbworks/i3_eink_config/blob/master/README.md) | MIT | 2020-12-22 |
-| [nwmakefiler](https://github.com/numbworks/nwmakefiler) | 18 h | Bash Script | [README](https://github.com/numbworks/nwmakefiler/blob/master/README.md) | MIT | 2025-08-24 |
+| Repository | Effort | Type | Quick Links | Last Release |
+|---|---|---|---|---|
+| [i3_eink_config](https://github.com/numbworks/i3_eink_config) | - | Configuration File | [README](https://github.com/numbworks/i3_eink_config/blob/master/README.md) | 2020-12-22 |
+| [nwmakefiler](https://github.com/numbworks/nwmakefiler) | 18 h | Bash Script | [README](https://github.com/numbworks/nwmakefiler/blob/master/README.md) | 2025-08-24 |
 
 #### Non-Public
 
