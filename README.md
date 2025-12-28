@@ -11,35 +11,36 @@ Links: [NW Python Package Index](https://numbworks.github.io) | [Github Threads]
 
 ## Development
 
-### Python → Libraries / CLI Applications / Jupyter Notebooks
+These products are designed for:
 
-Intended for multiple use cases.
+- Developers who want to integrate my libraries into their applications
+- Data analysts who prefer using my libraries through a command‑line interface
+- Professionals dedicated to continuous learning
+- Researchers, data enthusiasts and open-source supporters
+
+Libraries marked with `(*)` encapsulate shared logic used by other libraries and might not be useful as-is for a general audience.
+
+### Python → Libraries / CLI Applications / Jupyter Notebooks
 
 | Repository | Effort | Tests | Latest Release | Download |
 |---|---|---|---|---|
-| [nwtimetracking](https://github.com/numbworks/nwtimetracking) | 258 h | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwtimetracking/master/codecoverage.svg) | 5.1.0 (2025-12-28) | [Releases](https://github.com/numbworks/nwtimetracking/releases/tag/v5.1.0) <br/> [NW PyPi](https://numbworks.github.io/) |
-| [nwreadinglist](https://github.com/numbworks/nwreadinglist) | 186 h | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwreadinglist/master/codecoverage.svg) | 4.4.0 (2025-12-22) | [Releases](https://github.com/numbworks/nwreadinglist/releases/tag/v4.4.0) <br/> [NW PyPi](https://numbworks.github.io/) |
-| [nwpackageversions](https://github.com/numbworks/nwpackageversions) | 56 h | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwpackageversions/master/codecoverage.svg) | 1.8.2 (2025-05-26) | [Releases](https://github.com/numbworks/nwpackageversions/releases/tag/v1.8.2) <br/> [NW PyPi](https://numbworks.github.io/) | 
-| [nwshared (*)](https://github.com/numbworks/nwshared) | 47 h | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwshared/master/codecoverage.svg) | 1.8.2 (2025-05-26) | [Releases](https://github.com/numbworks/nwshared/releases/tag/v1.8.2) <br/> [NW PyPi](https://numbworks.github.io/) |
-| [nwcommitaverages](https://github.com/numbworks/nwcommitaverages) | 10 h | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwcommitaverages/master/codecoverage.svg) | 1.0.0 (2025-05-20) | [Releases](https://github.com/numbworks/nwcommitaverages/releases/tag/v1.0.0) <br/> [NW PyPi](https://numbworks.github.io/) | 
-| [nwdocstringchecking](https://github.com/numbworks/nwdocstringchecking) | 5 h | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwdocstringchecking/master/codecoverage.svg) | 1.0.0 (2025-05-19) | [Releases](https://github.com/numbworks/nwdocstringchecking/releases/tag/v1.0.0) <br/> [NW PyPi](https://numbworks.github.io/) |
+| [nwtimetracking](https://github.com/numbworks/nwtimetracking) | 258 h | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwtimetracking/master/codecoverage.svg) | `5.1.0 (2025-12-28)` | [Releases](https://github.com/numbworks/nwtimetracking/releases/tag/v5.1.0) <br/> [NW PyPi](https://numbworks.github.io/) |
+| [nwreadinglist](https://github.com/numbworks/nwreadinglist) | 186 h | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwreadinglist/master/codecoverage.svg) | `4.4.0 (2025-12-22)` | [Releases](https://github.com/numbworks/nwreadinglist/releases/tag/v4.4.0) <br/> [NW PyPi](https://numbworks.github.io/) |
+| [nwpackageversions](https://github.com/numbworks/nwpackageversions) | 56 h | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwpackageversions/master/codecoverage.svg) | `1.8.2 (2025-05-26)` | [Releases](https://github.com/numbworks/nwpackageversions/releases/tag/v1.8.2) <br/> [NW PyPi](https://numbworks.github.io/) | 
+| [nwshared (*)](https://github.com/numbworks/nwshared) | 47 h | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwshared/master/codecoverage.svg) | `1.8.2 (2025-05-26)` | [Releases](https://github.com/numbworks/nwshared/releases/tag/v1.8.2) <br/> [NW PyPi](https://numbworks.github.io/) |
+| [nwcommitaverages](https://github.com/numbworks/nwcommitaverages) | 10 h | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwcommitaverages/master/codecoverage.svg) | `1.0.0 (2025-05-20)` | [Releases](https://github.com/numbworks/nwcommitaverages/releases/tag/v1.0.0) <br/> [NW PyPi](https://numbworks.github.io/) | 
+| [nwdocstringchecking](https://github.com/numbworks/nwdocstringchecking) | 5 h | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwdocstringchecking/master/codecoverage.svg) | `1.0.0 (2025-05-19)` | [Releases](https://github.com/numbworks/nwdocstringchecking/releases/tag/v1.0.0) <br/> [NW PyPi](https://numbworks.github.io/) |
 
 ### C# → Libraries / CLI Applications
 
-Intended for:
-- other developers who want to integrate my software in their own software
-- data analysts who want to use my libraries thru a command-line interface
-
 | Repository | Effort | Tests | Latest Release | Download |
 |---|---|---|---|---|
-| [NW.UnivariateForecasting](https://github.com/numbworks/NW.UnivariateForecasting) | 208 h | ![codecoverage_library.svg](https://raw.githubusercontent.com/numbworks/NW.UnivariateForecasting/main/codecoverage_library.svg) <br/> ![codecoverage_client.svg](https://raw.githubusercontent.com/numbworks/NW.UnivariateForecasting/master/codecoverage_client.svg) | 4.2.0 (2024-02-15) | [Releases](https://github.com/numbworks/NW.UnivariateForecasting/releases/tag/v4.2.0) <br/> [NuGet](https://www.nuget.org/packages/NW.UnivariateForecasting/4.2.0) |
-| [NW.NGramTextClassification](https://github.com/numbworks/NW.NGramTextClassification) | 207 h | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/NW.NGramTextClassification/master/codecoverage_library.svg) <br/> ![codecoverage_client.svg](https://raw.githubusercontent.com/numbworks/NW.NGramTextClassification/master/codecoverage_client.svg) | 4.2.0 (2024-02-14) | [Releases](https://github.com/numbworks/NW.NGramTextClassification/releases/tag/v4.2.0) <br/> [NuGet](https://www.nuget.org/packages/NW.NGramTextClassification/4.2.0) |
-| [NW.MarkdownTables](https://github.com/numbworks/NW.MarkdownTables) | 21 h | ![codecoverage_library.svg](https://raw.githubusercontent.com/numbworks/NW.MarkdownTables/master/codecoverage_library.svg) | 3.0.0 (2024-01-21) | [Releases](https://github.com/numbworks/NW.MarkdownTables/releases/tag/v3.0.0) <br/> [NuGet](https://www.nuget.org/packages/NW.MarkdownTables/3.0.0) |
-| [NW.Shared.Files (*)](https://github.com/numbworks/NW.Shared.Files) | 5 h | ![codecoverage_library.svg](https://raw.githubusercontent.com/numbworks/NW.Shared.Files/master/codecoverage_library.svg) | 1.0.0 (2024-02-11) | [Releases](https://github.com/numbworks/NW.Shared.Files/releases/tag/v1.0.0) <br/> [NuGet](https://www.nuget.org/packages/NW.Shared.Files/1.0.0) |
-| [NW.Shared.Serialization (*)](https://github.com/numbworks/NW.Shared.Serialization) | 4 h | ![codecoverage_library.svg](https://raw.githubusercontent.com/numbworks/NW.Shared.Serialization/master/codecoverage_library.svg) | 1.0.0 (2024-02-13) | [Releases](https://github.com/numbworks/NW.Shared.Serialization/releases/tag/v1.0.0) <br/> [NuGet](https://www.nuget.org/packages/NW.Shared.Serialization/1.0.0) |
-| [NW.Shared.Validation (*)](https://github.com/numbworks/NW.Shared.Validation) | 3 h | ![codecoverage_library.svg](https://raw.githubusercontent.com/numbworks/NW.Shared.Validation/master/codecoverage_library.svg) | 1.0.0 (2024-02-10) | [Releases](https://github.com/numbworks/NW.Shared.Validation/releases/tag/v1.0.0) <br/> [NuGet](https://www.nuget.org/packages/NW.Shared.Validation/1.0.0) |
-
-(*) This library encapsulates logic shared by other libraries and may not be immediately useful to a general audience in its current form.
+| [NW.UnivariateForecasting](https://github.com/numbworks/NW.UnivariateForecasting) | 208 h | ![codecoverage_library.svg](https://raw.githubusercontent.com/numbworks/NW.UnivariateForecasting/main/codecoverage_library.svg) <br/> ![codecoverage_client.svg](https://raw.githubusercontent.com/numbworks/NW.UnivariateForecasting/master/codecoverage_client.svg) | `4.2.0 (2024-02-15)` | [Releases](https://github.com/numbworks/NW.UnivariateForecasting/releases/tag/v4.2.0) <br/> [NuGet](https://www.nuget.org/packages/NW.UnivariateForecasting/4.2.0) |
+| [NW.NGramTextClassification](https://github.com/numbworks/NW.NGramTextClassification) | 207 h | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/NW.NGramTextClassification/master/codecoverage_library.svg) <br/> ![codecoverage_client.svg](https://raw.githubusercontent.com/numbworks/NW.NGramTextClassification/master/codecoverage_client.svg) | `4.2.0 (2024-02-14)` | [Releases](https://github.com/numbworks/NW.NGramTextClassification/releases/tag/v4.2.0) <br/> [NuGet](https://www.nuget.org/packages/NW.NGramTextClassification/4.2.0) |
+| [NW.MarkdownTables](https://github.com/numbworks/NW.MarkdownTables) | 21 h | ![codecoverage_library.svg](https://raw.githubusercontent.com/numbworks/NW.MarkdownTables/master/codecoverage_library.svg) | `3.0.0 (2024-01-21)` | [Releases](https://github.com/numbworks/NW.MarkdownTables/releases/tag/v3.0.0) <br/> [NuGet](https://www.nuget.org/packages/NW.MarkdownTables/3.0.0) |
+| [NW.Shared.Files (*)](https://github.com/numbworks/NW.Shared.Files) | 5 h | ![codecoverage_library.svg](https://raw.githubusercontent.com/numbworks/NW.Shared.Files/master/codecoverage_library.svg) | `1.0.0 (2024-02-11)` | [Releases](https://github.com/numbworks/NW.Shared.Files/releases/tag/v1.0.0) <br/> [NuGet](https://www.nuget.org/packages/NW.Shared.Files/1.0.0) |
+| [NW.Shared.Serialization (*)](https://github.com/numbworks/NW.Shared.Serialization) | 4 h | ![codecoverage_library.svg](https://raw.githubusercontent.com/numbworks/NW.Shared.Serialization/master/codecoverage_library.svg) | `1.0.0 (2024-02-13)` | [Releases](https://github.com/numbworks/NW.Shared.Serialization/releases/tag/v1.0.0) <br/> [NuGet](https://www.nuget.org/packages/NW.Shared.Serialization/1.0.0) |
+| [NW.Shared.Validation (*)](https://github.com/numbworks/NW.Shared.Validation) | 3 h | ![codecoverage_library.svg](https://raw.githubusercontent.com/numbworks/NW.Shared.Validation/master/codecoverage_library.svg) | `1.0.0 (2024-02-10)` | [Releases](https://github.com/numbworks/NW.Shared.Validation/releases/tag/v1.0.0) <br/> [NuGet](https://www.nuget.org/packages/NW.Shared.Validation/1.0.0) |
 
 ### Other Projects
 
