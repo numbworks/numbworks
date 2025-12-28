@@ -11,6 +11,21 @@ Links: [NW Python Package Index](https://numbworks.github.io) | [Github Threads]
 
 ## Development
 
+### Python → Libraries / CLI Applications / Jupyter Notebooks
+
+Intended for multiple use cases.
+
+| Repository | Effort | Tests | Latest Release | Download |
+|---|---|---|---|---|
+| [nwtimetracking](https://github.com/numbworks/nwtimetracking) | 258 h | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwtimetracking/master/codecoverage.svg) | 5.1.0 (2025-12-28) | <ul><li>[Releases](https://github.com/numbworks/nwtimetracking/releases/tag/v5.1.0)</li> <li>[NW PyPi](https://numbworks.github.io/)</li></ul> |
+| [nwreadinglist](https://github.com/numbworks/nwreadinglist) | 186 h | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwreadinglist/master/codecoverage.svg) | 4.4.0 (2025-12-22) | <ul><li>[Releases](https://github.com/numbworks/nwreadinglist/releases/tag/v4.4.0)</li> <li>[NW PyPi](https://numbworks.github.io/)</li></ul> |
+| [nwpackageversions](https://github.com/numbworks/nwpackageversions) | 56 h | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwpackageversions/master/codecoverage.svg) | 1.8.2 (2025-05-26) | <ul><li>[Releases](https://github.com/numbworks/nwpackageversions/releases/tag/v1.8.2)</li> <li>[NW PyPi](https://numbworks.github.io/)</li></ul> | 
+| [nwshared (*)](https://github.com/numbworks/nwshared) | 47 h | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwshared/master/codecoverage.svg) | 1.8.2 (2025-05-26) | <ul><li>[Releases](https://github.com/numbworks/nwshared/releases/tag/v1.8.2)</li> <li>[NW PyPi](https://numbworks.github.io/)</li></ul> |
+| [nwcommitaverages](https://github.com/numbworks/nwcommitaverages) | 10 h | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwcommitaverages/master/codecoverage.svg) | 1.0.0 (2025-05-20) | <ul><li>[Releases](https://github.com/numbworks/nwcommitaverages/releases/tag/v1.0.0)</li> <li>[NW PyPi](https://numbworks.github.io/)</li></ul> | 
+| [nwdocstringchecking](https://github.com/numbworks/nwdocstringchecking) | 5 h | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwdocstringchecking/master/codecoverage.svg) | 1.0.0 (2025-05-19) | <ul><li>[Releases](https://github.com/numbworks/nwdocstringchecking/releases/tag/v1.0.0)</li> <li>[NW PyPi](https://numbworks.github.io/)</li></ul> |
+
+(*) This library encapsulates logic shared by other libraries and may not be immediately useful to a general audience in its current form.
+
 ### C# → Libraries
 
 Intended for other developers who want to integrate my software in their own software.
@@ -32,22 +47,6 @@ Intended for data analysts who want to use my libraries thru a command-line inte
 |---|---|---|---|---|
 | [NW.UnivariateForecastingClient](https://github.com/numbworks/NW.UnivariateForecasting) | [Documentation](https://github.com/numbworks/NW.UnivariateForecasting/blob/master/docs/Documentation-NW.UnivariateForecastingClient.md)| MIT | ![codecoverage_client.svg](https://raw.githubusercontent.com/numbworks/NW.UnivariateForecasting/master/codecoverage_client.svg) | [4.2.0](https://github.com/numbworks/NW.UnivariateForecasting/releases/tag/v4.2.0) |
 | [NW.NGramTextClassificationClient](https://github.com/numbworks/NW.NGramTextClassification) | [Documentation](https://github.com/numbworks/NW.NGramTextClassification/blob/master/docs/Documentation-NW.NGramTextClassificationClient.md)| MIT | ![codecoverage_client.svg](https://raw.githubusercontent.com/numbworks/NW.NGramTextClassification/master/codecoverage_client.svg) | [4.2.0](https://github.com/numbworks/NW.NGramTextClassification/releases/tag/v4.2.0) |
-
-### Python → Libraries / CLI Applications / Jupyter Notebooks
-
-Intended for multiple use cases.
-
-| Repository | Effort | Quick Links | License | Tests | Download | Last Update |
-|---|---|---|---|---|---|---|
-| [nwtimetracking (**)](https://github.com/numbworks/nwtimetracking) | 258 h | <ul><li>[README](https://github.com/numbworks/nwtimetracking/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwtimetracking/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwtimetracking/blob/master/docs/docs-nwtimetracking.md)</li> <li>[Issues](https://github.com/numbworks/nwtimetracking/issues)</li> <li>[Releases](https://github.com/numbworks/nwtimetracking/releases)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwtimetracking/master/codecoverage.svg) | [5.1.0](https://github.com/numbworks/nwtimetracking/releases/tag/v5.1.0) | 2025-12-28 |
-| [nwreadinglist (**)](https://github.com/numbworks/nwreadinglist) | 186 h | <ul><li>[README](https://github.com/numbworks/nwreadinglist/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwreadinglist/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwreadinglist/blob/master/docs/docs-nwreadinglist.md)</li> <li>[Issues](https://github.com/numbworks/nwreadinglist/issues)</li> <li>[Releases](https://github.com/numbworks/nwreadinglist/releases)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwreadinglist/master/codecoverage.svg) | [4.4.0](https://github.com/numbworks/nwreadinglist/releases/tag/v4.4.0) | 2025-12-22 |
-| [nwpackageversions (**)](https://github.com/numbworks/nwpackageversions) | 56 h | <ul><li>[README](https://github.com/numbworks/nwpackageversions/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwpackageversions/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwpackageversions/blob/master/docs/docs-nwpackageversions.md)</li> <li>[Issues](https://github.com/numbworks/nwpackageversions/issues)</li> <li>[Releases](https://github.com/numbworks/nwpackageversions/releases)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwpackageversions/master/codecoverage.svg) | [1.8.2](https://github.com/numbworks/nwpackageversions/releases/tag/v1.8.2) | 2025-05-26 |
-| [nwshared (*)(**)](https://github.com/numbworks/nwshared) | 47 h | <ul><li>[README](https://github.com/numbworks/nwshared/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwshared/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwshared/blob/master/docs/docs-nwshared.md)</li> <li>[Issues](https://github.com/numbworks/nwshared/issues)</li> <li>[Releases](https://github.com/numbworks/nwshared/releases)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwshared/master/codecoverage.svg) | [1.8.2](https://github.com/numbworks/nwshared/releases/tag/v1.8.2) | 2025-05-26 |
-| [nwcommitaverages (**)](https://github.com/numbworks/nwcommitaverages) | 10 h | <ul><li>[README](https://github.com/numbworks/nwcommitaverages/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwcommitaverages/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwcommitaverages/blob/master/docs/docs-nwcommitaverages.md)</li> <li>[Issues](https://github.com/numbworks/nwcommitaverages/issues)</li> <li>[Releases](https://github.com/numbworks/nwcommitaverages/releases)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwcommitaverages/master/codecoverage.svg) | [1.0.0](https://github.com/numbworks/nwcommitaverages/releases/tag/v1.0.0) | 2025-05-20 |
-| [nwdocstringchecking (**)](https://github.com/numbworks/nwdocstringchecking) | 5 h | <ul><li>[README](https://github.com/numbworks/nwdocstringchecking/blob/master/README.md)</li> <li>[CHANGELOG](https://github.com/numbworks/nwdocstringchecking/blob/master/CHANGELOG)</li> <li>[Documentation](https://github.com/numbworks/nwdocstringchecking/blob/master/docs/docs-nwdocstringchecking.md)</li> <li>[Issues](https://github.com/numbworks/nwdocstringchecking/issues)</li> <li>[Releases](https://github.com/numbworks/nwdocstringchecking/releases)</li></ul> | MIT | ![codecoverage.svg](https://raw.githubusercontent.com/numbworks/nwdocstringchecking/master/codecoverage.svg) | [1.0.0](https://github.com/numbworks/nwdocstringchecking/releases/tag/v1.0.0) | 2025-05-19 |
-
-(*) This library encapsulates logic shared by other libraries and may not be immediately useful to a general audience in its current form.
-(**) To install this package, you can also run `pip install` against [numbworks.github.io](https://numbworks.github.io) (my own Python Package Index).
 
 ### Other Projects
 
