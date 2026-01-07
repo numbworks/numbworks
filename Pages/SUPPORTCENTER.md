@@ -6,7 +6,7 @@ Contact: numbworks@gmail.com
 | Date | Author | Description |
 |---|---|---|
 | 2024-08-12 | numbworks | Created. |
-| 2025-08-24 | numbworks | Last update. |
+| 2026-01-07 | numbworks | Last update. |
 
 ## Overview
 
@@ -80,6 +80,20 @@ sudo apt update
 sudo apt install microsoft-edge-stable
 
 # Download page: https://www.microsoft.com/en-us/edge/download/insider?cc=1&platform=linux&ch=1&cs=3182488620
+```
+
+#### Debian 12+: install and uninstall a DEB package
+
+```sh
+sudo dpkg -i nwbuildscli-v1.0.0-linux-amd64.deb 
+sudo dpkg -r nwbuildscli
+```
+
+#### Debian 12+: read the metadata of a DEB package
+
+```sh
+sudo dpkg -I nwbuildscli-v1.0.0-linux-amd64.deb 
+sudo dpkg -s nwbuildscli
 ```
 
 #### Devcontainer.json mount points
