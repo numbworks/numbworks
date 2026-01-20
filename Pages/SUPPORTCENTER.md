@@ -158,6 +158,38 @@ docker ps
 docker cp 3b5bed64efea:/home/nwcommitaverages/nwcommitaverages_1.0.0_all.deb "C:\Users\Rubèn\Desktop\"
 ```
 
+#### Docker: reduce the size of Docker's VHDX file(s) on Windows 10
+
+```powershell
+Optimize-VHD -Path "C:\Users\Rubèn\AppData\Local\Docker\wsl\disk\docker_data.vhdx" -Mode Full
+```
+
+#### Docker: add `size` to the list of volumes
+
+```powershell
+docker system df -v | Select-String -Pattern "Local Volumes" -Context 0, 20
+```
+
+#### Docker: list and delete the buildx cache fragments
+
+```powershell
+docker buildx du
+docker buildx prune -f
+docker buildx prune --filter until=720h -f
+```
+
+#### Docker: restore the previous `docker images` output on Docker Desktop 4.57.0+ (Windows 10)
+
+```powershell
+function dockerimg {
+    docker image ls -a --format "table {{.Repository}}\t{{.Tag}}\t{{.ID}}\t{{.CreatedSince}}\t{{.Size}}"
+}
+
+dockerimg
+```
+
+Note: on Windows it's not possible to define an alias for a command with arguments, therefore defining a function is required.
+
 #### Git: add username and email to global configs
 
 ```sh
@@ -196,12 +228,6 @@ language:python path:**/Makefile
 if (-not (Test-Path $PROFILE)) { $null = New-Item -Force $PROFILE }
 Invoke-Item $PROFILE
 Set-PSReadLineOption -PredictionSource None
-```
-
-#### Windows 10: reduce the size of Docker's VHDX file(s)
-
-```powershell
-Optimize-VHD -Path "C:\Users\Rubèn\AppData\Local\Docker\wsl\disk\docker_data.vhdx" -Mode Full
 ```
 
 #### Windows 10: solve the "Failed to Attach Disk ext4.vhdx to WSL2" issue
