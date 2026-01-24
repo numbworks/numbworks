@@ -6,7 +6,7 @@ Contact: numbworks@gmail.com
 | Date | Author | Description |
 |---|---|---|
 | 2024-08-12 | numbworks | Created. |
-| 2026-01-20 | numbworks | Last update. |
+| 2026-01-24 | numbworks | Last update. |
 
 ## Overview
 
@@ -19,6 +19,14 @@ This document helps me streamlining my daily operations.
 ```sh
 bash <(curl -fsSL https://raw.githubusercontent.com/numbworks/nwmakefiler/refs/heads/master/src/nwmakefiler.sh)
 ```
+
+#### Install Python packages
+
+Example for `nwversioninfofiles`:
+
+- `pip install --extra-index-url https://numbworks.github.io nwversioninfofiles==1.0.0`
+- `pip install "https://github.com/numbworks/nwversioninfofiles/archive/refs/tags/v1.0.0.zip#subdirectory=src"`
+- `pip install 'git+https://github.com/numbworks/nwversioninfofiles.git@v1.0.0#egg=nwversioninfofiles&subdirectory=src'`
 
 ## Commands
 
