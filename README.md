@@ -52,16 +52,6 @@ Libraries marked with `(*)` encapsulate shared logic used by other libraries and
 | [i3_eink_config](https://github.com/numbworks/i3_eink_config) | - | Configuration File | [README](https://github.com/numbworks/i3_eink_config/blob/master/README.md) | 2020-12-22 |
 | [nwmakefiler](https://github.com/numbworks/nwmakefiler) | 18 h | Bash Script | [README](https://github.com/numbworks/nwmakefiler/blob/master/README.md) | 2025-08-24 |
 
-#### Non-Public
-
-| Repository | Version | Tech Stack | Effort |
-|---|---|---|---|
-| nwknowledgebase | v1.0.0 | Asciidoc | 337 h |
-| nwtraderaanalytics | v4.5.2 | Python | 263 h |
-| nwapolloanalytics | v1.0.0 | DuckDb | 194 h |
-| nwrefurbishedanalytics | v1.0.0 | Python | 178 h |
-| nwbuild | v1.0.0 | Python | 26 h |
-
 #### Pages
 
 - [CLIREFERENCE.md](Pages/CLIREFERENCE.md) <small>(2025-07-14)</small>
@@ -77,7 +67,7 @@ Since 2016, I've embarked on a continuous learning journey, supported by a data-
 I regularly publish the key analytics of this process in the reports below:
 
 - [READINGLISTREPORT20251229.pdf](ContinuousLearning/READINGLISTREPORT20251229.pdf) <small>(2025-12-29)</small>
-- [TIMETRACKINGREPORT20260218.pdf](ContinuousLearning/TIMETRACKINGREPORT20260218.pdf) <small>(2026-02-18)</small>
+- [TIMETRACKINGREPORT20260321.pdf](ContinuousLearning/TIMETRACKINGREPORT20260321.pdf) <small>(2026-03-21)</small>
 
 ## Self-Improvement Status
 
