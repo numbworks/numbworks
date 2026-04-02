@@ -172,18 +172,28 @@ docker cp 3b5bed64efea:/home/nwcommitaverages/nwcommitaverages_1.0.0_all.deb "C:
 Optimize-VHD -Path "C:\Users\Rubèn\AppData\Local\Docker\wsl\disk\docker_data.vhdx" -Mode Full
 ```
 
-#### Docker: add `size` to the list of volumes
+#### Docker: get a high-level overview of how much space images and build caches are consuming
+
+```sh
+docker system df
+```
+
+#### Docker: delete all the items in "Build Cache"
+
+```sh
+docker builder prune 
+```
+
+#### Docker: delete all the items in "Build Cache" and in "Images"
+
+```sh
+docker builder prune -a
+```
+
+#### Docker: add `size` to the list of volumes (Windows 10)
 
 ```powershell
 docker system df -v | Select-String -Pattern "Local Volumes" -Context 0, 20
-```
-
-#### Docker: list and delete the buildx cache fragments
-
-```powershell
-docker buildx du
-docker buildx prune -f
-docker buildx prune --filter until=720h -f
 ```
 
 #### Docker: restore the previous `docker images` output on Docker Desktop 4.57.0+ (Windows 10)
