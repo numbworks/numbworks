@@ -2,7 +2,7 @@
 
 I am a Back-End Developer (C# and Python) with over 10 years of professional experience, currently serving as a Technical Product Manager in my 9-to-5 job. I have a strong interest in Product Lifecycle and Data Analytics, which I cultivate both during and outside of work hours.
 
-Additionally, I actively develop and maintain open-source data-related applications under my "numbworks" brand. I also engage in regular upskilling sessions through my favorite learning medium: books. Recently, I achieved the significant milestone of studying over 370 technical books.
+Additionally, I actively develop and maintain open-source data-related applications under my "numbworks" brand. I also engage in regular upskilling sessions through my favorite learning medium: books. Recently, I achieved the significant milestone of studying over 380 technical books.
 
 Detailed information about my tech stack and my continuous learning activity is meticulously kept up to date on my GitHub account, alongside my open-source software releases.
 
