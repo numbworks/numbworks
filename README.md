@@ -54,10 +54,7 @@ For an easier download experience, please head to the [NW's Software Hub](https:
 
 #### Pages
 
-- [CLIREFERENCE.md](Pages/CLIREFERENCE.md) <small>(2025-07-14)</small>
-- [CONTRIBUTIONGUIDEFORCSHARP.md](Pages/CONTRIBUTIONGUIDEFORCSHARP.md) <small>(2024-05-19)</small>
 - [DEBIANPRESEED.md](Pages/DEBIANPRESEED.md) <small>(2025-08-12)</small>
-- [FRAMEWORKFREEZE.md](Pages/FRAMEWORKFREEZE.md) <small>(2024-10-22)</small>
 - [SUPPORTCENTER.md](Pages/SUPPORTCENTER.md) <small>(2025-08-12)</small>
 
 ## Data-Driven Continuous Learning
