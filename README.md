@@ -68,8 +68,8 @@ Since 2016, I've embarked on a continuous learning journey, supported by a data-
 
 I regularly publish the key analytics of this process in the reports below:
 
-- [READINGLISTREPORT20260704.pdf](ContinuousLearning/READINGLISTREPORT20260704.pdf) <small>(2026-07-04)</small>
-- [TIMETRACKINGREPORT20260814.pdf](ContinuousLearning/TIMETRACKINGREPORT20260814.pdf) <small>(2026-08-14)</small>
+- [READINGLISTREPORT20260824.pdf](ContinuousLearning/READINGLISTREPORT20260824.pdf) <small>(2026-08-24)</small>
+- [TIMETRACKINGREPORT20260824.pdf](ContinuousLearning/TIMETRACKINGREPORT20260824.pdf) <small>(2026-08-24)</small>
 
 ## Self-Improvement Status
 
