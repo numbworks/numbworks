@@ -81,6 +81,13 @@ I regularly publish the key analytics of this process in the reports below:
 
 `C#`, `NET Core`, `NET Standard`, `NUNit`,`SQL Server`, `PowerBi`, `TeamCity`, `Azure DevOps`, `Excel`, `VBA`, `Powershell`, `Ubuntu Server`, `Docker`, `MariaDB`, `NuGet Packages`, `SQLite`, `Proxmox VE`, `Jupyter Notebooks`, `Python 3.x`, `Pandas`, `ollama`, `LLM`, `RAG`, `DuckDB`, `AsciiDoc`, `Python Packages`.
 
-### Incoming
+## Recent Open-Source Contributions
 
-`Postgresql`, `Time-Series Analysis`, `AWS Architecture`, `Dotfiles`.
+I do occasionally contribute to open-source project developed by others:
+
+| Date | Type | Project | Title | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| 2026-02-09 | Bug Report | VSCode / dotnettools | ["ms-dotnettools.csdevkit" re-downloads .NET 9.x and 10.x every time the user rebuilds the devcontainer](https://github.com/microsoft/vscode-dotnettools/issues/2773) | Despite being an important architectural flaw, this hasn't passed the triage by a Microsoft employee. |
+| 2026-01-08 | Bug Report | Nuitka | [ModuleNotFoundError: No module named 'duckdb.duckdb.functional'; 'duckdb.duckdb' is not a package](https://github.com/Nuitka/Nuitka/issues/3719) | Bug fixed and code merged. |
+| 2025-05-11 | Feature Request | VSCode | [devcontainer.json: add support for multi-platform "localEnv" in "mounts"](https://github.com/microsoft/vscode-remote-release/issues/10945) | Voted by 10+ Github users and approved to the backlog, but no updates since then. |
+| 2024-09-23 | Feature Request | coveragepy | [Function and class coverage in "coverage report"](https://github.com/coveragepy/coveragepy/issues/1859) | The code to add this feature is ready but has not been merged. |
