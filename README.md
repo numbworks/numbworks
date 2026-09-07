@@ -6,7 +6,7 @@
 
 *​numbworks* is a solo side project of an experienced C# and Python backend developer who currently works as a Technical Product Manager in his 9-to-5 job.
 
-Contact: [Email](mailto:numbworks@gmail.com) | [Facebook](https://www.facebook.com/numbworks)
+Contact: [Email](mailto:numbworks@gmail.com) | [Facebook](https://www.facebook.com/numbworks)</br>
 Quick Links: [NuGet Profile](https://www.nuget.org/profiles/numbworks) | [Github Threads](https://github.com/search?q=is%3Aissue+commenter%3Anumbworks&type=issues&s=created&o=desc)
 
 ## Products
