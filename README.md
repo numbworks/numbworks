@@ -1,25 +1,26 @@
-## About Me
+## About *numbworks*
 
-I am a Back-End Developer (C# and Python) with over 10 years of professional experience, currently serving as a Technical Product Manager in my 9-to-5 job. I have a strong interest in Product Lifecycle and Data Analytics, which I cultivate both during and outside of work hours.
+*numbworks* is a non-profit startup focused on developing and releasing open-source software packages (multi-language libraries and cross-platform CLI applications) around several topics, such as data analytics, machine learning, continuous learning, local CI/CD, local AI and software metrics.
 
-Additionally, I actively develop and maintain open-source data-related applications under my "numbworks" brand. I also engage in regular upskilling sessions through my favorite learning medium: books. Recently, I achieved the significant milestone of studying over 384 technical books.
+​These packages are professionally developed according to a well-defined, quarterly product roadmap. They include high unit-test coverage (> 90%), up-to-date documentation, and heavy use of devcontainers to ensure deterministic, cross-platform and reproducible development environments.
 
-Detailed information about my tech stack and my continuous learning activity is meticulously kept up to date on my GitHub account, alongside my open-source software releases.
+*​numbworks* is a solo side project of an experienced C# and Python backend developer who currently works as a Technical Product Manager in his 9-to-5 job.
 
-Contact: [Email](mailto:numbworks@gmail.com) | [Facebook](https://www.facebook.com/numbworks) | [NuGet Profile](https://www.nuget.org/profiles/numbworks) | [Github Threads](https://github.com/search?q=is%3Aissue+commenter%3Anumbworks&type=issues&s=created&o=desc)
+Contact: [Email](mailto:numbworks@gmail.com) | [Facebook](https://www.facebook.com/numbworks)
+Quick Links: [NuGet Profile](https://www.nuget.org/profiles/numbworks) | [Github Threads](https://github.com/search?q=is%3Aissue+commenter%3Anumbworks&type=issues&s=created&o=desc)
 
-## Development
+## Products
 
 These products are designed for:
 
-- Developers who want to integrate my libraries into their applications
-- Data analysts who prefer using my libraries through a command‑line interface
-- Professionals dedicated to continuous learning
-- Researchers, data enthusiasts and open-source supporters
+- Developers who want to integrate my libraries into their applications.
+- Data analysts who prefer using my libraries through a command‑line interface.
+- Professionals dedicated to continuous learning.
+- Researchers, data enthusiasts and open-source supporters.
 
 For an easier download experience, please head to the [NW's Software Hub](https://numbworks.github.io).
 
-### Python → Libraries / CLI Applications / Jupyter Notebooks
+#### Python → Libraries / CLI Applications / Jupyter Notebooks
 
 | Repository | Effort | Tests | Latest Release | Download |
 |---|---|---|---|---|
@@ -30,7 +31,7 @@ For an easier download experience, please head to the [NW's Software Hub](https:
 | [nwversioninfofiles](https://github.com/numbworks/nwversioninfofiles) | 22 h | ![codecoverage-nwversioninfofiles.svg](https://raw.githubusercontent.com/numbworks/nwversioninfofiles/master/codecoverage-nwversioninfofiles.svg) <br/> ![codecoverage-nwversioninfofilescli.svg](https://raw.githubusercontent.com/numbworks/nwversioninfofiles/master/codecoverage-nwversioninfofilescli.svg) | `2.0.1 (2026-07-05)` | [Github Releases](https://github.com/numbworks/nwversioninfofiles/releases/tag/v2.0.1) <br/> [NW's Software Hub](https://numbworks.github.io/) | 
 | [nwdocstringchecking](https://github.com/numbworks/nwdocstringchecking) | 17 h | ![codecoverage-nwdocstringchecking.svg](https://raw.githubusercontent.com/numbworks/nwdocstringchecking/master/codecoverage-nwdocstringchecking.svg) <br/> ![codecoverage-nwdocstringcheckingcli.svg](https://raw.githubusercontent.com/numbworks/nwdocstringchecking/master/codecoverage-nwdocstringcheckingcli.svg) | `2.0.1 (2026-07-05)` | [Github Releases](https://github.com/numbworks/nwdocstringchecking/releases/tag/v2.0.1) <br/> [NW's Software Hub](https://numbworks.github.io/) |
 
-### C# → Libraries / CLI Applications
+#### C# → Libraries / CLI Applications
 
 | Repository | Effort | Tests | Latest Release | Download |
 |---|---|---|---|---|
@@ -48,42 +49,28 @@ The following libraries encapsulate shared logic used by other libraries and mig
 | [NW.Shared.Serialization (*)](https://github.com/numbworks/NW.Shared.Serialization) | 4 h | ![codecoverage_library.svg](https://raw.githubusercontent.com/numbworks/NW.Shared.Serialization/master/codecoverage_library.svg) | `1.0.0 (2024-02-13)` | [Github Releases](https://github.com/numbworks/NW.Shared.Serialization/releases/tag/v1.0.0) <br/> [NW's Software Hub](https://numbworks.github.io/) <br/> [NuGet (library)](https://www.nuget.org/packages/NW.Shared.Serialization/1.0.0) |
 | [NW.Shared.Validation (*)](https://github.com/numbworks/NW.Shared.Validation) | 3 h | ![codecoverage_library.svg](https://raw.githubusercontent.com/numbworks/NW.Shared.Validation/master/codecoverage_library.svg) | `1.0.0 (2024-02-10)` | [Github Releases](https://github.com/numbworks/NW.Shared.Validation/releases/tag/v1.0.0) <br/> [NW's Software Hub](https://numbworks.github.io/) <br/> [NuGet (library)](https://www.nuget.org/packages/NW.Shared.Validation/1.0.0) |
 
-### Other Projects
-
-#### Linux-related
+#### Other Artifacts
 
 | Repository | Effort | Type | Quick Links | Last Release |
 |---|---|---|---|---|
 | [i3_eink_config](https://github.com/numbworks/i3_eink_config) | - | Configuration File | [README](https://github.com/numbworks/i3_eink_config/blob/master/README.md) | 2020-12-22 |
-| [nwmakefiler](https://github.com/numbworks/nwmakefiler) | 18 h | Bash Script | [README](https://github.com/numbworks/nwmakefiler/blob/master/README.md) | 2025-08-24 |
 
-#### Pages
+## Additional Information
 
-- [DEBIANPRESEED.md](Pages/DEBIANPRESEED.md) <small>(2025-08-12)</small>
-- [SUPPORTCENTER.md](Pages/SUPPORTCENTER.md) <small>(2025-08-12)</small>
+#### Data-Driven Continuous Learning
 
-## Data-Driven Continuous Learning
+*nwtimetracking* and *nwreadinglist* have been developed from the ground up during a continuous learning journey that began in 2016. The goal was to prove that data-driven and software-aided methodologies could provide massive value and support. The development of both applications is ongoing, and the feature list will keep expanding. 
 
-Since 2016, I've embarked on a continuous learning journey, supported by a data-driven and software-aided methodology that has been developed by me from the ground up. 
-
-I regularly publish the key analytics of this process in the reports below:
+Below is an example of the outcomes of the latest versions of the two applications:
 
 - [READINGLISTREPORT20260824.pdf](ContinuousLearning/READINGLISTREPORT20260824.pdf) <small>(2026-08-24)</small>
 - [TIMETRACKINGREPORT20260824.pdf](ContinuousLearning/TIMETRACKINGREPORT20260824.pdf) <small>(2026-08-24)</small>
 
-## Self-Improvement Status
+So far, I studied <u>396</u> technical books using my own continuous learning methodology.
 
-### Areas of Expertise
+#### Recent Open-Source Contributions
 
-`Data`, `Data Analytics`, `Data Science`, `Machine Learning`, `Databases`, `Development`, `Software Usability`, `Clean Software Architecture`, `Clean Code`, `Design Patterns`, `(Parametric) Unit Testing`, `OOP`, `Dependency Injection`, `Single Responsability Principle`, `Console Applications`, `Services`, `CLIs`,`CI/CD`, `(Web) Scraping`, `REST APIs`, `Business Analysis`, `ETL Process`, `Star Schema`, `Data Warehouses`, `Product Management`, `Prompt Engineering`, `Automated documentation workflows`, `Debian Preseeding`.
-
-### Tech Stack
-
-`C#`, `NET Core`, `NET Standard`, `NUNit`,`SQL Server`, `PowerBi`, `TeamCity`, `Azure DevOps`, `Excel`, `VBA`, `Powershell`, `Ubuntu Server`, `Docker`, `MariaDB`, `NuGet Packages`, `SQLite`, `Proxmox VE`, `Jupyter Notebooks`, `Python 3.x`, `Pandas`, `ollama`, `LLM`, `RAG`, `DuckDB`, `AsciiDoc`, `Python Packages`.
-
-## Recent Open-Source Contributions
-
-I do occasionally contribute to open-source project developed by others:
+As *numbworks* I do occasionally contribute to open-source project developed by others as well:
 
 | Date | Type | Project | Title | Status |
 | :--- | :--- | :--- | :--- | :--- |
