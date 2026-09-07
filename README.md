@@ -66,7 +66,7 @@ Below is an example of the outcomes of the latest versions of the two applicatio
 - [READINGLISTREPORT20260824.pdf](ContinuousLearning/READINGLISTREPORT20260824.pdf) <small>(2026-08-24)</small>
 - [TIMETRACKINGREPORT20260824.pdf](ContinuousLearning/TIMETRACKINGREPORT20260824.pdf) <small>(2026-08-24)</small>
 
-So far, I studied <u>396</u> technical books using my own continuous learning methodology.
+So far, I studied <ins>396</ins> technical books using my own continuous learning methodology.
 
 #### Recent Open-Source Contributions
 
