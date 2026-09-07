@@ -2,7 +2,7 @@
 
 *numbworks* is a non-profit startup focused on developing and releasing open-source software packages (multi-language libraries and cross-platform CLI applications) around several topics, such as data analytics, machine learning, continuous learning, local CI/CD, local AI and software metrics.
 
-​These packages are professionally developed according to a well-defined, quarterly product roadmap. They include high unit-test coverage (> 90%), up-to-date documentation, and heavy use of devcontainers to ensure deterministic, cross-platform and reproducible development environments.
+​These packages are professionally developed according to a well-defined, quarterly product roadmap. They include high unit-test coverage (> 90%), up-to-date documentation, and heavy use of devcontainers to ensure deterministic, cross-platform and reproducible development environments. Cumulatively, these packages have reached over *53000* downloads so far.
 
 *​numbworks* is a solo side project of an experienced C# and Python backend developer who currently works as a Technical Product Manager in his 9-to-5 job.
 
