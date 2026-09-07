@@ -6,9 +6,6 @@
 
 *​numbworks* is a solo side project of an experienced C# and Python backend developer who currently works as a Technical Product Manager in his 9-to-5 job.
 
-Contact: [Email](mailto:numbworks@gmail.com) | [Facebook](https://www.facebook.com/numbworks)</br>
-Quick Links: [NuGet Profile](https://www.nuget.org/profiles/numbworks) | [Github Threads](https://github.com/search?q=is%3Aissue+commenter%3Anumbworks&type=issues&s=created&o=desc)
-
 ## Products
 
 These products are designed for:
@@ -70,7 +67,7 @@ So far, I studied <ins>396 technical books</ins> using my own continuous learnin
 
 #### Recent Open-Source Contributions
 
-As *numbworks* I do occasionally contribute to open-source project developed by others as well:
+As *numbworks* I do occasionally contribute to open-source project developed by others as well, such as:
 
 | Date | Type | Project | Title | Status |
 | :--- | :--- | :--- | :--- | :--- |
@@ -78,3 +75,5 @@ As *numbworks* I do occasionally contribute to open-source project developed by 
 | 2026-01-08 | Bug Report | Nuitka | [ModuleNotFoundError: No module named 'duckdb.duckdb.functional'; 'duckdb.duckdb' is not a package](https://github.com/Nuitka/Nuitka/issues/3719) | Bug fixed and code merged. |
 | 2025-05-11 | Feature Request | VSCode | [devcontainer.json: add support for multi-platform "localEnv" in "mounts"](https://github.com/microsoft/vscode-remote-release/issues/10945) | Voted by 10+ Github users and approved to the backlog, but no updates since then. |
 | 2024-09-23 | Feature Request | coveragepy | [Function and class coverage in "coverage report"](https://github.com/coveragepy/coveragepy/issues/1859) | The code to add this feature is ready but has not been merged. |
+
+All contributions: [Github Threads](https://github.com/search?q=is%3Aissue+commenter%3Anumbworks&type=issues&s=created&o=desc)
