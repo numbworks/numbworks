@@ -60,8 +60,8 @@ The following libraries encapsulate shared logic used by other libraries and mig
 
 Below is an example of the outcomes of the latest versions of the two applications:
 
-- [READINGLISTREPORT20260824.pdf](ContinuousLearning/READINGLISTREPORT20260824.pdf) <small>(2026-08-24)</small>
-- [TIMETRACKINGREPORT20260824.pdf](ContinuousLearning/TIMETRACKINGREPORT20260824.pdf) <small>(2026-08-24)</small>
+- [READINGLISTREPORT20261004.pdf](ContinuousLearning/READINGLISTREPORT20261004.pdf) <small>(2026-10-04)</small>
+- [TIMETRACKINGREPORT20261004.pdf](ContinuousLearning/TIMETRACKINGREPORT20261004.pdf) <small>(2026-10-04)</small>
 
 So far, I studied <ins>396 technical books</ins> using my own continuous learning methodology.
 
