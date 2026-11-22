@@ -61,10 +61,10 @@ The following libraries encapsulate shared logic used by other libraries and mig
 
 Below is an example of the outcomes of the latest versions of the two applications:
 
-- [READINGLISTREPORT20261109.pdf](ContinuousLearning/READINGLISTREPORT20261109.pdf) <small>(2026-11-09)</small>
-- [TIMETRACKINGREPORT20261109.pdf](ContinuousLearning/TIMETRACKINGREPORT20261109.pdf) <small>(2026-11-09)</small>
+- [READINGLISTREPORT20261122.pdf](ContinuousLearning/READINGLISTREPORT20261122.pdf) <small>(2026-11-22)</small>
+- [TIMETRACKINGREPORT20261122.pdf](ContinuousLearning/TIMETRACKINGREPORT20261122.pdf) <small>(2026-11-22)</small>
 
-So far, I studied <ins>411 technical books</ins> using my own continuous learning methodology.
+So far, I studied <ins>415 technical books</ins> using my own continuous learning methodology.
 
 #### Recent Open-Source Contributions
 
